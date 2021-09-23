@@ -7,5 +7,6 @@
     "website": "https://datawallet.com",
     "explorer": "https://etherscan.io/token/0x8dB54ca569D3019A2ba126D03C37c44b5eF81EF6",
     "status": "active",
-    "id": "0x8dB54ca569D3019A2ba126D03C37c44b5eF81EF6"
+    "id": "0x8dB54ca569D3019A2ba126D03C37c44b5eF81EF6",
+    "logo": "ipfs://QmVwPKfaYTWqcAVcTbVNMvc6arvq82cQoTCHd5xfQR87Vu/ethereum/assets/0x8dB54ca569D3019A2ba126D03C37c44b5eF81EF6/logo.png"
 }

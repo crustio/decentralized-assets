@@ -7,5 +7,6 @@
     "website": "https://bitcoinpro.money",
     "explorer": "https://etherscan.io/token/0x723CbfC05e2cfcc71d3d89e770D32801A5eEf5Ab",
     "status": "abandoned",
-    "id": "0x723CbfC05e2cfcc71d3d89e770D32801A5eEf5Ab"
+    "id": "0x723CbfC05e2cfcc71d3d89e770D32801A5eEf5Ab",
+    "logo": "ipfs://QmVwPKfaYTWqcAVcTbVNMvc6arvq82cQoTCHd5xfQR87Vu/ethereum/assets/0x723CbfC05e2cfcc71d3d89e770D32801A5eEf5Ab/logo.png"
 }

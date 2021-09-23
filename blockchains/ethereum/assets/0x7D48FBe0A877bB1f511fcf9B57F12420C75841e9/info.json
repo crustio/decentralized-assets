@@ -17,5 +17,6 @@
             "name": "coinmarketcap",
             "url": "https://coinmarketcap.com/currencies/door/"
         }
-    ]
+    ],
+    "logo": "ipfs://QmVwPKfaYTWqcAVcTbVNMvc6arvq82cQoTCHd5xfQR87Vu/ethereum/assets/0x7D48FBe0A877bB1f511fcf9B57F12420C75841e9/logo.png"
 }

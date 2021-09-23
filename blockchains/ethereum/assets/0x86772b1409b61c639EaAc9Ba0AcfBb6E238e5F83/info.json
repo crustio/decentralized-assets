@@ -8,5 +8,6 @@
     "symbol": "NDX",
     "decimals": 18,
     "status": "active",
-    "id": "0x86772b1409b61c639EaAc9Ba0AcfBb6E238e5F83"
+    "id": "0x86772b1409b61c639EaAc9Ba0AcfBb6E238e5F83",
+    "logo": "ipfs://QmVwPKfaYTWqcAVcTbVNMvc6arvq82cQoTCHd5xfQR87Vu/ethereum/assets/0x86772b1409b61c639EaAc9Ba0AcfBb6E238e5F83/logo.png"
 }

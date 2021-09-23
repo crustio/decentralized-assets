@@ -26,5 +26,6 @@
             "name": "coingecko",
             "url": "https://coingecko.com/en/coins/maker/"
         }
-    ]
+    ],
+    "logo": "ipfs://QmVwPKfaYTWqcAVcTbVNMvc6arvq82cQoTCHd5xfQR87Vu/ethereum/assets/0x9f8F72aA9304c8B593d555F12eF6589cC3A579A2/logo.png"
 }

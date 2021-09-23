@@ -7,5 +7,6 @@
     "symbol": "BTP",
     "decimals": 18,
     "status": "active",
-    "id": "0x5f038e82bB69b6A52FeC7A4A38163340b98fb1e4"
+    "id": "0x5f038e82bB69b6A52FeC7A4A38163340b98fb1e4",
+    "logo": "ipfs://QmVwPKfaYTWqcAVcTbVNMvc6arvq82cQoTCHd5xfQR87Vu/ethereum/assets/0x5f038e82bB69b6A52FeC7A4A38163340b98fb1e4/logo.png"
 }

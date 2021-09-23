@@ -29,5 +29,6 @@
             "name": "coinmarketcap",
             "url": "https://coinmarketcap.com/currencies/cover-protocol/"
         }
-    ]
+    ],
+    "logo": "ipfs://QmVwPKfaYTWqcAVcTbVNMvc6arvq82cQoTCHd5xfQR87Vu/ethereum/assets/0x5D8d9F5b96f4438195BE9b99eee6118Ed4304286/logo.png"
 }

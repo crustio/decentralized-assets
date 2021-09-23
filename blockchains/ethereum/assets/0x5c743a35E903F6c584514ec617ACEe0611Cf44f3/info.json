@@ -7,5 +7,6 @@
     "website": "https://www.experty.io/en?utm_source=coingecko&utm_medium=listing&utm_campaign=coingecko",
     "explorer": "https://etherscan.io/token/0x5c743a35E903F6c584514ec617ACEe0611Cf44f3",
     "status": "active",
-    "id": "0x5c743a35E903F6c584514ec617ACEe0611Cf44f3"
+    "id": "0x5c743a35E903F6c584514ec617ACEe0611Cf44f3",
+    "logo": "ipfs://QmVwPKfaYTWqcAVcTbVNMvc6arvq82cQoTCHd5xfQR87Vu/ethereum/assets/0x5c743a35E903F6c584514ec617ACEe0611Cf44f3/logo.png"
 }

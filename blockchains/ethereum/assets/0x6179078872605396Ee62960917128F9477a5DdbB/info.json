@@ -7,5 +7,6 @@
     "symbol": "aUniETH",
     "decimals": 18,
     "status": "active",
-    "id": "0x6179078872605396Ee62960917128F9477a5DdbB"
+    "id": "0x6179078872605396Ee62960917128F9477a5DdbB",
+    "logo": "ipfs://QmVwPKfaYTWqcAVcTbVNMvc6arvq82cQoTCHd5xfQR87Vu/ethereum/assets/0x6179078872605396Ee62960917128F9477a5DdbB/logo.png"
 }

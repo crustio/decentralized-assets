@@ -37,5 +37,6 @@
             "name": "coingecko",
             "url": "https://coingecko.com/en/coins/nexo/"
         }
-    ]
+    ],
+    "logo": "ipfs://QmVwPKfaYTWqcAVcTbVNMvc6arvq82cQoTCHd5xfQR87Vu/ethereum/assets/0xB62132e35a6c13ee1EE0f84dC5d40bad8d815206/logo.png"
 }

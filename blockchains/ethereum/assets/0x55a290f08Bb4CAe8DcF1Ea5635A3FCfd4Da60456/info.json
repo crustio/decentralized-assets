@@ -7,5 +7,6 @@
     "symbol": "BITTO",
     "decimals": 18,
     "status": "active",
-    "id": "0x55a290f08Bb4CAe8DcF1Ea5635A3FCfd4Da60456"
+    "id": "0x55a290f08Bb4CAe8DcF1Ea5635A3FCfd4Da60456",
+    "logo": "ipfs://QmVwPKfaYTWqcAVcTbVNMvc6arvq82cQoTCHd5xfQR87Vu/ethereum/assets/0x55a290f08Bb4CAe8DcF1Ea5635A3FCfd4Da60456/logo.png"
 }

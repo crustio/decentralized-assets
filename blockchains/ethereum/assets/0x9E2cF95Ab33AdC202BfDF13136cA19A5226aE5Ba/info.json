@@ -7,5 +7,6 @@
     "symbol": "STOCKSD",
     "decimals": 18,
     "status": "active",
-    "id": "0x9E2cF95Ab33AdC202BfDF13136cA19A5226aE5Ba"
+    "id": "0x9E2cF95Ab33AdC202BfDF13136cA19A5226aE5Ba",
+    "logo": "ipfs://QmVwPKfaYTWqcAVcTbVNMvc6arvq82cQoTCHd5xfQR87Vu/ethereum/assets/0x9E2cF95Ab33AdC202BfDF13136cA19A5226aE5Ba/logo.png"
 }

@@ -7,5 +7,6 @@
     "website": "https://dether.io",
     "explorer": "https://etherscan.io/token/0x5adc961D6AC3f7062D2eA45FEFB8D8167d44b190",
     "status": "active",
-    "id": "0x5adc961D6AC3f7062D2eA45FEFB8D8167d44b190"
+    "id": "0x5adc961D6AC3f7062D2eA45FEFB8D8167d44b190",
+    "logo": "ipfs://QmVwPKfaYTWqcAVcTbVNMvc6arvq82cQoTCHd5xfQR87Vu/ethereum/assets/0x5adc961D6AC3f7062D2eA45FEFB8D8167d44b190/logo.png"
 }

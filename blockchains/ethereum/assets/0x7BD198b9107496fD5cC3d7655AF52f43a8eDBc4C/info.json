@@ -7,5 +7,6 @@
     "symbol": "oneVBTC",
     "decimals": 9,
     "status": "active",
-    "id": "0x7BD198b9107496fD5cC3d7655AF52f43a8eDBc4C"
+    "id": "0x7BD198b9107496fD5cC3d7655AF52f43a8eDBc4C",
+    "logo": "ipfs://QmVwPKfaYTWqcAVcTbVNMvc6arvq82cQoTCHd5xfQR87Vu/ethereum/assets/0x7BD198b9107496fD5cC3d7655AF52f43a8eDBc4C/logo.png"
 }

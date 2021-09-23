@@ -38,5 +38,6 @@
             "name": "whitepaper",
             "url": "https://github.com/team-toast/foundry-design/releases/latest/download/foundry-design.pdf"
         }
-    ]
+    ],
+    "logo": "ipfs://QmVwPKfaYTWqcAVcTbVNMvc6arvq82cQoTCHd5xfQR87Vu/ethereum/assets/0x6c972b70c533E2E045F333Ee28b9fFb8D717bE69/logo.png"
 }

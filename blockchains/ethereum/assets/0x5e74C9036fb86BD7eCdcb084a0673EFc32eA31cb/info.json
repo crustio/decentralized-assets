@@ -7,5 +7,6 @@
     "website": "https://www.synthetix.io/",
     "explorer": "https://etherscan.io/token/0x5e74C9036fb86BD7eCdcb084a0673EFc32eA31cb",
     "status": "active",
-    "id": "0x5e74C9036fb86BD7eCdcb084a0673EFc32eA31cb"
+    "id": "0x5e74C9036fb86BD7eCdcb084a0673EFc32eA31cb",
+    "logo": "ipfs://QmVwPKfaYTWqcAVcTbVNMvc6arvq82cQoTCHd5xfQR87Vu/ethereum/assets/0x5e74C9036fb86BD7eCdcb084a0673EFc32eA31cb/logo.png"
 }

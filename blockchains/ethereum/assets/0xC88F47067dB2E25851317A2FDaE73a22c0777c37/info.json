@@ -7,5 +7,6 @@
     "symbol": "oneBTC",
     "decimals": 9,
     "status": "active",
-    "id": "0xC88F47067dB2E25851317A2FDaE73a22c0777c37"
+    "id": "0xC88F47067dB2E25851317A2FDaE73a22c0777c37",
+    "logo": "ipfs://QmVwPKfaYTWqcAVcTbVNMvc6arvq82cQoTCHd5xfQR87Vu/ethereum/assets/0xC88F47067dB2E25851317A2FDaE73a22c0777c37/logo.png"
 }

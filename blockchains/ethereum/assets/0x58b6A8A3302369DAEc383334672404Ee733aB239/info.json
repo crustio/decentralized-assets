@@ -33,5 +33,6 @@
             "name": "coingecko",
             "url": "https://coingecko.com/en/coins/livepeer/"
         }
-    ]
+    ],
+    "logo": "ipfs://QmVwPKfaYTWqcAVcTbVNMvc6arvq82cQoTCHd5xfQR87Vu/ethereum/assets/0x58b6A8A3302369DAEc383334672404Ee733aB239/logo.png"
 }

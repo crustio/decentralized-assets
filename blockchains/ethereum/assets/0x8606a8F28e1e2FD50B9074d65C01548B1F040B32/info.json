@@ -7,5 +7,6 @@
     "website": "https://cryptrust.io/platform",
     "explorer": "https://etherscan.io/token/0x8606a8F28e1e2FD50B9074d65C01548B1F040B32",
     "status": "abandoned",
-    "id": "0x8606a8F28e1e2FD50B9074d65C01548B1F040B32"
+    "id": "0x8606a8F28e1e2FD50B9074d65C01548B1F040B32",
+    "logo": "ipfs://QmVwPKfaYTWqcAVcTbVNMvc6arvq82cQoTCHd5xfQR87Vu/ethereum/assets/0x8606a8F28e1e2FD50B9074d65C01548B1F040B32/logo.png"
 }

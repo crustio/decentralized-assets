@@ -7,5 +7,6 @@
     "symbol": "ARCA",
     "decimals": 18,
     "status": "active",
-    "id": "0x62A6738d887F47e297676FaB05b902709B106C64"
+    "id": "0x62A6738d887F47e297676FaB05b902709B106C64",
+    "logo": "ipfs://QmVwPKfaYTWqcAVcTbVNMvc6arvq82cQoTCHd5xfQR87Vu/ethereum/assets/0x62A6738d887F47e297676FaB05b902709B106C64/logo.png"
 }

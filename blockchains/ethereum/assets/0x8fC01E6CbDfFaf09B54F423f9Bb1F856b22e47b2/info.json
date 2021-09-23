@@ -7,5 +7,6 @@
     "website": "https://www.obitanchain.org",
     "explorer": "https://etherscan.io/token/0x8fC01E6CbDfFaf09B54F423f9Bb1F856b22e47b2",
     "status": "abandoned",
-    "id": "0x8fC01E6CbDfFaf09B54F423f9Bb1F856b22e47b2"
+    "id": "0x8fC01E6CbDfFaf09B54F423f9Bb1F856b22e47b2",
+    "logo": "ipfs://QmVwPKfaYTWqcAVcTbVNMvc6arvq82cQoTCHd5xfQR87Vu/ethereum/assets/0x8fC01E6CbDfFaf09B54F423f9Bb1F856b22e47b2/logo.png"
 }

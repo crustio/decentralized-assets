@@ -7,5 +7,6 @@
     "website": "https://www.tokensets.com/set/btcminvol",
     "explorer": "https://etherscan.io/token/0x81c55017F7Ce6E72451cEd49FF7bAB1e3DF64d0C",
     "status": "abandoned",
-    "id": "0x81c55017F7Ce6E72451cEd49FF7bAB1e3DF64d0C"
+    "id": "0x81c55017F7Ce6E72451cEd49FF7bAB1e3DF64d0C",
+    "logo": "ipfs://QmVwPKfaYTWqcAVcTbVNMvc6arvq82cQoTCHd5xfQR87Vu/ethereum/assets/0x81c55017F7Ce6E72451cEd49FF7bAB1e3DF64d0C/logo.png"
 }

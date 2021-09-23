@@ -7,5 +7,6 @@
     "website": "https://wikitoken.bitcoinwiki.org/",
     "explorer": "https://etherscan.io/token/0x66BaD545596fb17a0B4ebDC003a85dEF10E8F6Ae",
     "status": "abandoned",
-    "id": "0x66BaD545596fb17a0B4ebDC003a85dEF10E8F6Ae"
+    "id": "0x66BaD545596fb17a0B4ebDC003a85dEF10E8F6Ae",
+    "logo": "ipfs://QmVwPKfaYTWqcAVcTbVNMvc6arvq82cQoTCHd5xfQR87Vu/ethereum/assets/0x66BaD545596fb17a0B4ebDC003a85dEF10E8F6Ae/logo.png"
 }

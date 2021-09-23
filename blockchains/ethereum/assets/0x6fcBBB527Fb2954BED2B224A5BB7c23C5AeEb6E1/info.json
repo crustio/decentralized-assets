@@ -7,5 +7,6 @@
     "symbol": "oneETH",
     "decimals": 9,
     "status": "abandoned",
-    "id": "0x6fcBBB527Fb2954BED2B224A5BB7c23C5AeEb6E1"
+    "id": "0x6fcBBB527Fb2954BED2B224A5BB7c23C5AeEb6E1",
+    "logo": "ipfs://QmVwPKfaYTWqcAVcTbVNMvc6arvq82cQoTCHd5xfQR87Vu/ethereum/assets/0x6fcBBB527Fb2954BED2B224A5BB7c23C5AeEb6E1/logo.png"
 }

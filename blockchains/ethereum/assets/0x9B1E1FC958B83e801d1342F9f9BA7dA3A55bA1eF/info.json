@@ -7,5 +7,6 @@
     "website": "https://www.tronipaycard.com",
     "explorer": "https://etherscan.io/token/0x9B1E1FC958B83e801d1342F9f9BA7dA3A55bA1eF",
     "status": "abandoned",
-    "id": "0x9B1E1FC958B83e801d1342F9f9BA7dA3A55bA1eF"
+    "id": "0x9B1E1FC958B83e801d1342F9f9BA7dA3A55bA1eF",
+    "logo": "ipfs://QmVwPKfaYTWqcAVcTbVNMvc6arvq82cQoTCHd5xfQR87Vu/ethereum/assets/0x9B1E1FC958B83e801d1342F9f9BA7dA3A55bA1eF/logo.png"
 }

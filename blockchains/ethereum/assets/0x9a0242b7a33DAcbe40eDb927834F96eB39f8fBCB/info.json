@@ -7,5 +7,6 @@
     "symbol": "BAX",
     "decimals": 18,
     "status": "active",
-    "id": "0x9a0242b7a33DAcbe40eDb927834F96eB39f8fBCB"
+    "id": "0x9a0242b7a33DAcbe40eDb927834F96eB39f8fBCB",
+    "logo": "ipfs://QmVwPKfaYTWqcAVcTbVNMvc6arvq82cQoTCHd5xfQR87Vu/ethereum/assets/0x9a0242b7a33DAcbe40eDb927834F96eB39f8fBCB/logo.png"
 }

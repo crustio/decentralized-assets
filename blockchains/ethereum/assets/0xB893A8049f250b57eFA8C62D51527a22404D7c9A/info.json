@@ -49,5 +49,6 @@
             "name": "coingecko",
             "url": "https://coingecko.com/en/coins/american-shiba"
         }
-    ]
+    ],
+    "logo": "ipfs://QmVwPKfaYTWqcAVcTbVNMvc6arvq82cQoTCHd5xfQR87Vu/ethereum/assets/0xB893A8049f250b57eFA8C62D51527a22404D7c9A/logo.png"
 }

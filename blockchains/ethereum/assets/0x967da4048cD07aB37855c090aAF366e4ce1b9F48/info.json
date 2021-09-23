@@ -34,5 +34,6 @@
             "name": "coingecko",
             "url": "https://coingecko.com/en/coins/ocean-protocol/"
         }
-    ]
+    ],
+    "logo": "ipfs://QmVwPKfaYTWqcAVcTbVNMvc6arvq82cQoTCHd5xfQR87Vu/ethereum/assets/0x967da4048cD07aB37855c090aAF366e4ce1b9F48/logo.png"
 }

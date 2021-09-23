@@ -26,5 +26,6 @@
             "name": "coingecko",
             "url": "https://coingecko.com/en/coins/ankr/"
         }
-    ]
+    ],
+    "logo": "ipfs://QmVwPKfaYTWqcAVcTbVNMvc6arvq82cQoTCHd5xfQR87Vu/ethereum/assets/0x8290333ceF9e6D528dD5618Fb97a76f268f3EDD4/logo.png"
 }

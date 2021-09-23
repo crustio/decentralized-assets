@@ -7,5 +7,6 @@
     "symbol": "INSUR",
     "decimals": 18,
     "status": "active",
-    "id": "0x544c42fBB96B39B21DF61cf322b5EDC285EE7429"
+    "id": "0x544c42fBB96B39B21DF61cf322b5EDC285EE7429",
+    "logo": "ipfs://QmVwPKfaYTWqcAVcTbVNMvc6arvq82cQoTCHd5xfQR87Vu/ethereum/assets/0x544c42fBB96B39B21DF61cf322b5EDC285EE7429/logo.png"
 }

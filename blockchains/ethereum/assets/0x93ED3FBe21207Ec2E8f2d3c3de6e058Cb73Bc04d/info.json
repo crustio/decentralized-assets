@@ -7,5 +7,6 @@
     "website": "https://kleros.io",
     "explorer": "https://etherscan.io/token/0x93ED3FBe21207Ec2E8f2d3c3de6e058Cb73Bc04d",
     "status": "active",
-    "id": "0x93ED3FBe21207Ec2E8f2d3c3de6e058Cb73Bc04d"
+    "id": "0x93ED3FBe21207Ec2E8f2d3c3de6e058Cb73Bc04d",
+    "logo": "ipfs://QmVwPKfaYTWqcAVcTbVNMvc6arvq82cQoTCHd5xfQR87Vu/ethereum/assets/0x93ED3FBe21207Ec2E8f2d3c3de6e058Cb73Bc04d/logo.png"
 }

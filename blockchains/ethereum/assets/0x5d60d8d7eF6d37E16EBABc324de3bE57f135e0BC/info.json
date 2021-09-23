@@ -7,5 +7,6 @@
     "website": "https://mybit.io/",
     "explorer": "https://etherscan.io/token/0x5d60d8d7eF6d37E16EBABc324de3bE57f135e0BC",
     "status": "active",
-    "id": "0x5d60d8d7eF6d37E16EBABc324de3bE57f135e0BC"
+    "id": "0x5d60d8d7eF6d37E16EBABc324de3bE57f135e0BC",
+    "logo": "ipfs://QmVwPKfaYTWqcAVcTbVNMvc6arvq82cQoTCHd5xfQR87Vu/ethereum/assets/0x5d60d8d7eF6d37E16EBABc324de3bE57f135e0BC/logo.png"
 }

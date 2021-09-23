@@ -7,5 +7,6 @@
     "website": "https://www.goldmint.io/",
     "explorer": "https://etherscan.io/token/0x83cee9e086A77e492eE0bB93C2B0437aD6fdECCc",
     "status": "abandoned",
-    "id": "0x83cee9e086A77e492eE0bB93C2B0437aD6fdECCc"
+    "id": "0x83cee9e086A77e492eE0bB93C2B0437aD6fdECCc",
+    "logo": "ipfs://QmVwPKfaYTWqcAVcTbVNMvc6arvq82cQoTCHd5xfQR87Vu/ethereum/assets/0x83cee9e086A77e492eE0bB93C2B0437aD6fdECCc/logo.png"
 }

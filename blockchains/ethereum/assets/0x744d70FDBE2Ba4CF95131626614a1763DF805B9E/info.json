@@ -33,5 +33,6 @@
             "name": "coingecko",
             "url": "https://coingecko.com/en/coins/status/"
         }
-    ]
+    ],
+    "logo": "ipfs://QmVwPKfaYTWqcAVcTbVNMvc6arvq82cQoTCHd5xfQR87Vu/ethereum/assets/0x744d70FDBE2Ba4CF95131626614a1763DF805B9E/logo.png"
 }

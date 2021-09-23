@@ -7,5 +7,6 @@
     "description": "The utility token in the 0x_nodes ecosystem.",
     "explorer": "https://etherscan.io/token/0xAACa86B876ca011844b5798ECA7a67591A9743C8",
     "status": "active",
-    "id": "0xAACa86B876ca011844b5798ECA7a67591A9743C8"
+    "id": "0xAACa86B876ca011844b5798ECA7a67591A9743C8",
+    "logo": "ipfs://QmVwPKfaYTWqcAVcTbVNMvc6arvq82cQoTCHd5xfQR87Vu/ethereum/assets/0xAACa86B876ca011844b5798ECA7a67591A9743C8/logo.png"
 }

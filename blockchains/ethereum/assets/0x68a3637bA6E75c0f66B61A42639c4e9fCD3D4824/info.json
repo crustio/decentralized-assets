@@ -7,5 +7,6 @@
     "symbol": "MOON",
     "decimals": 18,
     "status": "active",
-    "id": "0x68a3637bA6E75c0f66B61A42639c4e9fCD3D4824"
+    "id": "0x68a3637bA6E75c0f66B61A42639c4e9fCD3D4824",
+    "logo": "ipfs://QmVwPKfaYTWqcAVcTbVNMvc6arvq82cQoTCHd5xfQR87Vu/ethereum/assets/0x68a3637bA6E75c0f66B61A42639c4e9fCD3D4824/logo.png"
 }

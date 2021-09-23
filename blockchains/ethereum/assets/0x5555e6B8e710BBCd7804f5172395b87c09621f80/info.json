@@ -7,5 +7,6 @@
     "symbol": "DHT",
     "decimals": 18,
     "status": "active",
-    "id": "0x5555e6B8e710BBCd7804f5172395b87c09621f80"
+    "id": "0x5555e6B8e710BBCd7804f5172395b87c09621f80",
+    "logo": "ipfs://QmVwPKfaYTWqcAVcTbVNMvc6arvq82cQoTCHd5xfQR87Vu/ethereum/assets/0x5555e6B8e710BBCd7804f5172395b87c09621f80/logo.png"
 }

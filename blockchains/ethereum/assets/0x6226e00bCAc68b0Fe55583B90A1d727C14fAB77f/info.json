@@ -57,5 +57,6 @@
             "name": "coingecko",
             "url": "https://coingecko.com/en/coins/multivac"
         }
-    ]
+    ],
+    "logo": "ipfs://QmVwPKfaYTWqcAVcTbVNMvc6arvq82cQoTCHd5xfQR87Vu/ethereum/assets/0x6226e00bCAc68b0Fe55583B90A1d727C14fAB77f/logo.png"
 }

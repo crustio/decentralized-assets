@@ -7,5 +7,6 @@
     "website": "https://global.intercoin.org/",
     "explorer": "https://etherscan.io/token/0x6Ef5febbD2A56FAb23f18a69d3fB9F4E2A70440B",
     "status": "active",
-    "id": "0x6Ef5febbD2A56FAb23f18a69d3fB9F4E2A70440B"
+    "id": "0x6Ef5febbD2A56FAb23f18a69d3fB9F4E2A70440B",
+    "logo": "ipfs://QmVwPKfaYTWqcAVcTbVNMvc6arvq82cQoTCHd5xfQR87Vu/ethereum/assets/0x6Ef5febbD2A56FAb23f18a69d3fB9F4E2A70440B/logo.png"
 }

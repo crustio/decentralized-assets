@@ -8,5 +8,6 @@
     "symbol": "LQTY",
     "decimals": 18,
     "status": "active",
-    "id": "0x6DEA81C8171D0bA574754EF6F8b412F2Ed88c54D"
+    "id": "0x6DEA81C8171D0bA574754EF6F8b412F2Ed88c54D",
+    "logo": "ipfs://QmVwPKfaYTWqcAVcTbVNMvc6arvq82cQoTCHd5xfQR87Vu/ethereum/assets/0x6DEA81C8171D0bA574754EF6F8b412F2Ed88c54D/logo.png"
 }

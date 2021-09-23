@@ -33,5 +33,6 @@
             "name": "coingecko",
             "url": "https://coingecko.com/en/coins/ethos/"
         }
-    ]
+    ],
+    "logo": "ipfs://QmVwPKfaYTWqcAVcTbVNMvc6arvq82cQoTCHd5xfQR87Vu/ethereum/assets/0x5Af2Be193a6ABCa9c8817001F45744777Db30756/logo.png"
 }

@@ -7,5 +7,6 @@
     "website": "https://ethorse.com/",
     "explorer": "https://etherscan.io/token/0x5B0751713b2527d7f002c0c4e2a37e1219610A6B",
     "status": "abandoned",
-    "id": "0x5B0751713b2527d7f002c0c4e2a37e1219610A6B"
+    "id": "0x5B0751713b2527d7f002c0c4e2a37e1219610A6B",
+    "logo": "ipfs://QmVwPKfaYTWqcAVcTbVNMvc6arvq82cQoTCHd5xfQR87Vu/ethereum/assets/0x5B0751713b2527d7f002c0c4e2a37e1219610A6B/logo.png"
 }

@@ -29,5 +29,6 @@
             "name": "whitepaper",
             "url": "https://krios-test.s3.amazonaws.com/image_1565724128958.pdf"
         }
-    ]
+    ],
+    "logo": "ipfs://QmVwPKfaYTWqcAVcTbVNMvc6arvq82cQoTCHd5xfQR87Vu/ethereum/assets/0x838d8e11B160deC88Fe62BF0f743FB7000941e13/logo.png"
 }

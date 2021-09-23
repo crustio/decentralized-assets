@@ -25,5 +25,6 @@
             "name": "coingecko",
             "url": "https://coingecko.com/en/coins/alien-worlds/"
         }
-    ]
+    ],
+    "logo": "ipfs://QmVwPKfaYTWqcAVcTbVNMvc6arvq82cQoTCHd5xfQR87Vu/ethereum/assets/0x888888848B652B3E3a0f34c96E00EEC0F3a23F72/logo.png"
 }

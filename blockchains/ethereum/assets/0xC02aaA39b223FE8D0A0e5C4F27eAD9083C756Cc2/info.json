@@ -7,5 +7,6 @@
     "website": "https://weth.io/",
     "explorer": "https://etherscan.io/token/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
     "status": "active",
-    "id": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2"
+    "id": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+    "logo": "ipfs://QmVwPKfaYTWqcAVcTbVNMvc6arvq82cQoTCHd5xfQR87Vu/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png"
 }

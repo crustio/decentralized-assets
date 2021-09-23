@@ -7,5 +7,6 @@
     "website": "https://coinmeet.io/",
     "explorer": "https://etherscan.io/token/0x7f121d4EC6c2C07eB6BC7989d91d2d4fF654c068",
     "status": "active",
-    "id": "0x7f121d4EC6c2C07eB6BC7989d91d2d4fF654c068"
+    "id": "0x7f121d4EC6c2C07eB6BC7989d91d2d4fF654c068",
+    "logo": "ipfs://QmVwPKfaYTWqcAVcTbVNMvc6arvq82cQoTCHd5xfQR87Vu/ethereum/assets/0x7f121d4EC6c2C07eB6BC7989d91d2d4fF654c068/logo.png"
 }

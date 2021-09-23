@@ -8,5 +8,6 @@
     "symbol": "LUSD",
     "decimals": 18,
     "status": "active",
-    "id": "0x5f98805A4E8be255a32880FDeC7F6728C6568bA0"
+    "id": "0x5f98805A4E8be255a32880FDeC7F6728C6568bA0",
+    "logo": "ipfs://QmVwPKfaYTWqcAVcTbVNMvc6arvq82cQoTCHd5xfQR87Vu/ethereum/assets/0x5f98805A4E8be255a32880FDeC7F6728C6568bA0/logo.png"
 }

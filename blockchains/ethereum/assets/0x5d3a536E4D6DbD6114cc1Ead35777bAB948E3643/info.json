@@ -7,5 +7,6 @@
     "website": "https://compound.finance/",
     "explorer": "https://etherscan.io/token/0x5d3a536E4D6DbD6114cc1Ead35777bAB948E3643",
     "status": "active",
-    "id": "0x5d3a536E4D6DbD6114cc1Ead35777bAB948E3643"
+    "id": "0x5d3a536E4D6DbD6114cc1Ead35777bAB948E3643",
+    "logo": "ipfs://QmVwPKfaYTWqcAVcTbVNMvc6arvq82cQoTCHd5xfQR87Vu/ethereum/assets/0x5d3a536E4D6DbD6114cc1Ead35777bAB948E3643/logo.png"
 }

@@ -7,5 +7,6 @@
     "description": "The stablecoin created by Fei Protocol",
     "explorer": "https://etherscan.io/token/0x956F47F50A910163D8BF957Cf5846D573E7f87CA",
     "status": "active",
-    "id": "0x956F47F50A910163D8BF957Cf5846D573E7f87CA"
+    "id": "0x956F47F50A910163D8BF957Cf5846D573E7f87CA",
+    "logo": "ipfs://QmVwPKfaYTWqcAVcTbVNMvc6arvq82cQoTCHd5xfQR87Vu/ethereum/assets/0x956F47F50A910163D8BF957Cf5846D573E7f87CA/logo.png"
 }

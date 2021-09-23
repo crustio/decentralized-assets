@@ -30,5 +30,6 @@
             "name": "coingecko",
             "url": "https://coingecko.com/en/coins/reserve-rights-token/"
         }
-    ]
+    ],
+    "logo": "ipfs://QmVwPKfaYTWqcAVcTbVNMvc6arvq82cQoTCHd5xfQR87Vu/ethereum/assets/0x8762db106B2c2A0bccB3A80d1Ed41273552616E8/logo.png"
 }

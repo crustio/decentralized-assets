@@ -41,5 +41,6 @@
             "name": "source_code",
             "url": "https://etherscan.io/address/0xac8e13ecc30da7ff04b842f21a62a1fb0f10ebd5#code"
         }
-    ]
+    ],
+    "logo": "ipfs://QmVwPKfaYTWqcAVcTbVNMvc6arvq82cQoTCHd5xfQR87Vu/ethereum/assets/0xAC8E13ecC30Da7Ff04b842f21A62a1fb0f10eBd5/logo.png"
 }

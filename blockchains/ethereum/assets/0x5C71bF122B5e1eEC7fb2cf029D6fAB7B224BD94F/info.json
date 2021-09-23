@@ -7,5 +7,6 @@
     "symbol": "xUSD",
     "decimals": 18,
     "status": "active",
-    "id": "0x5C71bF122B5e1eEC7fb2cf029D6fAB7B224BD94F"
+    "id": "0x5C71bF122B5e1eEC7fb2cf029D6fAB7B224BD94F",
+    "logo": "ipfs://QmVwPKfaYTWqcAVcTbVNMvc6arvq82cQoTCHd5xfQR87Vu/ethereum/assets/0x5C71bF122B5e1eEC7fb2cf029D6fAB7B224BD94F/logo.png"
 }

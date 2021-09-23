@@ -7,5 +7,6 @@
     "website": "https://www.evedo.co",
     "explorer": "https://etherscan.io/token/0x5aaEFe84E0fB3DD1f0fCfF6fA7468124986B91bd",
     "status": "active",
-    "id": "0x5aaEFe84E0fB3DD1f0fCfF6fA7468124986B91bd"
+    "id": "0x5aaEFe84E0fB3DD1f0fCfF6fA7468124986B91bd",
+    "logo": "ipfs://QmVwPKfaYTWqcAVcTbVNMvc6arvq82cQoTCHd5xfQR87Vu/ethereum/assets/0x5aaEFe84E0fB3DD1f0fCfF6fA7468124986B91bd/logo.png"
 }

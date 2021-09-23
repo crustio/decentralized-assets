@@ -33,5 +33,6 @@
             "name": "coingecko",
             "url": "https://coingecko.com/en/coins/gnosis/"
         }
-    ]
+    ],
+    "logo": "ipfs://QmVwPKfaYTWqcAVcTbVNMvc6arvq82cQoTCHd5xfQR87Vu/ethereum/assets/0x6810e776880C02933D47DB1b9fc05908e5386b96/logo.png"
 }

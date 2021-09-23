@@ -7,5 +7,6 @@
     "website": "http://evencoin.io",
     "explorer": "https://etherscan.io/token/0x68909e586eeAC8F47315e84B4c9788DD54Ef65Bb",
     "status": "abandoned",
-    "id": "0x68909e586eeAC8F47315e84B4c9788DD54Ef65Bb"
+    "id": "0x68909e586eeAC8F47315e84B4c9788DD54Ef65Bb",
+    "logo": "ipfs://QmVwPKfaYTWqcAVcTbVNMvc6arvq82cQoTCHd5xfQR87Vu/ethereum/assets/0x68909e586eeAC8F47315e84B4c9788DD54Ef65Bb/logo.png"
 }

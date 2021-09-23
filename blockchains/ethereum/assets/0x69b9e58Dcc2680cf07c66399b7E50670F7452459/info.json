@@ -7,5 +7,6 @@
     "symbol": "COIN",
     "decimals": 18,
     "status": "active",
-    "id": "0x69b9e58Dcc2680cf07c66399b7E50670F7452459"
+    "id": "0x69b9e58Dcc2680cf07c66399b7E50670F7452459",
+    "logo": "ipfs://QmVwPKfaYTWqcAVcTbVNMvc6arvq82cQoTCHd5xfQR87Vu/ethereum/assets/0x69b9e58Dcc2680cf07c66399b7E50670F7452459/logo.png"
 }

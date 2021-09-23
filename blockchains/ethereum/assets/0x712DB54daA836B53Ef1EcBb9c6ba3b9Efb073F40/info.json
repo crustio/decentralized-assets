@@ -7,5 +7,6 @@
     "website": "https://aave.com",
     "explorer": "https://etherscan.io/token/0x712DB54daA836B53Ef1EcBb9c6ba3b9Efb073F40",
     "status": "active",
-    "id": "0x712DB54daA836B53Ef1EcBb9c6ba3b9Efb073F40"
+    "id": "0x712DB54daA836B53Ef1EcBb9c6ba3b9Efb073F40",
+    "logo": "ipfs://QmVwPKfaYTWqcAVcTbVNMvc6arvq82cQoTCHd5xfQR87Vu/ethereum/assets/0x712DB54daA836B53Ef1EcBb9c6ba3b9Efb073F40/logo.png"
 }

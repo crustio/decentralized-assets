@@ -7,5 +7,6 @@
     "symbol": "BAKER",
     "decimals": 18,
     "status": "active",
-    "id": "0x9aF7c46A4ebdfB1e11B5F94196C288c885F37bCD"
+    "id": "0x9aF7c46A4ebdfB1e11B5F94196C288c885F37bCD",
+    "logo": "ipfs://QmVwPKfaYTWqcAVcTbVNMvc6arvq82cQoTCHd5xfQR87Vu/ethereum/assets/0x9aF7c46A4ebdfB1e11B5F94196C288c885F37bCD/logo.png"
 }

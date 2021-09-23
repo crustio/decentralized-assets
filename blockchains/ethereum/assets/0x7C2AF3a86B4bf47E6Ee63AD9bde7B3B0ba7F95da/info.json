@@ -7,5 +7,6 @@
     "website": "http://ecoball.org/#/home",
     "explorer": "https://etherscan.io/token/0x7C2AF3a86B4bf47E6Ee63AD9bde7B3B0ba7F95da",
     "status": "abandoned",
-    "id": "0x7C2AF3a86B4bf47E6Ee63AD9bde7B3B0ba7F95da"
+    "id": "0x7C2AF3a86B4bf47E6Ee63AD9bde7B3B0ba7F95da",
+    "logo": "ipfs://QmVwPKfaYTWqcAVcTbVNMvc6arvq82cQoTCHd5xfQR87Vu/ethereum/assets/0x7C2AF3a86B4bf47E6Ee63AD9bde7B3B0ba7F95da/logo.png"
 }

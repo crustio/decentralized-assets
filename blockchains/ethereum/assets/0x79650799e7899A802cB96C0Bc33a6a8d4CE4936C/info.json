@@ -7,5 +7,6 @@
     "website": "https://www.aichain.me",
     "explorer": "https://etherscan.io/token/0x79650799e7899A802cB96C0Bc33a6a8d4CE4936C",
     "status": "active",
-    "id": "0x79650799e7899A802cB96C0Bc33a6a8d4CE4936C"
+    "id": "0x79650799e7899A802cB96C0Bc33a6a8d4CE4936C",
+    "logo": "ipfs://QmVwPKfaYTWqcAVcTbVNMvc6arvq82cQoTCHd5xfQR87Vu/ethereum/assets/0x79650799e7899A802cB96C0Bc33a6a8d4CE4936C/logo.png"
 }

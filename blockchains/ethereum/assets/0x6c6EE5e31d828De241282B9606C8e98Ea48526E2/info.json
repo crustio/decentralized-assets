@@ -41,5 +41,6 @@
             "name": "coingecko",
             "url": "https://coingecko.com/en/coins/holotoken/"
         }
-    ]
+    ],
+    "logo": "ipfs://QmVwPKfaYTWqcAVcTbVNMvc6arvq82cQoTCHd5xfQR87Vu/ethereum/assets/0x6c6EE5e31d828De241282B9606C8e98Ea48526E2/logo.png"
 }
