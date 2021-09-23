@@ -29,5 +29,6 @@
             "name": "coinmarketcap",
             "url": "https://coinmarketcap.com/currencies/kaby-arena/"
         }
-    ]
+    ],
+    "logo": "ipfs://QmVwPKfaYTWqcAVcTbVNMvc6arvq82cQoTCHd5xfQR87Vu/smartchain/assets/0x02A40C048eE2607B5f5606e445CFc3633Fb20b58/logo.png"
 }

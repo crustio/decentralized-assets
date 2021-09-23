@@ -8,5 +8,6 @@
     "symbol": "SPAZ",
     "decimals": 8,
     "status": "active",
-    "id": "0x37109a51e712471Bd2C72d8D70718627e7fF0032"
+    "id": "0x37109a51e712471Bd2C72d8D70718627e7fF0032",
+    "logo": "ipfs://QmVwPKfaYTWqcAVcTbVNMvc6arvq82cQoTCHd5xfQR87Vu/smartchain/assets/0x37109a51e712471Bd2C72d8D70718627e7fF0032/logo.png"
 }

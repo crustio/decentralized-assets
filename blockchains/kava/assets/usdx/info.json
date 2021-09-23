@@ -7,5 +7,6 @@
     "website": "",
     "explorer": "https://www.mintscan.io/kava",
     "status": "active",
-    "id": "usdx"
+    "id": "usdx",
+    "logo": "ipfs://QmVwPKfaYTWqcAVcTbVNMvc6arvq82cQoTCHd5xfQR87Vu/kava/assets/usdx/logo.png"
 }

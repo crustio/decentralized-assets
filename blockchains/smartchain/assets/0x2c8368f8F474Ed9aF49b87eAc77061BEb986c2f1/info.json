@@ -37,5 +37,6 @@
             "name": "coinmarketcap",
             "url": "https://coinmarketcap.com/currencies/leonicorn-swap/"
         }
-    ]
+    ],
+    "logo": "ipfs://QmVwPKfaYTWqcAVcTbVNMvc6arvq82cQoTCHd5xfQR87Vu/smartchain/assets/0x2c8368f8F474Ed9aF49b87eAc77061BEb986c2f1/logo.png"
 }

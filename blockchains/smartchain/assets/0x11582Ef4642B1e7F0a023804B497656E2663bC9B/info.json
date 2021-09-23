@@ -25,5 +25,6 @@
             "name": "coinmarketcap",
             "url": "https://coinmarketcap.com/currencies/kccpad/"
         }
-    ]
+    ],
+    "logo": "ipfs://QmVwPKfaYTWqcAVcTbVNMvc6arvq82cQoTCHd5xfQR87Vu/smartchain/assets/0x11582Ef4642B1e7F0a023804B497656E2663bC9B/logo.png"
 }

@@ -7,5 +7,6 @@
     "symbol": "LEV",
     "decimals": 18,
     "status": "active",
-    "id": "0x304c62b5B030176F8d328d3A01FEaB632FC929BA"
+    "id": "0x304c62b5B030176F8d328d3A01FEaB632FC929BA",
+    "logo": "ipfs://QmVwPKfaYTWqcAVcTbVNMvc6arvq82cQoTCHd5xfQR87Vu/smartchain/assets/0x304c62b5B030176F8d328d3A01FEaB632FC929BA/logo.png"
 }

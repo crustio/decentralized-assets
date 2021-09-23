@@ -7,5 +7,6 @@
     "website": "https://nanjcoin.com/",
     "explorer": "https://etherscan.io/token/0xFFE02ee4C69eDf1b340fCaD64fbd6b37a7b9e265",
     "status": "active",
-    "id": "0xFFE02ee4C69eDf1b340fCaD64fbd6b37a7b9e265"
+    "id": "0xFFE02ee4C69eDf1b340fCaD64fbd6b37a7b9e265",
+    "logo": "ipfs://QmVwPKfaYTWqcAVcTbVNMvc6arvq82cQoTCHd5xfQR87Vu/ethereum/assets/0xFFE02ee4C69eDf1b340fCaD64fbd6b37a7b9e265/logo.png"
 }

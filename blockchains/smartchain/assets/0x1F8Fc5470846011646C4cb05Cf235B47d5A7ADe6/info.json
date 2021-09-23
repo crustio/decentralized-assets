@@ -7,5 +7,6 @@
     "symbol": "BULL",
     "decimals": 9,
     "status": "active",
-    "id": "0x1F8Fc5470846011646C4cb05Cf235B47d5A7ADe6"
+    "id": "0x1F8Fc5470846011646C4cb05Cf235B47d5A7ADe6",
+    "logo": "ipfs://QmVwPKfaYTWqcAVcTbVNMvc6arvq82cQoTCHd5xfQR87Vu/smartchain/assets/0x1F8Fc5470846011646C4cb05Cf235B47d5A7ADe6/logo.png"
 }

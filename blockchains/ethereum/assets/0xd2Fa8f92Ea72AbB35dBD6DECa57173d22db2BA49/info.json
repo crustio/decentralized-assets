@@ -7,5 +7,6 @@
     "website": "http://ori.network",
     "explorer": "https://etherscan.io/token/0xd2Fa8f92Ea72AbB35dBD6DECa57173d22db2BA49",
     "status": "abandoned",
-    "id": "0xd2Fa8f92Ea72AbB35dBD6DECa57173d22db2BA49"
+    "id": "0xd2Fa8f92Ea72AbB35dBD6DECa57173d22db2BA49",
+    "logo": "ipfs://QmVwPKfaYTWqcAVcTbVNMvc6arvq82cQoTCHd5xfQR87Vu/ethereum/assets/0xd2Fa8f92Ea72AbB35dBD6DECa57173d22db2BA49/logo.png"
 }

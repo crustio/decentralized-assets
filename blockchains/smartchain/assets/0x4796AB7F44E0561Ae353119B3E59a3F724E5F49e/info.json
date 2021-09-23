@@ -7,5 +7,6 @@
     "symbol": "FOX",
     "decimals": 18,
     "status": "active",
-    "id": "0x4796AB7F44E0561Ae353119B3E59a3F724E5F49e"
+    "id": "0x4796AB7F44E0561Ae353119B3E59a3F724E5F49e",
+    "logo": "ipfs://QmVwPKfaYTWqcAVcTbVNMvc6arvq82cQoTCHd5xfQR87Vu/smartchain/assets/0x4796AB7F44E0561Ae353119B3E59a3F724E5F49e/logo.png"
 }

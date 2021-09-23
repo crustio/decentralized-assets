@@ -7,5 +7,6 @@
     "website": "https://www.elamachain.io/",
     "explorer": "https://etherscan.io/token/0xFb444c1f2B718dDfC385cB8Fd9f2D1D776b24668",
     "status": "active",
-    "id": "0xFb444c1f2B718dDfC385cB8Fd9f2D1D776b24668"
+    "id": "0xFb444c1f2B718dDfC385cB8Fd9f2D1D776b24668",
+    "logo": "ipfs://QmVwPKfaYTWqcAVcTbVNMvc6arvq82cQoTCHd5xfQR87Vu/ethereum/assets/0xFb444c1f2B718dDfC385cB8Fd9f2D1D776b24668/logo.png"
 }

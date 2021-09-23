@@ -7,5 +7,6 @@
     "symbol": "DOGE1",
     "decimals": 9,
     "status": "active",
-    "id": "0x244f8596E985B8EBd9eA44A9356B22d3D20b101c"
+    "id": "0x244f8596E985B8EBd9eA44A9356B22d3D20b101c",
+    "logo": "ipfs://QmVwPKfaYTWqcAVcTbVNMvc6arvq82cQoTCHd5xfQR87Vu/smartchain/assets/0x244f8596E985B8EBd9eA44A9356B22d3D20b101c/logo.png"
 }

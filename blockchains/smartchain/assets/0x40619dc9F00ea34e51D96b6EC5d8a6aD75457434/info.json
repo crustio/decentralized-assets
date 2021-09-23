@@ -45,5 +45,6 @@
             "name": "coingecko",
             "url": "https://coingecko.com/en/coins/1doge"
         }
-    ]
+    ],
+    "logo": "ipfs://QmVwPKfaYTWqcAVcTbVNMvc6arvq82cQoTCHd5xfQR87Vu/smartchain/assets/0x40619dc9F00ea34e51D96b6EC5d8a6aD75457434/logo.png"
 }

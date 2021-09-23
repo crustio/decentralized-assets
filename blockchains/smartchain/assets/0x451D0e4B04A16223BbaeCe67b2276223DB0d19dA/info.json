@@ -7,5 +7,6 @@
     "description": "GCR is a stable digital asset, that is both backed by and tethered to the price of gold",
     "explorer": "https://bscscan.com/token/0x451D0e4B04A16223BbaeCe67b2276223DB0d19dA",
     "status": "active",
-    "id": "0x451D0e4B04A16223BbaeCe67b2276223DB0d19dA"
+    "id": "0x451D0e4B04A16223BbaeCe67b2276223DB0d19dA",
+    "logo": "ipfs://QmVwPKfaYTWqcAVcTbVNMvc6arvq82cQoTCHd5xfQR87Vu/smartchain/assets/0x451D0e4B04A16223BbaeCe67b2276223DB0d19dA/logo.png"
 }

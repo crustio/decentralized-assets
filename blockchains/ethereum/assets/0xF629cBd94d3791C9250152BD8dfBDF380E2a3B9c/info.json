@@ -41,5 +41,6 @@
             "name": "coingecko",
             "url": "https://coingecko.com/en/coins/enjincoin/"
         }
-    ]
+    ],
+    "logo": "ipfs://QmVwPKfaYTWqcAVcTbVNMvc6arvq82cQoTCHd5xfQR87Vu/ethereum/assets/0xF629cBd94d3791C9250152BD8dfBDF380E2a3B9c/logo.png"
 }

@@ -25,5 +25,6 @@
             "name": "whitepaper",
             "url": "https://polkadot.network/PolkaDotPaper.pdf"
         }
-    ]
+    ],
+    "logo": "ipfs://QmVwPKfaYTWqcAVcTbVNMvc6arvq82cQoTCHd5xfQR87Vu/polkadot/info/logo.png"
 }

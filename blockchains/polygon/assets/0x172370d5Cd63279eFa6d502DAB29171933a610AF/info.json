@@ -25,5 +25,6 @@
             "name": "coinmarketcap",
             "url": "https://coinmarketcap.com/currencies/curve-dao-token/"
         }
-    ]
+    ],
+    "logo": "ipfs://QmVwPKfaYTWqcAVcTbVNMvc6arvq82cQoTCHd5xfQR87Vu/polygon/assets/0x172370d5Cd63279eFa6d502DAB29171933a610AF/logo.png"
 }

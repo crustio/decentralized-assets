@@ -7,5 +7,6 @@
     "description": "SafeZone Token Platform. Built On Binance Smart Chain #BSC. Hold SafeZone Tokens in Your Wallet and Watch Your Balance increase.",
     "explorer": "https://bscscan.com/token/0x10F181B87E2A4Af6120452A29570fcf74B082c16",
     "status": "active",
-    "id": "0x10F181B87E2A4Af6120452A29570fcf74B082c16"
+    "id": "0x10F181B87E2A4Af6120452A29570fcf74B082c16",
+    "logo": "ipfs://QmVwPKfaYTWqcAVcTbVNMvc6arvq82cQoTCHd5xfQR87Vu/smartchain/assets/0x10F181B87E2A4Af6120452A29570fcf74B082c16/logo.png"
 }

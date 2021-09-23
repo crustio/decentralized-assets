@@ -7,5 +7,6 @@
     "website": "https://eth.limited/",
     "explorer": "https://etherscan.io/token/0xf0C6521b1F8ad9C33a99Aaf056F6C6247A3862BA",
     "status": "active",
-    "id": "0xf0C6521b1F8ad9C33a99Aaf056F6C6247A3862BA"
+    "id": "0xf0C6521b1F8ad9C33a99Aaf056F6C6247A3862BA",
+    "logo": "ipfs://QmVwPKfaYTWqcAVcTbVNMvc6arvq82cQoTCHd5xfQR87Vu/ethereum/assets/0xf0C6521b1F8ad9C33a99Aaf056F6C6247A3862BA/logo.png"
 }

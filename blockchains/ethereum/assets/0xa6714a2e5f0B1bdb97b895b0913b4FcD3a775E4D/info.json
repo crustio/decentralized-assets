@@ -7,5 +7,6 @@
     "website": "http://www.pchain.io/",
     "explorer": "https://etherscan.io/token/0xa6714a2e5f0B1bdb97b895b0913b4FcD3a775E4D",
     "status": "active",
-    "id": "0xa6714a2e5f0B1bdb97b895b0913b4FcD3a775E4D"
+    "id": "0xa6714a2e5f0B1bdb97b895b0913b4FcD3a775E4D",
+    "logo": "ipfs://QmVwPKfaYTWqcAVcTbVNMvc6arvq82cQoTCHd5xfQR87Vu/ethereum/assets/0xa6714a2e5f0B1bdb97b895b0913b4FcD3a775E4D/logo.png"
 }

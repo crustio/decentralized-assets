@@ -8,5 +8,6 @@
     "symbol": "PDEX",
     "decimals": 18,
     "status": "active",
-    "id": "0xF59ae934f6fe444afC309586cC60a84a0F89Aaea"
+    "id": "0xF59ae934f6fe444afC309586cC60a84a0F89Aaea",
+    "logo": "ipfs://QmVwPKfaYTWqcAVcTbVNMvc6arvq82cQoTCHd5xfQR87Vu/ethereum/assets/0xF59ae934f6fe444afC309586cC60a84a0F89Aaea/logo.png"
 }

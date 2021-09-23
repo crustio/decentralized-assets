@@ -7,5 +7,6 @@
     "symbol": "wCUSD",
     "decimals": 18,
     "status": "active",
-    "id": "0xad3E3Fc59dff318BecEaAb7D00EB4F68b1EcF195"
+    "id": "0xad3E3Fc59dff318BecEaAb7D00EB4F68b1EcF195",
+    "logo": "ipfs://QmVwPKfaYTWqcAVcTbVNMvc6arvq82cQoTCHd5xfQR87Vu/ethereum/assets/0xad3E3Fc59dff318BecEaAb7D00EB4F68b1EcF195/logo.png"
 }

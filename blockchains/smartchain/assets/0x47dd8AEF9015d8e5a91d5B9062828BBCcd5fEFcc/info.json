@@ -7,5 +7,6 @@
     "type": "BEP20",
     "decimals": 18,
     "status": "active",
-    "id": "0x47dd8AEF9015d8e5a91d5B9062828BBCcd5fEFcc"
+    "id": "0x47dd8AEF9015d8e5a91d5B9062828BBCcd5fEFcc",
+    "logo": "ipfs://QmVwPKfaYTWqcAVcTbVNMvc6arvq82cQoTCHd5xfQR87Vu/smartchain/assets/0x47dd8AEF9015d8e5a91d5B9062828BBCcd5fEFcc/logo.png"
 }

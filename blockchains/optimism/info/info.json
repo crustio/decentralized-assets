@@ -8,5 +8,6 @@
     "type": "coin",
     "decimals": 18,
     "status": "active",
-    "links": []
+    "links": [],
+    "logo": "ipfs://QmVwPKfaYTWqcAVcTbVNMvc6arvq82cQoTCHd5xfQR87Vu/optimism/info/logo.png"
 }

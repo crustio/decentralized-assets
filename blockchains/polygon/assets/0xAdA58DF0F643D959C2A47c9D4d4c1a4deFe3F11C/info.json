@@ -29,5 +29,6 @@
             "name": "coingecko",
             "url": "https://coingecko.com/en/coins/crypto-com-chain/"
         }
-    ]
+    ],
+    "logo": "ipfs://QmVwPKfaYTWqcAVcTbVNMvc6arvq82cQoTCHd5xfQR87Vu/polygon/assets/0xAdA58DF0F643D959C2A47c9D4d4c1a4deFe3F11C/logo.png"
 }

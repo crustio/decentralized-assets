@@ -53,5 +53,6 @@
             "name": "coingecko",
             "url": "https://coingecko.com/en/coins/chaincade/"
         }
-    ]
+    ],
+    "logo": "ipfs://QmVwPKfaYTWqcAVcTbVNMvc6arvq82cQoTCHd5xfQR87Vu/smartchain/assets/0x2FFEE7b4DF74F7C6508A4Af4D6D91058dA5420D0/logo.png"
 }

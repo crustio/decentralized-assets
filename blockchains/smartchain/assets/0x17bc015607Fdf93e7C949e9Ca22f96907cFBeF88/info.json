@@ -8,5 +8,6 @@
     "symbol": "BSC",
     "decimals": 18,
     "status": "active",
-    "id": "0x17bc015607Fdf93e7C949e9Ca22f96907cFBeF88"
+    "id": "0x17bc015607Fdf93e7C949e9Ca22f96907cFBeF88",
+    "logo": "ipfs://QmVwPKfaYTWqcAVcTbVNMvc6arvq82cQoTCHd5xfQR87Vu/smartchain/assets/0x17bc015607Fdf93e7C949e9Ca22f96907cFBeF88/logo.png"
 }

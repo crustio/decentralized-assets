@@ -7,5 +7,6 @@
     "symbol": "MOONBAR",
     "decimals": 9,
     "status": "active",
-    "id": "0x47e28936D9c7944D106e46295d87A8E4c1Be818c"
+    "id": "0x47e28936D9c7944D106e46295d87A8E4c1Be818c",
+    "logo": "ipfs://QmVwPKfaYTWqcAVcTbVNMvc6arvq82cQoTCHd5xfQR87Vu/smartchain/assets/0x47e28936D9c7944D106e46295d87A8E4c1Be818c/logo.png"
 }

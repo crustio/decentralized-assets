@@ -7,5 +7,6 @@
     "symbol": "FREE",
     "decimals": 18,
     "status": "active",
-    "id": "0x12e34cDf6A031a10FE241864c32fB03a4FDaD739"
+    "id": "0x12e34cDf6A031a10FE241864c32fB03a4FDaD739",
+    "logo": "ipfs://QmVwPKfaYTWqcAVcTbVNMvc6arvq82cQoTCHd5xfQR87Vu/smartchain/assets/0x12e34cDf6A031a10FE241864c32fB03a4FDaD739/logo.png"
 }

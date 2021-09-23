@@ -7,5 +7,6 @@
     "description": "Inspired by Dogecoin. 10% of Kittycoins go to support user voted upon no kill animal shelters and rescues.",
     "explorer": "https://bscscan.com/token/0x02b59dfAd35eB4d943c1bBe5D1b0153CCE2c7Db7",
     "status": "active",
-    "id": "0x02b59dfAd35eB4d943c1bBe5D1b0153CCE2c7Db7"
+    "id": "0x02b59dfAd35eB4d943c1bBe5D1b0153CCE2c7Db7",
+    "logo": "ipfs://QmVwPKfaYTWqcAVcTbVNMvc6arvq82cQoTCHd5xfQR87Vu/smartchain/assets/0x02b59dfAd35eB4d943c1bBe5D1b0153CCE2c7Db7/logo.png"
 }

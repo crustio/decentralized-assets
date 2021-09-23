@@ -25,5 +25,6 @@
             "name": "coinmarketcap",
             "url": "https://coinmarketcap.com/currencies/dfyn-network/"
         }
-    ]
+    ],
+    "logo": "ipfs://QmVwPKfaYTWqcAVcTbVNMvc6arvq82cQoTCHd5xfQR87Vu/polygon/assets/0xC168E40227E4ebD8C1caE80F7a55a4F0e6D66C97/logo.png"
 }

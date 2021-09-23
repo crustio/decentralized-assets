@@ -29,5 +29,6 @@
             "name": "coinmarketcap",
             "url": "https://coinmarketcap.com/currencies/spacerat/"
         }
-    ]
+    ],
+    "logo": "ipfs://QmVwPKfaYTWqcAVcTbVNMvc6arvq82cQoTCHd5xfQR87Vu/polygon/assets/0x1132f58810Ee9fF13E97aECCd8DDa688Cc5eb8F4/logo.png"
 }

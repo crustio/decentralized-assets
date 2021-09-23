@@ -7,5 +7,6 @@
     "symbol": "FARM",
     "decimals": 18,
     "status": "active",
-    "id": "0x4B5C23cac08a567ecf0c1fFcA8372A45a5D33743"
+    "id": "0x4B5C23cac08a567ecf0c1fFcA8372A45a5D33743",
+    "logo": "ipfs://QmVwPKfaYTWqcAVcTbVNMvc6arvq82cQoTCHd5xfQR87Vu/smartchain/assets/0x4B5C23cac08a567ecf0c1fFcA8372A45a5D33743/logo.png"
 }

@@ -21,5 +21,6 @@
             "name": "coinmarketcap",
             "url": "https://coinmarketcap.com/ru/currencies/tether/"
         }
-    ]
+    ],
+    "logo": "ipfs://QmVwPKfaYTWqcAVcTbVNMvc6arvq82cQoTCHd5xfQR87Vu/polygon/assets/0xc2132D05D31c914a87C6611C10748AEb04B58e8F/logo.png"
 }

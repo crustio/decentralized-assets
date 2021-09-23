@@ -7,5 +7,6 @@
     "website": "http://token.dprating.com",
     "explorer": "https://etherscan.io/token/0xE8663A64A96169ff4d95b4299E7ae9a76b905B31",
     "status": "active",
-    "id": "0xE8663A64A96169ff4d95b4299E7ae9a76b905B31"
+    "id": "0xE8663A64A96169ff4d95b4299E7ae9a76b905B31",
+    "logo": "ipfs://QmVwPKfaYTWqcAVcTbVNMvc6arvq82cQoTCHd5xfQR87Vu/ethereum/assets/0xE8663A64A96169ff4d95b4299E7ae9a76b905B31/logo.png"
 }

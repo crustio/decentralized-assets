@@ -7,5 +7,6 @@
     "symbol": "DONK",
     "decimals": 9,
     "status": "active",
-    "id": "0x1F82a9b541FE4C322B5cd81DCB066620D57de35C"
+    "id": "0x1F82a9b541FE4C322B5cd81DCB066620D57de35C",
+    "logo": "ipfs://QmVwPKfaYTWqcAVcTbVNMvc6arvq82cQoTCHd5xfQR87Vu/smartchain/assets/0x1F82a9b541FE4C322B5cd81DCB066620D57de35C/logo.png"
 }

@@ -7,5 +7,6 @@
     "website": "https://nerves.foundation/",
     "explorer": "https://etherscan.io/token/0xEE5dFB5Ddd54eA2fB93b796a8A1b83C3fe38E0e6",
     "status": "abandoned",
-    "id": "0xEE5dFB5Ddd54eA2fB93b796a8A1b83C3fe38E0e6"
+    "id": "0xEE5dFB5Ddd54eA2fB93b796a8A1b83C3fe38E0e6",
+    "logo": "ipfs://QmVwPKfaYTWqcAVcTbVNMvc6arvq82cQoTCHd5xfQR87Vu/ethereum/assets/0xEE5dFB5Ddd54eA2fB93b796a8A1b83C3fe38E0e6/logo.png"
 }

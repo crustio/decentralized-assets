@@ -7,5 +7,6 @@
     "symbol": "stETH",
     "decimals": 18,
     "status": "active",
-    "id": "0xae7ab96520DE3A18E5e111B5EaAb095312D7fE84"
+    "id": "0xae7ab96520DE3A18E5e111B5EaAb095312D7fE84",
+    "logo": "ipfs://QmVwPKfaYTWqcAVcTbVNMvc6arvq82cQoTCHd5xfQR87Vu/ethereum/assets/0xae7ab96520DE3A18E5e111B5EaAb095312D7fE84/logo.png"
 }

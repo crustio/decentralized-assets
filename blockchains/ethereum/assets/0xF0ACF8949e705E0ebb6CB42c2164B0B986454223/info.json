@@ -7,5 +7,6 @@
     "website": "http://barter.company/",
     "explorer": "https://etherscan.io/token/0xF0ACF8949e705E0ebb6CB42c2164B0B986454223",
     "status": "active",
-    "id": "0xF0ACF8949e705E0ebb6CB42c2164B0B986454223"
+    "id": "0xF0ACF8949e705E0ebb6CB42c2164B0B986454223",
+    "logo": "ipfs://QmVwPKfaYTWqcAVcTbVNMvc6arvq82cQoTCHd5xfQR87Vu/ethereum/assets/0xF0ACF8949e705E0ebb6CB42c2164B0B986454223/logo.png"
 }

@@ -7,5 +7,6 @@
     "symbol": "X-Token",
     "decimals": 9,
     "status": "active",
-    "id": "0x1657223BB7B9d272957B3F3Cf70F9c36a4c99aB9"
+    "id": "0x1657223BB7B9d272957B3F3Cf70F9c36a4c99aB9",
+    "logo": "ipfs://QmVwPKfaYTWqcAVcTbVNMvc6arvq82cQoTCHd5xfQR87Vu/smartchain/assets/0x1657223BB7B9d272957B3F3Cf70F9c36a4c99aB9/logo.png"
 }

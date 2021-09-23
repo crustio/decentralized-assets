@@ -7,5 +7,6 @@
     "symbol": "CORGI",
     "decimals": 18,
     "status": "active",
-    "id": "0x450dCf93160A30BE156A4600802c91BF64dFFD2E"
+    "id": "0x450dCf93160A30BE156A4600802c91BF64dFFD2E",
+    "logo": "ipfs://QmVwPKfaYTWqcAVcTbVNMvc6arvq82cQoTCHd5xfQR87Vu/smartchain/assets/0x450dCf93160A30BE156A4600802c91BF64dFFD2E/logo.png"
 }

@@ -7,5 +7,6 @@
     "description": "Everest ID Token",
     "explorer": "https://etherscan.io/token/0xebd9d99a3982d547c5bb4db7e3b1f9f14b67eb83",
     "status": "active",
-    "id": "0xEBd9D99A3982d547C5Bb4DB7E3b1F9F14b67Eb83"
+    "id": "0xEBd9D99A3982d547C5Bb4DB7E3b1F9F14b67Eb83",
+    "logo": "ipfs://QmVwPKfaYTWqcAVcTbVNMvc6arvq82cQoTCHd5xfQR87Vu/ethereum/assets/0xEBd9D99A3982d547C5Bb4DB7E3b1F9F14b67Eb83/logo.png"
 }

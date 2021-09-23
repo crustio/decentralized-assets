@@ -34,5 +34,6 @@
             "name": "coingecko",
             "url": "https://coingecko.com/en/coins/0x/"
         }
-    ]
+    ],
+    "logo": "ipfs://QmVwPKfaYTWqcAVcTbVNMvc6arvq82cQoTCHd5xfQR87Vu/ethereum/assets/0xE41d2489571d322189246DaFA5ebDe1F4699F498/logo.png"
 }

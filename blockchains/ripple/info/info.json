@@ -25,5 +25,6 @@
             "name": "whitepaper",
             "url": "https://ripple.com/files/ripple_consensus_whitepaper.pdf"
         }
-    ]
+    ],
+    "logo": "ipfs://QmVwPKfaYTWqcAVcTbVNMvc6arvq82cQoTCHd5xfQR87Vu/ripple/info/logo.png"
 }

@@ -7,5 +7,6 @@
     "website": "https://inocoin.eu",
     "explorer": "https://etherscan.io/token/0xc9859fccC876e6b4B3C749C5D29EA04F48aCb74F",
     "status": "active",
-    "id": "0xc9859fccC876e6b4B3C749C5D29EA04F48aCb74F"
+    "id": "0xc9859fccC876e6b4B3C749C5D29EA04F48aCb74F",
+    "logo": "ipfs://QmVwPKfaYTWqcAVcTbVNMvc6arvq82cQoTCHd5xfQR87Vu/ethereum/assets/0xc9859fccC876e6b4B3C749C5D29EA04F48aCb74F/logo.png"
 }

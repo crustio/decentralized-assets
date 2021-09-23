@@ -7,5 +7,6 @@
     "description": "A charity coin based on the binance smart chain network with the goal of aiding measures against climate change and world hunger.",
     "explorer": "https://bscscan.com/token/0x22E35e7C4DEE96298C8d90ccdBDCEdfc82e09395",
     "status": "active",
-    "id": "0x22E35e7C4DEE96298C8d90ccdBDCEdfc82e09395"
+    "id": "0x22E35e7C4DEE96298C8d90ccdBDCEdfc82e09395",
+    "logo": "ipfs://QmVwPKfaYTWqcAVcTbVNMvc6arvq82cQoTCHd5xfQR87Vu/smartchain/assets/0x22E35e7C4DEE96298C8d90ccdBDCEdfc82e09395/logo.png"
 }

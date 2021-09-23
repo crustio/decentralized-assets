@@ -25,5 +25,6 @@
             "name": "coingecko",
             "url": "https://coingecko.com/en/coins/superfarm/"
         }
-    ]
+    ],
+    "logo": "ipfs://QmVwPKfaYTWqcAVcTbVNMvc6arvq82cQoTCHd5xfQR87Vu/ethereum/assets/0xe53EC727dbDEB9E2d5456c3be40cFF031AB40A55/logo.png"
 }

@@ -25,5 +25,6 @@
             "name": "coingecko",
             "url": "https://coingecko.com/en/coins/adamant/"
         }
-    ]
+    ],
+    "logo": "ipfs://QmVwPKfaYTWqcAVcTbVNMvc6arvq82cQoTCHd5xfQR87Vu/polygon/assets/0xc3FdbadC7c795EF1D6Ba111e06fF8F16A20Ea539/logo.png"
 }

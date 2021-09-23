@@ -26,5 +26,6 @@
             "name": "coingecko",
             "url": "https://coingecko.com/en/coins/basic-attention-token/"
         }
-    ]
+    ],
+    "logo": "ipfs://QmVwPKfaYTWqcAVcTbVNMvc6arvq82cQoTCHd5xfQR87Vu/smartchain/assets/0x101d82428437127bF1608F699CD651e6Abf9766E/logo.png"
 }

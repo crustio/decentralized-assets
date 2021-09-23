@@ -7,5 +7,6 @@
     "description": "Clout is a token that backs the Clout Network, a smart-contract IPFS powered content decentralization and democratization protocol.",
     "explorer": "https://bscscan.com/token/0x0fFB09e25d2Cb7D56EF3eA7Fac08756Dfb579208",
     "status": "active",
-    "id": "0x0fFB09e25d2Cb7D56EF3eA7Fac08756Dfb579208"
+    "id": "0x0fFB09e25d2Cb7D56EF3eA7Fac08756Dfb579208",
+    "logo": "ipfs://QmVwPKfaYTWqcAVcTbVNMvc6arvq82cQoTCHd5xfQR87Vu/smartchain/assets/0x0fFB09e25d2Cb7D56EF3eA7Fac08756Dfb579208/logo.png"
 }

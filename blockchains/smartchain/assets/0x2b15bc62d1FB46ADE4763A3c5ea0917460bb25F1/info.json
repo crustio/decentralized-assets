@@ -7,5 +7,6 @@
     "description": "Fully Decentralized Protocol for Private Transactions on Binance Smart Chain",
     "explorer": "https://bscscan.com/token/0x2b15bc62d1FB46ADE4763A3c5ea0917460bb25F1",
     "status": "active",
-    "id": "0x2b15bc62d1FB46ADE4763A3c5ea0917460bb25F1"
+    "id": "0x2b15bc62d1FB46ADE4763A3c5ea0917460bb25F1",
+    "logo": "ipfs://QmVwPKfaYTWqcAVcTbVNMvc6arvq82cQoTCHd5xfQR87Vu/smartchain/assets/0x2b15bc62d1FB46ADE4763A3c5ea0917460bb25F1/logo.png"
 }

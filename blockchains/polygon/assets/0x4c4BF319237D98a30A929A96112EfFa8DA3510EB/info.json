@@ -25,5 +25,6 @@
             "name": "coingecko",
             "url": "https://coingecko.com/en/coins/waultswap-polygon/"
         }
-    ]
+    ],
+    "logo": "ipfs://QmVwPKfaYTWqcAVcTbVNMvc6arvq82cQoTCHd5xfQR87Vu/polygon/assets/0x4c4BF319237D98a30A929A96112EfFa8DA3510EB/logo.png"
 }

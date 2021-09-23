@@ -7,5 +7,6 @@
     "description": "A peer to peer Internet currency of Flat Earth.",
     "explorer": "https://bscscan.com/token/0x41540ba32dB90269Bb72A7bE1D4b1eE18F5544f1",
     "status": "active",
-    "id": "0x41540ba32dB90269Bb72A7bE1D4b1eE18F5544f1"
+    "id": "0x41540ba32dB90269Bb72A7bE1D4b1eE18F5544f1",
+    "logo": "ipfs://QmVwPKfaYTWqcAVcTbVNMvc6arvq82cQoTCHd5xfQR87Vu/smartchain/assets/0x41540ba32dB90269Bb72A7bE1D4b1eE18F5544f1/logo.png"
 }

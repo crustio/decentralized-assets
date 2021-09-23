@@ -25,5 +25,6 @@
             "name": "whitepaper",
             "url": "https://docs.neo.org/en-us"
         }
-    ]
+    ],
+    "logo": "ipfs://QmVwPKfaYTWqcAVcTbVNMvc6arvq82cQoTCHd5xfQR87Vu/neo/info/logo.png"
 }

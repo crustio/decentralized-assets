@@ -33,5 +33,6 @@
             "name": "coingecko",
             "url": "https://coingecko.com/en/coins/gitcoin/"
         }
-    ]
+    ],
+    "logo": "ipfs://QmVwPKfaYTWqcAVcTbVNMvc6arvq82cQoTCHd5xfQR87Vu/ethereum/assets/0xDe30da39c46104798bB5aA3fe8B9e0e1F348163F/logo.png"
 }

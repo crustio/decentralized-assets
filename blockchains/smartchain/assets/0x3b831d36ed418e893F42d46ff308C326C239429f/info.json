@@ -7,5 +7,6 @@
     "symbol": "TCAKE",
     "decimals": 18,
     "status": "active",
-    "id": "0x3b831d36ed418e893F42d46ff308C326C239429f"
+    "id": "0x3b831d36ed418e893F42d46ff308C326C239429f",
+    "logo": "ipfs://QmVwPKfaYTWqcAVcTbVNMvc6arvq82cQoTCHd5xfQR87Vu/smartchain/assets/0x3b831d36ed418e893F42d46ff308C326C239429f/logo.png"
 }

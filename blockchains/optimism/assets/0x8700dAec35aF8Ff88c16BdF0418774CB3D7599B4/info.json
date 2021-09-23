@@ -34,5 +34,6 @@
             "name": "coingecko",
             "url": "https://coingecko.com/en/coins/havven/"
         }
-    ]
+    ],
+    "logo": "ipfs://QmVwPKfaYTWqcAVcTbVNMvc6arvq82cQoTCHd5xfQR87Vu/optimism/assets/0x8700dAec35aF8Ff88c16BdF0418774CB3D7599B4/logo.png"
 }

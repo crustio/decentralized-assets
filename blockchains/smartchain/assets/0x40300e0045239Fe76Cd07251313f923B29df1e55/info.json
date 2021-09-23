@@ -7,5 +7,6 @@
     "symbol": "RON",
     "decimals": 9,
     "status": "active",
-    "id": "0x40300e0045239Fe76Cd07251313f923B29df1e55"
+    "id": "0x40300e0045239Fe76Cd07251313f923B29df1e55",
+    "logo": "ipfs://QmVwPKfaYTWqcAVcTbVNMvc6arvq82cQoTCHd5xfQR87Vu/smartchain/assets/0x40300e0045239Fe76Cd07251313f923B29df1e55/logo.png"
 }

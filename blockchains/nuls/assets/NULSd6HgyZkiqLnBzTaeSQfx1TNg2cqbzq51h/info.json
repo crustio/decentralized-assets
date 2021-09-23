@@ -7,5 +7,6 @@
     "description": "Aleph.im is a cross-blockchain layer-2 networkspecifically focused on decentralized applications and their related infrastructure (storage, computing servers, security).",
     "explorer": "https://nulscan.io/token/info?contractAddress=NULSd6HgyZkiqLnBzTaeSQfx1TNg2cqbzq51h",
     "status": "active",
-    "id": "NULSd6HgyZkiqLnBzTaeSQfx1TNg2cqbzq51h"
+    "id": "NULSd6HgyZkiqLnBzTaeSQfx1TNg2cqbzq51h",
+    "logo": "ipfs://QmVwPKfaYTWqcAVcTbVNMvc6arvq82cQoTCHd5xfQR87Vu/nuls/assets/NULSd6HgyZkiqLnBzTaeSQfx1TNg2cqbzq51h/logo.png"
 }

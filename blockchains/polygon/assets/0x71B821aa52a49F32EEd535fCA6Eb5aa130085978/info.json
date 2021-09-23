@@ -29,5 +29,6 @@
             "name": "coingecko",
             "url": "https://coingecko.com/en/coins/oxbitcoin/"
         }
-    ]
+    ],
+    "logo": "ipfs://QmVwPKfaYTWqcAVcTbVNMvc6arvq82cQoTCHd5xfQR87Vu/polygon/assets/0x71B821aa52a49F32EEd535fCA6Eb5aa130085978/logo.png"
 }

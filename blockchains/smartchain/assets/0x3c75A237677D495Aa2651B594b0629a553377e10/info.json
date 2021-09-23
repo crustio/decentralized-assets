@@ -7,5 +7,6 @@
     "symbol": "btcXv2.0",
     "decimals": 9,
     "status": "active",
-    "id": "0x3c75A237677D495Aa2651B594b0629a553377e10"
+    "id": "0x3c75A237677D495Aa2651B594b0629a553377e10",
+    "logo": "ipfs://QmVwPKfaYTWqcAVcTbVNMvc6arvq82cQoTCHd5xfQR87Vu/smartchain/assets/0x3c75A237677D495Aa2651B594b0629a553377e10/logo.png"
 }

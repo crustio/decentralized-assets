@@ -29,5 +29,6 @@
             "name": "telegram",
             "url": "https://t.me/routerprotocol"
         }
-    ]
+    ],
+    "logo": "ipfs://QmVwPKfaYTWqcAVcTbVNMvc6arvq82cQoTCHd5xfQR87Vu/polygon/assets/0x16ECCfDbb4eE1A85A33f3A9B21175Cd7Ae753dB4/logo.png"
 }

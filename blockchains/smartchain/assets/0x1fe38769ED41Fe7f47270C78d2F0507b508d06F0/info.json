@@ -7,5 +7,6 @@
     "description": "First generation deflationary auto-yield token with evolutive fee, making it more rewarding as time passes",
     "explorer": "https://bscscan.com/token/0x1fe38769ED41Fe7f47270C78d2F0507b508d06F0",
     "status": "active",
-    "id": "0x1fe38769ED41Fe7f47270C78d2F0507b508d06F0"
+    "id": "0x1fe38769ED41Fe7f47270C78d2F0507b508d06F0",
+    "logo": "ipfs://QmVwPKfaYTWqcAVcTbVNMvc6arvq82cQoTCHd5xfQR87Vu/smartchain/assets/0x1fe38769ED41Fe7f47270C78d2F0507b508d06F0/logo.png"
 }

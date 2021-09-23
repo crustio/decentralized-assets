@@ -7,5 +7,6 @@
     "website": "http://rublix.io",
     "explorer": "https://etherscan.io/token/0xFc2C4D8f95002C14eD0a7aA65102Cac9e5953b5E",
     "status": "active",
-    "id": "0xFc2C4D8f95002C14eD0a7aA65102Cac9e5953b5E"
+    "id": "0xFc2C4D8f95002C14eD0a7aA65102Cac9e5953b5E",
+    "logo": "ipfs://QmVwPKfaYTWqcAVcTbVNMvc6arvq82cQoTCHd5xfQR87Vu/ethereum/assets/0xFc2C4D8f95002C14eD0a7aA65102Cac9e5953b5E/logo.png"
 }

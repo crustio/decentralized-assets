@@ -8,5 +8,6 @@
     "symbol": "PANTHER",
     "decimals": 18,
     "status": "active",
-    "id": "0x1f546aD641B56b86fD9dCEAc473d1C7a357276B7"
+    "id": "0x1f546aD641B56b86fD9dCEAc473d1C7a357276B7",
+    "logo": "ipfs://QmVwPKfaYTWqcAVcTbVNMvc6arvq82cQoTCHd5xfQR87Vu/smartchain/assets/0x1f546aD641B56b86fD9dCEAc473d1C7a357276B7/logo.png"
 }

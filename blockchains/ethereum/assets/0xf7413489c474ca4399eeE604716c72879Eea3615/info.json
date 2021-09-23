@@ -7,5 +7,6 @@
     "description": "APYS token is issued by APYSwap to link cross-chain DeFi markets.",
     "explorer": "https://etherscan.io/token/0xf7413489c474ca4399eeE604716c72879Eea3615",
     "status": "active",
-    "id": "0xf7413489c474ca4399eeE604716c72879Eea3615"
+    "id": "0xf7413489c474ca4399eeE604716c72879Eea3615",
+    "logo": "ipfs://QmVwPKfaYTWqcAVcTbVNMvc6arvq82cQoTCHd5xfQR87Vu/ethereum/assets/0xf7413489c474ca4399eeE604716c72879Eea3615/logo.png"
 }

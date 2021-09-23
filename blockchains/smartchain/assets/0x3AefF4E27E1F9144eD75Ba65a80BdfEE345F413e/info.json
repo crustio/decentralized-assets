@@ -61,5 +61,6 @@
             "name": "coingecko",
             "url": "https://coingecko.com/en/coins/bumoon"
         }
-    ]
+    ],
+    "logo": "ipfs://QmVwPKfaYTWqcAVcTbVNMvc6arvq82cQoTCHd5xfQR87Vu/smartchain/assets/0x3AefF4E27E1F9144eD75Ba65a80BdfEE345F413e/logo.png"
 }

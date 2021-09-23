@@ -7,5 +7,6 @@
     "description": "Shield Network, a token audit platform where every token is thoroughly audited to ensure safety and avoid scams.",
     "explorer": "https://bscscan.com/token/0x0E690ee6fCC26Bc09FeD2D2287268C23d4a81e42",
     "status": "active",
-    "id": "0x0E690ee6fCC26Bc09FeD2D2287268C23d4a81e42"
+    "id": "0x0E690ee6fCC26Bc09FeD2D2287268C23d4a81e42",
+    "logo": "ipfs://QmVwPKfaYTWqcAVcTbVNMvc6arvq82cQoTCHd5xfQR87Vu/smartchain/assets/0x0E690ee6fCC26Bc09FeD2D2287268C23d4a81e42/logo.png"
 }

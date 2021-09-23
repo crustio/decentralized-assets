@@ -7,5 +7,6 @@
     "symbol": "MBULL",
     "decimals": 9,
     "status": "active",
-    "id": "0x0E0714264f15cE00BD4682847595384d42fBcD84"
+    "id": "0x0E0714264f15cE00BD4682847595384d42fBcD84",
+    "logo": "ipfs://QmVwPKfaYTWqcAVcTbVNMvc6arvq82cQoTCHd5xfQR87Vu/smartchain/assets/0x0E0714264f15cE00BD4682847595384d42fBcD84/logo.png"
 }

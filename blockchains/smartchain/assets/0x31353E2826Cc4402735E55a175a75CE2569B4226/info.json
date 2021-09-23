@@ -25,5 +25,6 @@
             "name": "coinmarketcap",
             "url": "https://coinmarketcap.com/currencies/world-of-waves"
         }
-    ]
+    ],
+    "logo": "ipfs://QmVwPKfaYTWqcAVcTbVNMvc6arvq82cQoTCHd5xfQR87Vu/smartchain/assets/0x31353E2826Cc4402735E55a175a75CE2569B4226/logo.png"
 }

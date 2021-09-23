@@ -30,5 +30,6 @@
             "name": "coingecko",
             "url": "https://coingecko.com/en/coins/the-graph/"
         }
-    ]
+    ],
+    "logo": "ipfs://QmVwPKfaYTWqcAVcTbVNMvc6arvq82cQoTCHd5xfQR87Vu/ethereum/assets/0xc944E90C64B2c07662A292be6244BDf05Cda44a7/logo.png"
 }

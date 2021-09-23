@@ -7,5 +7,6 @@
     "symbol": "USDs",
     "decimals": 18,
     "status": "active",
-    "id": "0x303dE4bdb189B951F875eB4A8ECDe2985138161e"
+    "id": "0x303dE4bdb189B951F875eB4A8ECDe2985138161e",
+    "logo": "ipfs://QmVwPKfaYTWqcAVcTbVNMvc6arvq82cQoTCHd5xfQR87Vu/smartchain/assets/0x303dE4bdb189B951F875eB4A8ECDe2985138161e/logo.png"
 }

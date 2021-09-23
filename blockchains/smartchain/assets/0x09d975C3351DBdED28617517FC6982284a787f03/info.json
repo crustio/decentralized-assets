@@ -33,5 +33,6 @@
             "name": "coingecko",
             "url": "https://coingecko.com/nl/coins/crypto-island"
         }
-    ]
+    ],
+    "logo": "ipfs://QmVwPKfaYTWqcAVcTbVNMvc6arvq82cQoTCHd5xfQR87Vu/smartchain/assets/0x09d975C3351DBdED28617517FC6982284a787f03/logo.png"
 }

@@ -29,5 +29,6 @@
             "name": "coinmarketcap",
             "url": "https://coinmarketcap.com/currencies/uniswap/"
         }
-    ]
+    ],
+    "logo": "ipfs://QmVwPKfaYTWqcAVcTbVNMvc6arvq82cQoTCHd5xfQR87Vu/polygon/assets/0xb33EaAd8d922B1083446DC23f610c2567fB5180f/logo.png"
 }

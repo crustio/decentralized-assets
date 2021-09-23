@@ -53,5 +53,6 @@
             "name": "coingecko",
             "url": "https://coingecko.com/en/coins/nftbooks"
         }
-    ]
+    ],
+    "logo": "ipfs://QmVwPKfaYTWqcAVcTbVNMvc6arvq82cQoTCHd5xfQR87Vu/smartchain/assets/0x3279510E89600ee1767a037DBD0aD49c974063AE/logo.png"
 }

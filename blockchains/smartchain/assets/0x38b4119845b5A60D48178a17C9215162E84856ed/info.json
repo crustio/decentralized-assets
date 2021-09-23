@@ -7,5 +7,6 @@
     "symbol": "fBUSD",
     "decimals": 18,
     "status": "active",
-    "id": "0x38b4119845b5A60D48178a17C9215162E84856ed"
+    "id": "0x38b4119845b5A60D48178a17C9215162E84856ed",
+    "logo": "ipfs://QmVwPKfaYTWqcAVcTbVNMvc6arvq82cQoTCHd5xfQR87Vu/smartchain/assets/0x38b4119845b5A60D48178a17C9215162E84856ed/logo.png"
 }

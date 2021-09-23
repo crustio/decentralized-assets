@@ -7,5 +7,6 @@
     "website": "https://projectwith.io",
     "explorer": "https://etherscan.io/token/0xb7e77aEbBe0687d2EfF24Cc90c41A3b6eA74bdAB",
     "status": "active",
-    "id": "0xb7e77aEbBe0687d2EfF24Cc90c41A3b6eA74bdAB"
+    "id": "0xb7e77aEbBe0687d2EfF24Cc90c41A3b6eA74bdAB",
+    "logo": "ipfs://QmVwPKfaYTWqcAVcTbVNMvc6arvq82cQoTCHd5xfQR87Vu/ethereum/assets/0xb7e77aEbBe0687d2EfF24Cc90c41A3b6eA74bdAB/logo.png"
 }

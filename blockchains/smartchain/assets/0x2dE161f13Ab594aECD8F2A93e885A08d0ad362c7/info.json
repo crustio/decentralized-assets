@@ -7,5 +7,6 @@
     "description": "VANITY aims to provide the first ever self Token-Based Marketplace for Custom Vanity Addresses.",
     "explorer": "https://bscscan.com/token/0x2dE161f13Ab594aECD8F2A93e885A08d0ad362c7",
     "status": "abandoned",
-    "id": "0x2dE161f13Ab594aECD8F2A93e885A08d0ad362c7"
+    "id": "0x2dE161f13Ab594aECD8F2A93e885A08d0ad362c7",
+    "logo": "ipfs://QmVwPKfaYTWqcAVcTbVNMvc6arvq82cQoTCHd5xfQR87Vu/smartchain/assets/0x2dE161f13Ab594aECD8F2A93e885A08d0ad362c7/logo.png"
 }

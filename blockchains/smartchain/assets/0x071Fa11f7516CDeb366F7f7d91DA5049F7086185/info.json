@@ -33,5 +33,6 @@
             "name": "coinmarketcap",
             "url": "https://coinmarketcap.com/currencies/rocket-boys"
         }
-    ]
+    ],
+    "logo": "ipfs://QmVwPKfaYTWqcAVcTbVNMvc6arvq82cQoTCHd5xfQR87Vu/smartchain/assets/0x071Fa11f7516CDeb366F7f7d91DA5049F7086185/logo.png"
 }

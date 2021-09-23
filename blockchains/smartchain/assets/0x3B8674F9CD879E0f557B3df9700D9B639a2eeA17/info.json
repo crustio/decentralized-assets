@@ -7,5 +7,6 @@
     "symbol": "ERTH",
     "decimals": 9,
     "status": "active",
-    "id": "0x3B8674F9CD879E0f557B3df9700D9B639a2eeA17"
+    "id": "0x3B8674F9CD879E0f557B3df9700D9B639a2eeA17",
+    "logo": "ipfs://QmVwPKfaYTWqcAVcTbVNMvc6arvq82cQoTCHd5xfQR87Vu/smartchain/assets/0x3B8674F9CD879E0f557B3df9700D9B639a2eeA17/logo.png"
 }

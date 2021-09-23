@@ -7,5 +7,6 @@
     "website": "https://playfuel.io",
     "explorer": "https://etherscan.io/token/0xaDA62f7CCd6af6cAcff04ACCBC4f56f3D4FFd4Ef",
     "status": "active",
-    "id": "0xaDA62f7CCd6af6cAcff04ACCBC4f56f3D4FFd4Ef"
+    "id": "0xaDA62f7CCd6af6cAcff04ACCBC4f56f3D4FFd4Ef",
+    "logo": "ipfs://QmVwPKfaYTWqcAVcTbVNMvc6arvq82cQoTCHd5xfQR87Vu/ethereum/assets/0xaDA62f7CCd6af6cAcff04ACCBC4f56f3D4FFd4Ef/logo.png"
 }

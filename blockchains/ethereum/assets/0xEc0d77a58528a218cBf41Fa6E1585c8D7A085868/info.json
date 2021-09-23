@@ -7,5 +7,6 @@
     "symbol": "oneETH",
     "decimals": 9,
     "status": "active",
-    "id": "0xEc0d77a58528a218cBf41Fa6E1585c8D7A085868"
+    "id": "0xEc0d77a58528a218cBf41Fa6E1585c8D7A085868",
+    "logo": "ipfs://QmVwPKfaYTWqcAVcTbVNMvc6arvq82cQoTCHd5xfQR87Vu/ethereum/assets/0xEc0d77a58528a218cBf41Fa6E1585c8D7A085868/logo.png"
 }

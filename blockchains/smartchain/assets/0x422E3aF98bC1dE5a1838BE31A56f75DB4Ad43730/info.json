@@ -17,5 +17,6 @@
             "name": "coinmarketcap",
             "url": "https://coinmarketcap.com/currencies/coinwind/"
         }
-    ]
+    ],
+    "logo": "ipfs://QmVwPKfaYTWqcAVcTbVNMvc6arvq82cQoTCHd5xfQR87Vu/smartchain/assets/0x422E3aF98bC1dE5a1838BE31A56f75DB4Ad43730/logo.png"
 }

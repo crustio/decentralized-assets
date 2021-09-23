@@ -7,5 +7,6 @@
     "symbol": "AIRBNB",
     "decimals": 9,
     "status": "active",
-    "id": "0x2403269d736C7a808C864bAD8c0848c2dE3E348c"
+    "id": "0x2403269d736C7a808C864bAD8c0848c2dE3E348c",
+    "logo": "ipfs://QmVwPKfaYTWqcAVcTbVNMvc6arvq82cQoTCHd5xfQR87Vu/smartchain/assets/0x2403269d736C7a808C864bAD8c0848c2dE3E348c/logo.png"
 }

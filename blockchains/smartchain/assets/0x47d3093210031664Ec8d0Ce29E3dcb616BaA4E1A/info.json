@@ -7,5 +7,6 @@
     "description": "Xcell is a defi protocol powered by binance smart chain",
     "explorer": "https://bscscan.com/token/0x47d3093210031664Ec8d0Ce29E3dcb616BaA4E1A",
     "status": "active",
-    "id": "0x47d3093210031664Ec8d0Ce29E3dcb616BaA4E1A"
+    "id": "0x47d3093210031664Ec8d0Ce29E3dcb616BaA4E1A",
+    "logo": "ipfs://QmVwPKfaYTWqcAVcTbVNMvc6arvq82cQoTCHd5xfQR87Vu/smartchain/assets/0x47d3093210031664Ec8d0Ce29E3dcb616BaA4E1A/logo.png"
 }

@@ -26,5 +26,6 @@
             "name": "whitepaper",
             "url": "https://github.com/smartbch/docs/blob/main/smartbch_whitepaper-en.md"
         }
-    ]
+    ],
+    "logo": "ipfs://QmVwPKfaYTWqcAVcTbVNMvc6arvq82cQoTCHd5xfQR87Vu/smartbch/info/logo.png"
 }

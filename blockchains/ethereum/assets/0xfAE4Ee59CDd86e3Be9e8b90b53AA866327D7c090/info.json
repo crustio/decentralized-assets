@@ -7,5 +7,6 @@
     "website": "http://www.cpchain.io/",
     "explorer": "https://etherscan.io/token/0xfAE4Ee59CDd86e3Be9e8b90b53AA866327D7c090",
     "status": "active",
-    "id": "0xfAE4Ee59CDd86e3Be9e8b90b53AA866327D7c090"
+    "id": "0xfAE4Ee59CDd86e3Be9e8b90b53AA866327D7c090",
+    "logo": "ipfs://QmVwPKfaYTWqcAVcTbVNMvc6arvq82cQoTCHd5xfQR87Vu/ethereum/assets/0xfAE4Ee59CDd86e3Be9e8b90b53AA866327D7c090/logo.png"
 }

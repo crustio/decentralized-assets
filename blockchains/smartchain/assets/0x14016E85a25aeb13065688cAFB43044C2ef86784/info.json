@@ -29,5 +29,6 @@
             "name": "coingecko",
             "url": "https://coingecko.com/en/coins/true-usd/"
         }
-    ]
+    ],
+    "logo": "ipfs://QmVwPKfaYTWqcAVcTbVNMvc6arvq82cQoTCHd5xfQR87Vu/smartchain/assets/0x14016E85a25aeb13065688cAFB43044C2ef86784/logo.png"
 }

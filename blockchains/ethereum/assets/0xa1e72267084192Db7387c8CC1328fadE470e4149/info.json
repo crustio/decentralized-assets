@@ -7,5 +7,6 @@
     "id": "0xa1e72267084192Db7387c8CC1328fadE470e4149",
     "type": "ERC20",
     "symbol": "tfTUSD",
-    "status": "active"
+    "status": "active",
+    "logo": "ipfs://QmVwPKfaYTWqcAVcTbVNMvc6arvq82cQoTCHd5xfQR87Vu/ethereum/assets/0xa1e72267084192Db7387c8CC1328fadE470e4149/logo.png"
 }

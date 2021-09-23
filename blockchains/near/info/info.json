@@ -25,5 +25,6 @@
             "name": "whitepaper",
             "url": "https://near.org/papers/the-official-near-white-paper"
         }
-    ]
+    ],
+    "logo": "ipfs://QmVwPKfaYTWqcAVcTbVNMvc6arvq82cQoTCHd5xfQR87Vu/near/info/logo.png"
 }

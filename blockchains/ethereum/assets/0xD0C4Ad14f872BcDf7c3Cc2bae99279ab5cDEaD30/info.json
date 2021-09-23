@@ -7,5 +7,6 @@
     "website": "https://www.epacoin.org/",
     "explorer": "https://etherscan.io/token/0xD0C4Ad14f872BcDf7c3Cc2bae99279ab5cDEaD30",
     "status": "abandoned",
-    "id": "0xD0C4Ad14f872BcDf7c3Cc2bae99279ab5cDEaD30"
+    "id": "0xD0C4Ad14f872BcDf7c3Cc2bae99279ab5cDEaD30",
+    "logo": "ipfs://QmVwPKfaYTWqcAVcTbVNMvc6arvq82cQoTCHd5xfQR87Vu/ethereum/assets/0xD0C4Ad14f872BcDf7c3Cc2bae99279ab5cDEaD30/logo.png"
 }

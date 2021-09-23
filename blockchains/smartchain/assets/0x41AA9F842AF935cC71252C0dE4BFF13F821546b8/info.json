@@ -7,5 +7,6 @@
     "description": "The first Social Farming Project on BSC",
     "explorer": "https://bscscan.com/token/0x41AA9F842AF935cC71252C0dE4BFF13F821546b8",
     "status": "active",
-    "id": "0x41AA9F842AF935cC71252C0dE4BFF13F821546b8"
+    "id": "0x41AA9F842AF935cC71252C0dE4BFF13F821546b8",
+    "logo": "ipfs://QmVwPKfaYTWqcAVcTbVNMvc6arvq82cQoTCHd5xfQR87Vu/smartchain/assets/0x41AA9F842AF935cC71252C0dE4BFF13F821546b8/logo.png"
 }

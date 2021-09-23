@@ -29,5 +29,6 @@
             "name": "coingecko",
             "url": "https://coingecko.com/en/coins/polywhale"
         }
-    ]
+    ],
+    "logo": "ipfs://QmVwPKfaYTWqcAVcTbVNMvc6arvq82cQoTCHd5xfQR87Vu/polygon/assets/0x05089C9EBFFa4F0AcA269e32056b1b36B37ED71b/logo.png"
 }

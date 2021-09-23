@@ -8,5 +8,6 @@
     "symbol": "USDX",
     "decimals": 6,
     "status": "active",
-    "id": "0x1203355742e76875154C0D13eB81DCD7711dC7d9"
+    "id": "0x1203355742e76875154C0D13eB81DCD7711dC7d9",
+    "logo": "ipfs://QmVwPKfaYTWqcAVcTbVNMvc6arvq82cQoTCHd5xfQR87Vu/smartchain/assets/0x1203355742e76875154C0D13eB81DCD7711dC7d9/logo.png"
 }

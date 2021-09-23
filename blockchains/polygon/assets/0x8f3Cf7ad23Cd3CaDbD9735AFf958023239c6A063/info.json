@@ -34,5 +34,6 @@
             "name": "coingecko",
             "url": "https://coingecko.com/en/coins/dai/"
         }
-    ]
+    ],
+    "logo": "ipfs://QmVwPKfaYTWqcAVcTbVNMvc6arvq82cQoTCHd5xfQR87Vu/polygon/assets/0x8f3Cf7ad23Cd3CaDbD9735AFf958023239c6A063/logo.png"
 }

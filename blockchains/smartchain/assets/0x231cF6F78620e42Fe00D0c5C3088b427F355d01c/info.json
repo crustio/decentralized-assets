@@ -29,5 +29,6 @@
             "name": "coinmarketcap",
             "url": "https://coinmarketcap.com/currencies/marketmove"
         }
-    ]
+    ],
+    "logo": "ipfs://QmVwPKfaYTWqcAVcTbVNMvc6arvq82cQoTCHd5xfQR87Vu/smartchain/assets/0x231cF6F78620e42Fe00D0c5C3088b427F355d01c/logo.png"
 }

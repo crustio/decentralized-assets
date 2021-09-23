@@ -7,5 +7,6 @@
     "website": "https://quarkchain.io",
     "explorer": "https://etherscan.io/token/0xEA26c4aC16D4a5A106820BC8AEE85fd0b7b2b664",
     "status": "active",
-    "id": "0xEA26c4aC16D4a5A106820BC8AEE85fd0b7b2b664"
+    "id": "0xEA26c4aC16D4a5A106820BC8AEE85fd0b7b2b664",
+    "logo": "ipfs://QmVwPKfaYTWqcAVcTbVNMvc6arvq82cQoTCHd5xfQR87Vu/ethereum/assets/0xEA26c4aC16D4a5A106820BC8AEE85fd0b7b2b664/logo.png"
 }

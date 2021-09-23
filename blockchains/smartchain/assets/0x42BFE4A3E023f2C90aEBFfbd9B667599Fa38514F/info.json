@@ -41,5 +41,6 @@
             "name": "coinmarketcap",
             "url": "https://coinmarketcap.com/currencies/ulti-arena"
         }
-    ]
+    ],
+    "logo": "ipfs://QmVwPKfaYTWqcAVcTbVNMvc6arvq82cQoTCHd5xfQR87Vu/smartchain/assets/0x42BFE4A3E023f2C90aEBFfbd9B667599Fa38514F/logo.png"
 }

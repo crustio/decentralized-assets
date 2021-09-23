@@ -25,5 +25,6 @@
             "name": "coingecko",
             "url": "https://coingecko.com/en/coins/chainlink/"
         }
-    ]
+    ],
+    "logo": "ipfs://QmVwPKfaYTWqcAVcTbVNMvc6arvq82cQoTCHd5xfQR87Vu/polygon/assets/0x53E0bca35eC356BD5ddDFebbD1Fc0fD03FaBad39/logo.png"
 }

@@ -7,5 +7,6 @@
     "decimals": 18,
     "status": "active",
     "explorer": "https://bscscan.com/token/0x1e4e9397533efBF31eD451Eae1c17Bca090Bc9ef",
-    "id": "0x1e4e9397533efBF31eD451Eae1c17Bca090Bc9ef"
+    "id": "0x1e4e9397533efBF31eD451Eae1c17Bca090Bc9ef",
+    "logo": "ipfs://QmVwPKfaYTWqcAVcTbVNMvc6arvq82cQoTCHd5xfQR87Vu/smartchain/assets/0x1e4e9397533efBF31eD451Eae1c17Bca090Bc9ef/logo.png"
 }

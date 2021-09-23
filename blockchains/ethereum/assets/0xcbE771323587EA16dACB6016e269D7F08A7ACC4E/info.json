@@ -25,5 +25,6 @@
             "name": "coinmarketcap",
             "url": "https://coinmarketcap.com/currencies/spores-network"
         }
-    ]
+    ],
+    "logo": "ipfs://QmVwPKfaYTWqcAVcTbVNMvc6arvq82cQoTCHd5xfQR87Vu/ethereum/assets/0xcbE771323587EA16dACB6016e269D7F08A7ACC4E/logo.png"
 }

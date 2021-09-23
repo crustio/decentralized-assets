@@ -49,5 +49,6 @@
             "name": "coingecko",
             "url": "https://coingecko.com/en/coins/apeswap-finance"
         }
-    ]
+    ],
+    "logo": "ipfs://QmVwPKfaYTWqcAVcTbVNMvc6arvq82cQoTCHd5xfQR87Vu/polygon/assets/0x5d47bAbA0d66083C52009271faF3F50DCc01023C/logo.png"
 }

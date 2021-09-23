@@ -7,5 +7,6 @@
     "description": "Smart Advertising Transaction Token",
     "explorer": "https://bscscan.com/token/0x448BEE2d93Be708b54eE6353A7CC35C4933F1156",
     "status": "active",
-    "id": "0x448BEE2d93Be708b54eE6353A7CC35C4933F1156"
+    "id": "0x448BEE2d93Be708b54eE6353A7CC35C4933F1156",
+    "logo": "ipfs://QmVwPKfaYTWqcAVcTbVNMvc6arvq82cQoTCHd5xfQR87Vu/smartchain/assets/0x448BEE2d93Be708b54eE6353A7CC35C4933F1156/logo.png"
 }

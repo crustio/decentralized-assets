@@ -7,5 +7,6 @@
     "description": "Please update logo and info",
     "explorer": "https://bscscan.com/token/0x0Fe3e956D2034BCEF01FbA8A2BfCA389cdb72699",
     "status": "active",
-    "id": "0x0Fe3e956D2034BCEF01FbA8A2BfCA389cdb72699"
+    "id": "0x0Fe3e956D2034BCEF01FbA8A2BfCA389cdb72699",
+    "logo": "ipfs://QmVwPKfaYTWqcAVcTbVNMvc6arvq82cQoTCHd5xfQR87Vu/smartchain/assets/0x0Fe3e956D2034BCEF01FbA8A2BfCA389cdb72699/logo.png"
 }

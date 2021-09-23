@@ -7,5 +7,6 @@
     "description": "SierraToken is the token of a community created to prevent addictions.",
     "explorer": "https://bscscan.com/token/0x0607396970188B2e524c1cDe4Af1F9A191DeE150",
     "status": "active",
-    "id": "0x0607396970188B2e524c1cDe4Af1F9A191DeE150"
+    "id": "0x0607396970188B2e524c1cDe4Af1F9A191DeE150",
+    "logo": "ipfs://QmVwPKfaYTWqcAVcTbVNMvc6arvq82cQoTCHd5xfQR87Vu/smartchain/assets/0x0607396970188B2e524c1cDe4Af1F9A191DeE150/logo.png"
 }

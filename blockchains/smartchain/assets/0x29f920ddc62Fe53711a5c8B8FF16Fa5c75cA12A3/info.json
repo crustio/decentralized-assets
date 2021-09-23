@@ -7,5 +7,6 @@
     "symbol": "LOTDOG",
     "decimals": 9,
     "status": "active",
-    "id": "0x29f920ddc62Fe53711a5c8B8FF16Fa5c75cA12A3"
+    "id": "0x29f920ddc62Fe53711a5c8B8FF16Fa5c75cA12A3",
+    "logo": "ipfs://QmVwPKfaYTWqcAVcTbVNMvc6arvq82cQoTCHd5xfQR87Vu/smartchain/assets/0x29f920ddc62Fe53711a5c8B8FF16Fa5c75cA12A3/logo.png"
 }

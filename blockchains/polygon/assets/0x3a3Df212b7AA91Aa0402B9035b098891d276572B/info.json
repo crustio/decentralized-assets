@@ -29,5 +29,6 @@
             "name": "coingecko",
             "url": "https://coingecko.com/en/coins/polycat-finance/"
         }
-    ]
+    ],
+    "logo": "ipfs://QmVwPKfaYTWqcAVcTbVNMvc6arvq82cQoTCHd5xfQR87Vu/polygon/assets/0x3a3Df212b7AA91Aa0402B9035b098891d276572B/logo.png"
 }

@@ -7,5 +7,6 @@
     "symbol": "Bashtank",
     "decimals": 9,
     "status": "active",
-    "id": "0x484312A0AAeaE3aE36a74FF3e294246F35dDDf4F"
+    "id": "0x484312A0AAeaE3aE36a74FF3e294246F35dDDf4F",
+    "logo": "ipfs://QmVwPKfaYTWqcAVcTbVNMvc6arvq82cQoTCHd5xfQR87Vu/smartchain/assets/0x484312A0AAeaE3aE36a74FF3e294246F35dDDf4F/logo.png"
 }

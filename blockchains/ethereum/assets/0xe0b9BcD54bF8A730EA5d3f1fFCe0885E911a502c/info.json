@@ -7,5 +7,6 @@
     "website": "https://zum-token.com/",
     "explorer": "https://etherscan.io/token/0xe0b9BcD54bF8A730EA5d3f1fFCe0885E911a502c",
     "status": "active",
-    "id": "0xe0b9BcD54bF8A730EA5d3f1fFCe0885E911a502c"
+    "id": "0xe0b9BcD54bF8A730EA5d3f1fFCe0885E911a502c",
+    "logo": "ipfs://QmVwPKfaYTWqcAVcTbVNMvc6arvq82cQoTCHd5xfQR87Vu/ethereum/assets/0xe0b9BcD54bF8A730EA5d3f1fFCe0885E911a502c/logo.png"
 }

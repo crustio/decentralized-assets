@@ -37,5 +37,6 @@
             "name": "coingecko",
             "url": "https://coingecko.com/en/coins/swissborg/"
         }
-    ]
+    ],
+    "logo": "ipfs://QmVwPKfaYTWqcAVcTbVNMvc6arvq82cQoTCHd5xfQR87Vu/ethereum/assets/0xba9d4199faB4f26eFE3551D490E3821486f135Ba/logo.png"
 }

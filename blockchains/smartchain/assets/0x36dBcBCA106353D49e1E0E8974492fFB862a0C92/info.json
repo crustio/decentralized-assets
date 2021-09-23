@@ -7,5 +7,6 @@
     "description": "A unique Rugpull-Proof utility token and exchange platform based on the Binance Smart Chain. Our exchange is here to return security to BEP20 token investments.",
     "explorer": "https://bscscan.com/token/0x36dBcBCA106353D49e1E0E8974492fFB862a0C92",
     "status": "active",
-    "id": "0x36dBcBCA106353D49e1E0E8974492fFB862a0C92"
+    "id": "0x36dBcBCA106353D49e1E0E8974492fFB862a0C92",
+    "logo": "ipfs://QmVwPKfaYTWqcAVcTbVNMvc6arvq82cQoTCHd5xfQR87Vu/smartchain/assets/0x36dBcBCA106353D49e1E0E8974492fFB862a0C92/logo.png"
 }
