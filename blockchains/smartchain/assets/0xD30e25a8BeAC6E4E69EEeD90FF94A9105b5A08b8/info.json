@@ -7,5 +7,6 @@
     "description": "UniCat Yield Farm",
     "explorer": "https://bscscan.com/token/0xD30e25a8BeAC6E4E69EEeD90FF94A9105b5A08b8",
     "status": "active",
-    "id": "0xD30e25a8BeAC6E4E69EEeD90FF94A9105b5A08b8"
+    "id": "0xD30e25a8BeAC6E4E69EEeD90FF94A9105b5A08b8",
+    "logo": "ipfs://QmVwPKfaYTWqcAVcTbVNMvc6arvq82cQoTCHd5xfQR87Vu/smartchain/assets/0xD30e25a8BeAC6E4E69EEeD90FF94A9105b5A08b8/logo.png"
 }

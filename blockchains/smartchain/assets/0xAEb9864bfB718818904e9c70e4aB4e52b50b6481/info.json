@@ -7,5 +7,6 @@
     "explorer": "https://bscscan.com/token/0xAEb9864bfB718818904e9c70e4aB4e52b50b6481",
     "status": "active",
     "id": "0xAEb9864bfB718818904e9c70e4aB4e52b50b6481",
-    "description": "PEA Farm is virtual blockchain game that uses blockchain technology and NFT to create a variety of digital assets and give the ownership to the players."
+    "description": "PEA Farm is virtual blockchain game that uses blockchain technology and NFT to create a variety of digital assets and give the ownership to the players.",
+    "logo": "ipfs://QmVwPKfaYTWqcAVcTbVNMvc6arvq82cQoTCHd5xfQR87Vu/smartchain/assets/0xAEb9864bfB718818904e9c70e4aB4e52b50b6481/logo.png"
 }

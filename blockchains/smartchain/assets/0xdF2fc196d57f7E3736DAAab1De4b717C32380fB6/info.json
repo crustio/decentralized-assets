@@ -7,5 +7,6 @@
     "description": "Yield farm Cardano on Binance Smart Chain",
     "explorer": "https://bscscan.com/token/0xdF2fc196d57f7E3736DAAab1De4b717C32380fB6",
     "status": "active",
-    "id": "0xdF2fc196d57f7E3736DAAab1De4b717C32380fB6"
+    "id": "0xdF2fc196d57f7E3736DAAab1De4b717C32380fB6",
+    "logo": "ipfs://QmVwPKfaYTWqcAVcTbVNMvc6arvq82cQoTCHd5xfQR87Vu/smartchain/assets/0xdF2fc196d57f7E3736DAAab1De4b717C32380fB6/logo.png"
 }

@@ -21,5 +21,6 @@
     "symbol": "vMATIC",
     "decimals": 8,
     "status": "active",
-    "id": "0x5c9476FcD6a4F9a3654139721c949c2233bBbBc8"
+    "id": "0x5c9476FcD6a4F9a3654139721c949c2233bBbBc8",
+    "logo": "ipfs://QmVwPKfaYTWqcAVcTbVNMvc6arvq82cQoTCHd5xfQR87Vu/smartchain/assets/0x5c9476FcD6a4F9a3654139721c949c2233bBbBc8/logo.png"
 }

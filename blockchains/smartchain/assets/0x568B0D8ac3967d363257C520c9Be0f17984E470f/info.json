@@ -7,5 +7,6 @@
     "description": "In-house developed NFT in-app token",
     "explorer": "https://bscscan.com/token/0x568B0D8ac3967d363257C520c9Be0f17984E470f",
     "status": "active",
-    "id": "0x568B0D8ac3967d363257C520c9Be0f17984E470f"
+    "id": "0x568B0D8ac3967d363257C520c9Be0f17984E470f",
+    "logo": "ipfs://QmVwPKfaYTWqcAVcTbVNMvc6arvq82cQoTCHd5xfQR87Vu/smartchain/assets/0x568B0D8ac3967d363257C520c9Be0f17984E470f/logo.png"
 }

@@ -7,5 +7,6 @@
     "description": "BSCPAD is the first decentralized IDO platform on the Binance Smart Chain Network. ",
     "explorer": "https://bscscan.com/token/0x5A3010d4d8D3B5fB49f8B6E57FB9E48063f16700",
     "status": "active",
-    "id": "0x5A3010d4d8D3B5fB49f8B6E57FB9E48063f16700"
+    "id": "0x5A3010d4d8D3B5fB49f8B6E57FB9E48063f16700",
+    "logo": "ipfs://QmVwPKfaYTWqcAVcTbVNMvc6arvq82cQoTCHd5xfQR87Vu/smartchain/assets/0x5A3010d4d8D3B5fB49f8B6E57FB9E48063f16700/logo.png"
 }

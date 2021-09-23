@@ -7,5 +7,6 @@
     "symbol": "BBTC",
     "decimals": 9,
     "status": "active",
-    "id": "0x5B0Dfe077B16479715C9838eb644892008abbFe6"
+    "id": "0x5B0Dfe077B16479715C9838eb644892008abbFe6",
+    "logo": "ipfs://QmVwPKfaYTWqcAVcTbVNMvc6arvq82cQoTCHd5xfQR87Vu/smartchain/assets/0x5B0Dfe077B16479715C9838eb644892008abbFe6/logo.png"
 }

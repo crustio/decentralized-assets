@@ -8,5 +8,6 @@
     "symbol": "BCH",
     "decimals": 18,
     "status": "active",
-    "id": "0x8fF795a6F4D97E7887C79beA79aba5cc76444aDf"
+    "id": "0x8fF795a6F4D97E7887C79beA79aba5cc76444aDf",
+    "logo": "ipfs://QmVwPKfaYTWqcAVcTbVNMvc6arvq82cQoTCHd5xfQR87Vu/smartchain/assets/0x8fF795a6F4D97E7887C79beA79aba5cc76444aDf/logo.png"
 }

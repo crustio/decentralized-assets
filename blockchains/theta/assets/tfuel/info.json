@@ -7,5 +7,6 @@
     "description": "Theta Fuel (TFUEL) is one of the two native tokens on the Theta blockchain",
     "explorer": "https://explorer.thetatoken.org/",
     "status": "active",
-    "id": "tfuel"
+    "id": "tfuel",
+    "logo": "ipfs://QmVwPKfaYTWqcAVcTbVNMvc6arvq82cQoTCHd5xfQR87Vu/theta/assets/tfuel/logo.png"
 }

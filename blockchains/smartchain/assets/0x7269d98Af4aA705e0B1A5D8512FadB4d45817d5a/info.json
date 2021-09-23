@@ -25,5 +25,6 @@
             "name": "coingecko",
             "url": "https://coingecko.com/es/monedas/shirtum"
         }
-    ]
+    ],
+    "logo": "ipfs://QmVwPKfaYTWqcAVcTbVNMvc6arvq82cQoTCHd5xfQR87Vu/smartchain/assets/0x7269d98Af4aA705e0B1A5D8512FadB4d45817d5a/logo.png"
 }

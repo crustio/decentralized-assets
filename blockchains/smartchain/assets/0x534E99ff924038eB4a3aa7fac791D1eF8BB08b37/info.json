@@ -25,5 +25,6 @@
     "symbol": "TITS",
     "decimals": 18,
     "status": "active",
-    "id": "0x534E99ff924038eB4a3aa7fac791D1eF8BB08b37"
+    "id": "0x534E99ff924038eB4a3aa7fac791D1eF8BB08b37",
+    "logo": "ipfs://QmVwPKfaYTWqcAVcTbVNMvc6arvq82cQoTCHd5xfQR87Vu/smartchain/assets/0x534E99ff924038eB4a3aa7fac791D1eF8BB08b37/logo.png"
 }

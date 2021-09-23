@@ -7,5 +7,6 @@
     "description": "-",
     "explorer": "https://blockscout.com/xdai/mainnet/tokens/0x1e16aa4Df73d29C029d94CeDa3e3114EC191E25A",
     "status": "active",
-    "id": "0x1e16aa4Df73d29C029d94CeDa3e3114EC191E25A"
+    "id": "0x1e16aa4Df73d29C029d94CeDa3e3114EC191E25A",
+    "logo": "ipfs://QmVwPKfaYTWqcAVcTbVNMvc6arvq82cQoTCHd5xfQR87Vu/xdai/assets/0x1e16aa4Df73d29C029d94CeDa3e3114EC191E25A/logo.png"
 }

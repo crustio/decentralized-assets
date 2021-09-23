@@ -7,5 +7,6 @@
     "symbol": "ECOIN",
     "decimals": 9,
     "status": "active",
-    "id": "0x4cbdfad03b968bF43449D0908f319Ae4A5A33371"
+    "id": "0x4cbdfad03b968bF43449D0908f319Ae4A5A33371",
+    "logo": "ipfs://QmVwPKfaYTWqcAVcTbVNMvc6arvq82cQoTCHd5xfQR87Vu/smartchain/assets/0x4cbdfad03b968bF43449D0908f319Ae4A5A33371/logo.png"
 }

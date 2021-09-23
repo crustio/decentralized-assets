@@ -7,5 +7,6 @@
     "description": "The SafeMars Protocol is a community driven, fair launched DeFi Token. Three simple functions occur during each trade: Reflection, LP Acquisition & Burn.",
     "explorer": "https://bscscan.com/token/0xC0366a104b429f0806BfA98d0008DAA9555b2BEd",
     "status": "active",
-    "id": "0xC0366a104b429f0806BfA98d0008DAA9555b2BEd"
+    "id": "0xC0366a104b429f0806BfA98d0008DAA9555b2BEd",
+    "logo": "ipfs://QmVwPKfaYTWqcAVcTbVNMvc6arvq82cQoTCHd5xfQR87Vu/smartchain/assets/0xC0366a104b429f0806BfA98d0008DAA9555b2BEd/logo.png"
 }

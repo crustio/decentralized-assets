@@ -37,5 +37,6 @@
             "name": "coinmarketcap",
             "url": "https://coinmarketcap.com/currencies/whenlambo/"
         }
-    ]
+    ],
+    "logo": "ipfs://QmVwPKfaYTWqcAVcTbVNMvc6arvq82cQoTCHd5xfQR87Vu/smartchain/assets/0xE03495fCa9e644d55B65c30ed9fdC3321C260126/logo.png"
 }

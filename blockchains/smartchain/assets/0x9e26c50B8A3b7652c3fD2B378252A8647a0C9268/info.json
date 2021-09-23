@@ -49,5 +49,6 @@
             "name": "coinmarketcap",
             "url": "https://coinmarketcap.com/currencies/shibance"
         }
-    ]
+    ],
+    "logo": "ipfs://QmVwPKfaYTWqcAVcTbVNMvc6arvq82cQoTCHd5xfQR87Vu/smartchain/assets/0x9e26c50B8A3b7652c3fD2B378252A8647a0C9268/logo.png"
 }

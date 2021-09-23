@@ -7,5 +7,6 @@
     "symbol": "GBEN",
     "decimals": 18,
     "status": "active",
-    "id": "0x8173dDa13Fd405e5BcA84Bd7F64e58cAF4810A32"
+    "id": "0x8173dDa13Fd405e5BcA84Bd7F64e58cAF4810A32",
+    "logo": "ipfs://QmVwPKfaYTWqcAVcTbVNMvc6arvq82cQoTCHd5xfQR87Vu/smartchain/assets/0x8173dDa13Fd405e5BcA84Bd7F64e58cAF4810A32/logo.png"
 }

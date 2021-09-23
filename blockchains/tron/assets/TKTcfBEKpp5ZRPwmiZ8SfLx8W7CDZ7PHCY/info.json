@@ -7,5 +7,6 @@
     "website": "https://www.tronwallet.me/",
     "explorer": "https://tronscan.io/#/token20/TKTcfBEKpp5ZRPwmiZ8SfLx8W7CDZ7PHCY",
     "status": "active",
-    "id": "TKTcfBEKpp5ZRPwmiZ8SfLx8W7CDZ7PHCY"
+    "id": "TKTcfBEKpp5ZRPwmiZ8SfLx8W7CDZ7PHCY",
+    "logo": "ipfs://QmVwPKfaYTWqcAVcTbVNMvc6arvq82cQoTCHd5xfQR87Vu/tron/assets/TKTcfBEKpp5ZRPwmiZ8SfLx8W7CDZ7PHCY/logo.png"
 }

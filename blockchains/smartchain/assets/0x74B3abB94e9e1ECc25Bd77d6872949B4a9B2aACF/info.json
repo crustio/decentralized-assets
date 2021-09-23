@@ -7,5 +7,6 @@
     "symbol": "DFX",
     "decimals": 18,
     "status": "active",
-    "id": "0x74B3abB94e9e1ECc25Bd77d6872949B4a9B2aACF"
+    "id": "0x74B3abB94e9e1ECc25Bd77d6872949B4a9B2aACF",
+    "logo": "ipfs://QmVwPKfaYTWqcAVcTbVNMvc6arvq82cQoTCHd5xfQR87Vu/smartchain/assets/0x74B3abB94e9e1ECc25Bd77d6872949B4a9B2aACF/logo.png"
 }

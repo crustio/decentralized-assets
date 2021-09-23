@@ -7,5 +7,6 @@
     "description": "A next evolution DeFi exchange on BinanceSmartChain.",
     "explorer": "https://bscscan.com/token/0xE7A8E7d7729859EA6eEdbd4D67F8c97A22b11435",
     "status": "active",
-    "id": "0xE7A8E7d7729859EA6eEdbd4D67F8c97A22b11435"
+    "id": "0xE7A8E7d7729859EA6eEdbd4D67F8c97A22b11435",
+    "logo": "ipfs://QmVwPKfaYTWqcAVcTbVNMvc6arvq82cQoTCHd5xfQR87Vu/smartchain/assets/0xE7A8E7d7729859EA6eEdbd4D67F8c97A22b11435/logo.png"
 }

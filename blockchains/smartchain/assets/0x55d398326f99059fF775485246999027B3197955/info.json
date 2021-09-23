@@ -18,5 +18,6 @@
             "name": "coingecko",
             "url": "https://coingecko.com/en/coins/tether/"
         }
-    ]
+    ],
+    "logo": "ipfs://QmVwPKfaYTWqcAVcTbVNMvc6arvq82cQoTCHd5xfQR87Vu/smartchain/assets/0x55d398326f99059fF775485246999027B3197955/logo.png"
 }

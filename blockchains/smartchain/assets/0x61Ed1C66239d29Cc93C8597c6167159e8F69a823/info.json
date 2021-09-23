@@ -8,5 +8,6 @@
     "symbol": "RSD",
     "decimals": 18,
     "status": "active",
-    "id": "0x61Ed1C66239d29Cc93C8597c6167159e8F69a823"
+    "id": "0x61Ed1C66239d29Cc93C8597c6167159e8F69a823",
+    "logo": "ipfs://QmVwPKfaYTWqcAVcTbVNMvc6arvq82cQoTCHd5xfQR87Vu/smartchain/assets/0x61Ed1C66239d29Cc93C8597c6167159e8F69a823/logo.png"
 }

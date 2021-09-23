@@ -7,5 +7,6 @@
     "symbol": "THOREUM",
     "decimals": 18,
     "status": "active",
-    "id": "0x580dE58c1BD593A43DaDcF0A739d504621817c05"
+    "id": "0x580dE58c1BD593A43DaDcF0A739d504621817c05",
+    "logo": "ipfs://QmVwPKfaYTWqcAVcTbVNMvc6arvq82cQoTCHd5xfQR87Vu/smartchain/assets/0x580dE58c1BD593A43DaDcF0A739d504621817c05/logo.png"
 }

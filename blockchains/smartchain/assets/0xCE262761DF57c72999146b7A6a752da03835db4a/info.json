@@ -49,5 +49,6 @@
             "name": "coinmarketcap",
             "url": "https://coinmarketcap.com/currencies/mu-continent"
         }
-    ]
+    ],
+    "logo": "ipfs://QmVwPKfaYTWqcAVcTbVNMvc6arvq82cQoTCHd5xfQR87Vu/smartchain/assets/0xCE262761DF57c72999146b7A6a752da03835db4a/logo.png"
 }

@@ -7,5 +7,6 @@
     "symbol": "PANDA",
     "decimals": 9,
     "status": "active",
-    "id": "0x8578Eb576e126f67913a8bC0622e0A22EBa0989A"
+    "id": "0x8578Eb576e126f67913a8bC0622e0A22EBa0989A",
+    "logo": "ipfs://QmVwPKfaYTWqcAVcTbVNMvc6arvq82cQoTCHd5xfQR87Vu/smartchain/assets/0x8578Eb576e126f67913a8bC0622e0A22EBa0989A/logo.png"
 }

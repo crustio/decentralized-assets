@@ -7,5 +7,6 @@
     "description": "Rose Finance is a payment protocol for social network designed to be accessible and lightweight, with a focus on reducing transaction fees based on Binance Smart Chain",
     "explorer": "https://bscscan.com/token/0xCD95B05Ebe61244de4dF9c2C4123920F016a06DF",
     "status": "active",
-    "id": "0xCD95B05Ebe61244de4dF9c2C4123920F016a06DF"
+    "id": "0xCD95B05Ebe61244de4dF9c2C4123920F016a06DF",
+    "logo": "ipfs://QmVwPKfaYTWqcAVcTbVNMvc6arvq82cQoTCHd5xfQR87Vu/smartchain/assets/0xCD95B05Ebe61244de4dF9c2C4123920F016a06DF/logo.png"
 }

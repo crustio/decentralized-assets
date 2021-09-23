@@ -41,5 +41,6 @@
             "name": "blog",
             "url": "https://blog.protonchain.com/"
         }
-    ]
+    ],
+    "logo": "ipfs://QmVwPKfaYTWqcAVcTbVNMvc6arvq82cQoTCHd5xfQR87Vu/smartchain/assets/0x5de3939b2F811A61d830E6F52d13B066881412ab/logo.png"
 }

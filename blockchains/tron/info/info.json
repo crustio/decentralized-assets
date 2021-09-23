@@ -28,5 +28,6 @@
             "name": "whitepaper",
             "url": "https://developers.tron.network/docs"
         }
-    ]
+    ],
+    "logo": "ipfs://QmVwPKfaYTWqcAVcTbVNMvc6arvq82cQoTCHd5xfQR87Vu/tron/info/logo.png"
 }

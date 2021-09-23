@@ -25,5 +25,6 @@
             "name": "whitepaper",
             "url": "https://docs.thundercore.com/thunder-whitepaper.pdf"
         }
-    ]
+    ],
+    "logo": "ipfs://QmVwPKfaYTWqcAVcTbVNMvc6arvq82cQoTCHd5xfQR87Vu/thundertoken/info/logo.png"
 }

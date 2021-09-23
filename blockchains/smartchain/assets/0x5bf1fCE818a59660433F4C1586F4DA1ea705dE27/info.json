@@ -8,5 +8,6 @@
     "website2": "https://swap.uponlydefi.com/",
     "explorer": "https://bscscan.com/token/0x5bf1fCE818a59660433F4C1586F4DA1ea705dE27",
     "status": "active",
-    "id": "0x5bf1fCE818a59660433F4C1586F4DA1ea705dE27"
+    "id": "0x5bf1fCE818a59660433F4C1586F4DA1ea705dE27",
+    "logo": "ipfs://QmVwPKfaYTWqcAVcTbVNMvc6arvq82cQoTCHd5xfQR87Vu/smartchain/assets/0x5bf1fCE818a59660433F4C1586F4DA1ea705dE27/logo.png"
 }

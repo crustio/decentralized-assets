@@ -21,5 +21,6 @@
             "name": "coinmarketcap",
             "url": "https://coinmarketcap.com/currencies/microshib/"
         }
-    ]
+    ],
+    "logo": "ipfs://QmVwPKfaYTWqcAVcTbVNMvc6arvq82cQoTCHd5xfQR87Vu/smartchain/assets/0xb78e41AE7fc8121978168557bB096e1A858be2Ea/logo.png"
 }

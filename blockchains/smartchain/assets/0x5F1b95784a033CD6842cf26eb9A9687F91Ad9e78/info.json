@@ -41,5 +41,6 @@
             "name": "source_code",
             "url": "https://bscscan.com/address/0x5f1b95784a033cd6842cf26eb9a9687f91ad9e78#code"
         }
-    ]
+    ],
+    "logo": "ipfs://QmVwPKfaYTWqcAVcTbVNMvc6arvq82cQoTCHd5xfQR87Vu/smartchain/assets/0x5F1b95784a033CD6842cf26eb9A9687F91Ad9e78/logo.png"
 }

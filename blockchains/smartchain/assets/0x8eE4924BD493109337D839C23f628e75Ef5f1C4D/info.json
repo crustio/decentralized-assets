@@ -7,5 +7,6 @@
     "symbol": "Ben",
     "decimals": 18,
     "status": "active",
-    "id": "0x8eE4924BD493109337D839C23f628e75Ef5f1C4D"
+    "id": "0x8eE4924BD493109337D839C23f628e75Ef5f1C4D",
+    "logo": "ipfs://QmVwPKfaYTWqcAVcTbVNMvc6arvq82cQoTCHd5xfQR87Vu/smartchain/assets/0x8eE4924BD493109337D839C23f628e75Ef5f1C4D/logo.png"
 }

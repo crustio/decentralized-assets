@@ -7,5 +7,6 @@
     "symbol": "NBTC",
     "decimals": 9,
     "status": "active",
-    "id": "0xBE878cffB39A347A70809b5D98B65Dd85De2e37B"
+    "id": "0xBE878cffB39A347A70809b5D98B65Dd85De2e37B",
+    "logo": "ipfs://QmVwPKfaYTWqcAVcTbVNMvc6arvq82cQoTCHd5xfQR87Vu/smartchain/assets/0xBE878cffB39A347A70809b5D98B65Dd85De2e37B/logo.png"
 }

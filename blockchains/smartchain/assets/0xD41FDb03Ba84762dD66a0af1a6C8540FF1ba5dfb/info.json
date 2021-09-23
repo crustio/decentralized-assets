@@ -30,5 +30,6 @@
             "name": "coinmarketcap",
             "url": "https://coinmarketcap.com/currencies/safepal/"
         }
-    ]
+    ],
+    "logo": "ipfs://QmVwPKfaYTWqcAVcTbVNMvc6arvq82cQoTCHd5xfQR87Vu/smartchain/assets/0xD41FDb03Ba84762dD66a0af1a6C8540FF1ba5dfb/logo.png"
 }

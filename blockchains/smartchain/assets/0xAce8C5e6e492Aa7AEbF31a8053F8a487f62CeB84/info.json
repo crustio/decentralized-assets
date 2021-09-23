@@ -7,5 +7,6 @@
     "symbol": "NADA",
     "decimals": 18,
     "status": "active",
-    "id": "0xAce8C5e6e492Aa7AEbF31a8053F8a487f62CeB84"
+    "id": "0xAce8C5e6e492Aa7AEbF31a8053F8a487f62CeB84",
+    "logo": "ipfs://QmVwPKfaYTWqcAVcTbVNMvc6arvq82cQoTCHd5xfQR87Vu/smartchain/assets/0xAce8C5e6e492Aa7AEbF31a8053F8a487f62CeB84/logo.png"
 }

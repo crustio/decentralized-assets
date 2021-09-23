@@ -8,5 +8,6 @@
     "symbol": "WBNB",
     "decimals": 18,
     "status": "active",
-    "id": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c"
+    "id": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
+    "logo": "ipfs://QmVwPKfaYTWqcAVcTbVNMvc6arvq82cQoTCHd5xfQR87Vu/smartchain/assets/0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c/logo.png"
 }

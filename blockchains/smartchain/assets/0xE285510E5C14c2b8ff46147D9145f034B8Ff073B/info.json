@@ -7,5 +7,6 @@
     "symbol": "VCSPERM",
     "type": "BEP20",
     "decimals": 0,
-    "status": "active"
+    "status": "active",
+    "logo": "ipfs://QmVwPKfaYTWqcAVcTbVNMvc6arvq82cQoTCHd5xfQR87Vu/smartchain/assets/0xE285510E5C14c2b8ff46147D9145f034B8Ff073B/logo.png"
 }

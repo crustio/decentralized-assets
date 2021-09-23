@@ -7,5 +7,6 @@
     "description": "MoonPump ($PUMP) is the community-built utility token for the upcoming PumpLaunch platform.",
     "explorer": "https://bscscan.com/token/0x5610Bf2BF5ABe5750BDBCe311631dEE2aFa2Cd24",
     "status": "active",
-    "id": "0x5610Bf2BF5ABe5750BDBCe311631dEE2aFa2Cd24"
+    "id": "0x5610Bf2BF5ABe5750BDBCe311631dEE2aFa2Cd24",
+    "logo": "ipfs://QmVwPKfaYTWqcAVcTbVNMvc6arvq82cQoTCHd5xfQR87Vu/smartchain/assets/0x5610Bf2BF5ABe5750BDBCe311631dEE2aFa2Cd24/logo.png"
 }

@@ -7,5 +7,6 @@
     "symbol": "SAFEDOGE",
     "decimals": 9,
     "status": "active",
-    "id": "0x7b5beB86af822125762bd0E9eb0Df3154ffbF640"
+    "id": "0x7b5beB86af822125762bd0E9eb0Df3154ffbF640",
+    "logo": "ipfs://QmVwPKfaYTWqcAVcTbVNMvc6arvq82cQoTCHd5xfQR87Vu/smartchain/assets/0x7b5beB86af822125762bd0E9eb0Df3154ffbF640/logo.png"
 }

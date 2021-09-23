@@ -7,5 +7,6 @@
     "symbol": "FETCH",
     "decimals": 9,
     "status": "active",
-    "id": "0x8bfc1c564E4490790DFac641C9a0FecD3f91F584"
+    "id": "0x8bfc1c564E4490790DFac641C9a0FecD3f91F584",
+    "logo": "ipfs://QmVwPKfaYTWqcAVcTbVNMvc6arvq82cQoTCHd5xfQR87Vu/smartchain/assets/0x8bfc1c564E4490790DFac641C9a0FecD3f91F584/logo.png"
 }

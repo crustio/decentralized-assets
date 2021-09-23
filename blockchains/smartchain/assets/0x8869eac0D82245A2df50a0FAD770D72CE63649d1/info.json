@@ -7,5 +7,6 @@
     "symbol": "DOGS",
     "decimals": 18,
     "status": "active",
-    "id": "0x8869eac0D82245A2df50a0FAD770D72CE63649d1"
+    "id": "0x8869eac0D82245A2df50a0FAD770D72CE63649d1",
+    "logo": "ipfs://QmVwPKfaYTWqcAVcTbVNMvc6arvq82cQoTCHd5xfQR87Vu/smartchain/assets/0x8869eac0D82245A2df50a0FAD770D72CE63649d1/logo.png"
 }

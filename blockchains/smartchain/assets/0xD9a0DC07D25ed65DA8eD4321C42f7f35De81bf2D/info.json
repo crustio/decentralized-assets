@@ -7,5 +7,6 @@
     "description": "FISH is governance of FishSwap - A Decentralzied Exchange Protocol with Optimized Yield Farming, Pools and Lottery features. ",
     "explorer": "https://bscscan.com/token/0xD9a0DC07D25ed65DA8eD4321C42f7f35De81bf2D",
     "status": "active",
-    "id": "0xD9a0DC07D25ed65DA8eD4321C42f7f35De81bf2D"
+    "id": "0xD9a0DC07D25ed65DA8eD4321C42f7f35De81bf2D",
+    "logo": "ipfs://QmVwPKfaYTWqcAVcTbVNMvc6arvq82cQoTCHd5xfQR87Vu/smartchain/assets/0xD9a0DC07D25ed65DA8eD4321C42f7f35De81bf2D/logo.png"
 }

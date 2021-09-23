@@ -8,5 +8,6 @@
     "symbol": "SHIELD",
     "decimals": 18,
     "status": "active",
-    "id": "0x60b3BC37593853c04410c4F07fE4D6748245BF77"
+    "id": "0x60b3BC37593853c04410c4F07fE4D6748245BF77",
+    "logo": "ipfs://QmVwPKfaYTWqcAVcTbVNMvc6arvq82cQoTCHd5xfQR87Vu/smartchain/assets/0x60b3BC37593853c04410c4F07fE4D6748245BF77/logo.png"
 }

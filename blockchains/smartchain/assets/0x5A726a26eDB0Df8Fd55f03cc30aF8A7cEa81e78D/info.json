@@ -17,5 +17,6 @@
             "name": "telegram",
             "url": "https://t.me/crosswallet"
         }
-    ]
+    ],
+    "logo": "ipfs://QmVwPKfaYTWqcAVcTbVNMvc6arvq82cQoTCHd5xfQR87Vu/smartchain/assets/0x5A726a26eDB0Df8Fd55f03cc30aF8A7cEa81e78D/logo.png"
 }

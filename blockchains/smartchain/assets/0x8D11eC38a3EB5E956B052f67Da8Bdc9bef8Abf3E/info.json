@@ -37,5 +37,6 @@
             "name": "coingecko",
             "url": "https://coingecko.com/en/coins/kira-network/"
         }
-    ]
+    ],
+    "logo": "ipfs://QmVwPKfaYTWqcAVcTbVNMvc6arvq82cQoTCHd5xfQR87Vu/smartchain/assets/0x8D11eC38a3EB5E956B052f67Da8Bdc9bef8Abf3E/logo.png"
 }

@@ -26,5 +26,6 @@
             "name": "coinmarketcap",
             "url": "https://coinmarketcap.com/currencies/bitcoin-standard-hashrate-token/"
         }
-    ]
+    ],
+    "logo": "ipfs://QmVwPKfaYTWqcAVcTbVNMvc6arvq82cQoTCHd5xfQR87Vu/smartchain/assets/0x78650B139471520656b9E7aA7A5e9276814a38e9/logo.png"
 }

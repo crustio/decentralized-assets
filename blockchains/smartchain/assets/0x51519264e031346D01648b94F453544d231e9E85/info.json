@@ -7,5 +7,6 @@
     "symbol": "TDOGE",
     "decimals": 6,
     "status": "active",
-    "id": "0x51519264e031346D01648b94F453544d231e9E85"
+    "id": "0x51519264e031346D01648b94F453544d231e9E85",
+    "logo": "ipfs://QmVwPKfaYTWqcAVcTbVNMvc6arvq82cQoTCHd5xfQR87Vu/smartchain/assets/0x51519264e031346D01648b94F453544d231e9E85/logo.png"
 }

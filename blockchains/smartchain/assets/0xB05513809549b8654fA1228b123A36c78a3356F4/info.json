@@ -7,5 +7,6 @@
     "description": "Yield-generating contract with 🔥burn (50% of total supply), 💰liquidity (5% fee) and 🙌redistribution (5% fee).",
     "explorer": "https://bscscan.com/token/0xB05513809549b8654fA1228b123A36c78a3356F4",
     "status": "active",
-    "id": "0xB05513809549b8654fA1228b123A36c78a3356F4"
+    "id": "0xB05513809549b8654fA1228b123A36c78a3356F4",
+    "logo": "ipfs://QmVwPKfaYTWqcAVcTbVNMvc6arvq82cQoTCHd5xfQR87Vu/smartchain/assets/0xB05513809549b8654fA1228b123A36c78a3356F4/logo.png"
 }

@@ -29,5 +29,6 @@
             "name": "github",
             "url": "https://github.com/Mini-Cardano/MiniCardano-Contract"
         }
-    ]
+    ],
+    "logo": "ipfs://QmVwPKfaYTWqcAVcTbVNMvc6arvq82cQoTCHd5xfQR87Vu/smartchain/assets/0xF70c14AD93905f39eE3Df2D4fB92b87c31D779e0/logo.png"
 }

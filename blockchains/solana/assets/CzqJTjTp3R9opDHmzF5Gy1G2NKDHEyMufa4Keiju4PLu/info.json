@@ -37,5 +37,6 @@
             "name": "coinmarketcap",
             "url": "https://coinmarketcap.com/currencies/wrapped-conceal/"
         }
-    ]
+    ],
+    "logo": "ipfs://QmVwPKfaYTWqcAVcTbVNMvc6arvq82cQoTCHd5xfQR87Vu/solana/assets/CzqJTjTp3R9opDHmzF5Gy1G2NKDHEyMufa4Keiju4PLu/logo.png"
 }

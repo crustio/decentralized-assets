@@ -7,5 +7,6 @@
     "website": "https://www.tronwallet.me/",
     "explorer": "https://tronscan.io/#/token/1000018",
     "status": "active",
-    "id": "1000018"
+    "id": "1000018",
+    "logo": "ipfs://QmVwPKfaYTWqcAVcTbVNMvc6arvq82cQoTCHd5xfQR87Vu/tron/assets/1000018/logo.png"
 }

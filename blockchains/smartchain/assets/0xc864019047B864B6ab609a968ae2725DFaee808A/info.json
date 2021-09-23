@@ -21,5 +21,6 @@
             "name": "coinmarketcap",
             "url": "https://coinmarketcap.com/currencies/biconomy-token/"
         }
-    ]
+    ],
+    "logo": "ipfs://QmVwPKfaYTWqcAVcTbVNMvc6arvq82cQoTCHd5xfQR87Vu/smartchain/assets/0xc864019047B864B6ab609a968ae2725DFaee808A/logo.png"
 }

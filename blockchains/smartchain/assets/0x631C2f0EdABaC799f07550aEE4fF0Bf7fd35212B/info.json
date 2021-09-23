@@ -7,5 +7,6 @@
     "description": "Smart contract on the blockchain network for non-centralized management of a global social lottery pool",
     "explorer": "https://bscscan.com/token/0x631C2f0EdABaC799f07550aEE4fF0Bf7fd35212B",
     "status": "active",
-    "id": "0x631C2f0EdABaC799f07550aEE4fF0Bf7fd35212B"
+    "id": "0x631C2f0EdABaC799f07550aEE4fF0Bf7fd35212B",
+    "logo": "ipfs://QmVwPKfaYTWqcAVcTbVNMvc6arvq82cQoTCHd5xfQR87Vu/smartchain/assets/0x631C2f0EdABaC799f07550aEE4fF0Bf7fd35212B/logo.png"
 }

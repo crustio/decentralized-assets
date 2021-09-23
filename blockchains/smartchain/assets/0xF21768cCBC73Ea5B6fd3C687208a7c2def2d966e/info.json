@@ -26,5 +26,6 @@
             "name": "coinmarketcap",
             "url": "https://coinmarketcap.com/currencies/reef/"
         }
-    ]
+    ],
+    "logo": "ipfs://QmVwPKfaYTWqcAVcTbVNMvc6arvq82cQoTCHd5xfQR87Vu/smartchain/assets/0xF21768cCBC73Ea5B6fd3C687208a7c2def2d966e/logo.png"
 }

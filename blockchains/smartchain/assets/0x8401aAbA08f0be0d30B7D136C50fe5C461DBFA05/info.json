@@ -29,5 +29,6 @@
     "symbol": "aBUSD",
     "decimals": 8,
     "status": "active",
-    "id": "0x8401aAbA08f0be0d30B7D136C50fe5C461DBFA05"
+    "id": "0x8401aAbA08f0be0d30B7D136C50fe5C461DBFA05",
+    "logo": "ipfs://QmVwPKfaYTWqcAVcTbVNMvc6arvq82cQoTCHd5xfQR87Vu/smartchain/assets/0x8401aAbA08f0be0d30B7D136C50fe5C461DBFA05/logo.png"
 }

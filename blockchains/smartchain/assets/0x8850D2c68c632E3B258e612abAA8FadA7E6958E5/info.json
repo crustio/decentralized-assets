@@ -7,5 +7,6 @@
     "symbol": "PIG",
     "decimals": 9,
     "status": "active",
-    "id": "0x8850D2c68c632E3B258e612abAA8FadA7E6958E5"
+    "id": "0x8850D2c68c632E3B258e612abAA8FadA7E6958E5",
+    "logo": "ipfs://QmVwPKfaYTWqcAVcTbVNMvc6arvq82cQoTCHd5xfQR87Vu/smartchain/assets/0x8850D2c68c632E3B258e612abAA8FadA7E6958E5/logo.png"
 }

@@ -8,5 +8,6 @@
     "symbol": "BURGER",
     "decimals": 18,
     "status": "active",
-    "id": "0xAe9269f27437f0fcBC232d39Ec814844a51d6b8f"
+    "id": "0xAe9269f27437f0fcBC232d39Ec814844a51d6b8f",
+    "logo": "ipfs://QmVwPKfaYTWqcAVcTbVNMvc6arvq82cQoTCHd5xfQR87Vu/smartchain/assets/0xAe9269f27437f0fcBC232d39Ec814844a51d6b8f/logo.png"
 }

@@ -7,5 +7,6 @@
     "symbol": "NFTClassic",
     "decimals": 9,
     "status": "active",
-    "id": "0xEB2DFCdB56Cf568B3Da3927C6DE97b0849b329D8"
+    "id": "0xEB2DFCdB56Cf568B3Da3927C6DE97b0849b329D8",
+    "logo": "ipfs://QmVwPKfaYTWqcAVcTbVNMvc6arvq82cQoTCHd5xfQR87Vu/smartchain/assets/0xEB2DFCdB56Cf568B3Da3927C6DE97b0849b329D8/logo.png"
 }

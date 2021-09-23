@@ -16,5 +16,6 @@
             "name": "whitepaper",
             "url": "https://test.ton.org/ton.pdf"
         }
-    ]
+    ],
+    "logo": "ipfs://QmVwPKfaYTWqcAVcTbVNMvc6arvq82cQoTCHd5xfQR87Vu/ton/info/logo.png"
 }

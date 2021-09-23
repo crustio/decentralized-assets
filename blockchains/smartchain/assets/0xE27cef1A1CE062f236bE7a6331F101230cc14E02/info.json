@@ -7,5 +7,6 @@
     "description": "Panda Protocol is a community driven, fair launched DeFi Token. Three simple functions occur during each trade: Reflection, LP Acquisition, and Burn.",
     "explorer": "https://bscscan.com/token/0xE27cef1A1CE062f236bE7a6331F101230cc14E02",
     "status": "active",
-    "id": "0xE27cef1A1CE062f236bE7a6331F101230cc14E02"
+    "id": "0xE27cef1A1CE062f236bE7a6331F101230cc14E02",
+    "logo": "ipfs://QmVwPKfaYTWqcAVcTbVNMvc6arvq82cQoTCHd5xfQR87Vu/smartchain/assets/0xE27cef1A1CE062f236bE7a6331F101230cc14E02/logo.png"
 }

@@ -21,5 +21,6 @@
             "name": "coinmarketcap",
             "url": "https://coinmarketcap.com/currencies/binemon/"
         }
-    ]
+    ],
+    "logo": "ipfs://QmVwPKfaYTWqcAVcTbVNMvc6arvq82cQoTCHd5xfQR87Vu/smartchain/assets/0xe56842Ed550Ff2794F010738554db45E60730371/logo.png"
 }

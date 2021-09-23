@@ -33,5 +33,6 @@
             "name": "coinmarketcap",
             "url": "https://coinmarketcap.com/zh/currencies/dragonmoon/"
         }
-    ]
+    ],
+    "logo": "ipfs://QmVwPKfaYTWqcAVcTbVNMvc6arvq82cQoTCHd5xfQR87Vu/smartchain/assets/0x8267d169E1483E01AACBCfd22d294c47ECE9F07f/logo.png"
 }

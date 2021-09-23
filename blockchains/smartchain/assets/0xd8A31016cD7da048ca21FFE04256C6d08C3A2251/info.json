@@ -7,5 +7,6 @@
     "description": "WENLAMBO finance is a deflationary token rewarding holders on each transaction and donating part of fees to charity",
     "explorer": "https://bscscan.com/token/0xd8A31016cD7da048ca21FFE04256C6d08C3A2251",
     "status": "active",
-    "id": "0xd8A31016cD7da048ca21FFE04256C6d08C3A2251"
+    "id": "0xd8A31016cD7da048ca21FFE04256C6d08C3A2251",
+    "logo": "ipfs://QmVwPKfaYTWqcAVcTbVNMvc6arvq82cQoTCHd5xfQR87Vu/smartchain/assets/0xd8A31016cD7da048ca21FFE04256C6d08C3A2251/logo.png"
 }

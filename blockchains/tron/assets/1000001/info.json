@@ -7,5 +7,6 @@
     "website": "https://www.sesameseed.org/",
     "explorer": "https://tronscan.io/#/token/1000001",
     "status": "active",
-    "id": "1000001"
+    "id": "1000001",
+    "logo": "ipfs://QmVwPKfaYTWqcAVcTbVNMvc6arvq82cQoTCHd5xfQR87Vu/tron/assets/1000001/logo.png"
 }

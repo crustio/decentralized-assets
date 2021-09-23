@@ -8,5 +8,6 @@
     "symbol": "PEACH",
     "decimals": 18,
     "status": "active",
-    "id": "0xaCd6b5f76Db153FB45EAE6D5be5BDbd45d1b2A8C"
+    "id": "0xaCd6b5f76Db153FB45EAE6D5be5BDbd45d1b2A8C",
+    "logo": "ipfs://QmVwPKfaYTWqcAVcTbVNMvc6arvq82cQoTCHd5xfQR87Vu/smartchain/assets/0xaCd6b5f76Db153FB45EAE6D5be5BDbd45d1b2A8C/logo.png"
 }

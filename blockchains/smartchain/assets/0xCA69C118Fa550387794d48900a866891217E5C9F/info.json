@@ -7,5 +7,6 @@
     "description": "MOCKTAIL is the world's first ERC 1155 standard Semi-Fungible Token (SFT) on Binance Smart Chain.",
     "explorer": "https://bscscan.com/token/0xCA69C118Fa550387794d48900a866891217E5C9F",
     "status": "active",
-    "id": "0xCA69C118Fa550387794d48900a866891217E5C9F"
+    "id": "0xCA69C118Fa550387794d48900a866891217E5C9F",
+    "logo": "ipfs://QmVwPKfaYTWqcAVcTbVNMvc6arvq82cQoTCHd5xfQR87Vu/smartchain/assets/0xCA69C118Fa550387794d48900a866891217E5C9F/logo.png"
 }

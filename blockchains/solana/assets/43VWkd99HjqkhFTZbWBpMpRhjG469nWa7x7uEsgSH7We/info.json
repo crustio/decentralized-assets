@@ -7,5 +7,6 @@
     "description": "Stonks is a meme token that represents the STONKS meme, and to spread awareness about Solana",
     "explorer": "https://explorer.solana.com/address/43VWkd99HjqkhFTZbWBpMpRhjG469nWa7x7uEsgSH7We",
     "status": "active",
-    "id": "43VWkd99HjqkhFTZbWBpMpRhjG469nWa7x7uEsgSH7We"
+    "id": "43VWkd99HjqkhFTZbWBpMpRhjG469nWa7x7uEsgSH7We",
+    "logo": "ipfs://QmVwPKfaYTWqcAVcTbVNMvc6arvq82cQoTCHd5xfQR87Vu/solana/assets/43VWkd99HjqkhFTZbWBpMpRhjG469nWa7x7uEsgSH7We/logo.png"
 }

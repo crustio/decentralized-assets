@@ -7,5 +7,6 @@
     "description": "We are Anonymous (ANON)",
     "explorer": "https://bscscan.com/token/0xFd78aAEd1e3f2d06DbDE9510C6dC14112eCA896D",
     "status": "active",
-    "id": "0xFd78aAEd1e3f2d06DbDE9510C6dC14112eCA896D"
+    "id": "0xFd78aAEd1e3f2d06DbDE9510C6dC14112eCA896D",
+    "logo": "ipfs://QmVwPKfaYTWqcAVcTbVNMvc6arvq82cQoTCHd5xfQR87Vu/smartchain/assets/0xFd78aAEd1e3f2d06DbDE9510C6dC14112eCA896D/logo.png"
 }

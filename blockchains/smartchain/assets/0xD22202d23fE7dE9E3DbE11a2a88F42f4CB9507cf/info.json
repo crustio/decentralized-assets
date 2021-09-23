@@ -7,5 +7,6 @@
     "description": "Minereum BSC - First Self Mining Smart Contract on Binance Smart Chain",
     "explorer": "https://bscscan.com/token/0xD22202d23fE7dE9E3DbE11a2a88F42f4CB9507cf",
     "status": "active",
-    "id": "0xD22202d23fE7dE9E3DbE11a2a88F42f4CB9507cf"
+    "id": "0xD22202d23fE7dE9E3DbE11a2a88F42f4CB9507cf",
+    "logo": "ipfs://QmVwPKfaYTWqcAVcTbVNMvc6arvq82cQoTCHd5xfQR87Vu/smartchain/assets/0xD22202d23fE7dE9E3DbE11a2a88F42f4CB9507cf/logo.png"
 }

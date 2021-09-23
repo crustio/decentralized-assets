@@ -17,5 +17,6 @@
             "name": "coinmarketcap",
             "url": "https://coinmarketcap.com/currencies/tbcc-labs/"
         }
-    ]
+    ],
+    "logo": "ipfs://QmVwPKfaYTWqcAVcTbVNMvc6arvq82cQoTCHd5xfQR87Vu/smartchain/assets/0xf29480344d8e21EFeAB7Fde39F8D8299056A7FEA/logo.png"
 }

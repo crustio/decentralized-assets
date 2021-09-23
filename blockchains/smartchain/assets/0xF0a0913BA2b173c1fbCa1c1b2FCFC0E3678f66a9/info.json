@@ -7,5 +7,6 @@
     "description": "Bfic Protocol is a decentralized network that allows anyone to invoice a payment for which the recipient can pay in a secure way.",
     "explorer": "https://bscscan.com/token/0xf0a0913ba2b173c1fbca1c1b2fcfc0e3678f66a9",
     "status": "active",
-    "id": "0xF0a0913BA2b173c1fbCa1c1b2FCFC0E3678f66a9"
+    "id": "0xF0a0913BA2b173c1fbCa1c1b2FCFC0E3678f66a9",
+    "logo": "ipfs://QmVwPKfaYTWqcAVcTbVNMvc6arvq82cQoTCHd5xfQR87Vu/smartchain/assets/0xF0a0913BA2b173c1fbCa1c1b2FCFC0E3678f66a9/logo.png"
 }

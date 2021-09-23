@@ -7,5 +7,6 @@
     "description": "AMM and yield farming platform on Binance Smart Chain",
     "explorer": "https://bscscan.com/token/0x9E7942a24be24B18A56CEac7bA9926C5FBFc4E27",
     "status": "active",
-    "id": "0x9E7942a24be24B18A56CEac7bA9926C5FBFc4E27"
+    "id": "0x9E7942a24be24B18A56CEac7bA9926C5FBFc4E27",
+    "logo": "ipfs://QmVwPKfaYTWqcAVcTbVNMvc6arvq82cQoTCHd5xfQR87Vu/smartchain/assets/0x9E7942a24be24B18A56CEac7bA9926C5FBFc4E27/logo.png"
 }

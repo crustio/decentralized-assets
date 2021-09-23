@@ -7,5 +7,6 @@
     "description": "CAPT token is the main token and store of value for CaptainSwap",
     "explorer": "https://bscscan.com/token/0xDf5301b96ceCCb9C2a61505B3A7577111056A4C5",
     "status": "active",
-    "id": "0xDf5301b96ceCCb9C2a61505B3A7577111056A4C5"
+    "id": "0xDf5301b96ceCCb9C2a61505B3A7577111056A4C5",
+    "logo": "ipfs://QmVwPKfaYTWqcAVcTbVNMvc6arvq82cQoTCHd5xfQR87Vu/smartchain/assets/0xDf5301b96ceCCb9C2a61505B3A7577111056A4C5/logo.png"
 }

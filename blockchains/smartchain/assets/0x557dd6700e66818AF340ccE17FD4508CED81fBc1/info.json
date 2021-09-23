@@ -7,5 +7,6 @@
     "symbol": "PAPEL",
     "decimals": 9,
     "status": "active",
-    "id": "0x557dd6700e66818AF340ccE17FD4508CED81fBc1"
+    "id": "0x557dd6700e66818AF340ccE17FD4508CED81fBc1",
+    "logo": "ipfs://QmVwPKfaYTWqcAVcTbVNMvc6arvq82cQoTCHd5xfQR87Vu/smartchain/assets/0x557dd6700e66818AF340ccE17FD4508CED81fBc1/logo.png"
 }

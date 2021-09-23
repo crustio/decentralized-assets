@@ -7,5 +7,6 @@
     "symbol": "mBTC",
     "decimals": 18,
     "status": "active",
-    "id": "0xe77011ed703ed06927dBd78e60c549baBAbF913e"
+    "id": "0xe77011ed703ed06927dBd78e60c549baBAbF913e",
+    "logo": "ipfs://QmVwPKfaYTWqcAVcTbVNMvc6arvq82cQoTCHd5xfQR87Vu/smartchain/assets/0xe77011ed703ed06927dBd78e60c549baBAbF913e/logo.png"
 }

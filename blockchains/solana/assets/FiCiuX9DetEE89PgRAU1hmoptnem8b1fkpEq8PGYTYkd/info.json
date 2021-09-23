@@ -37,5 +37,6 @@
             "name": "coingecko",
             "url": "https://coingecko.com/en/coins/million"
         }
-    ]
+    ],
+    "logo": "ipfs://QmVwPKfaYTWqcAVcTbVNMvc6arvq82cQoTCHd5xfQR87Vu/solana/assets/FiCiuX9DetEE89PgRAU1hmoptnem8b1fkpEq8PGYTYkd/logo.png"
 }

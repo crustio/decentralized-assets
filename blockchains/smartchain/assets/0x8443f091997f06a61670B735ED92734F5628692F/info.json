@@ -8,5 +8,6 @@
     "symbol": "BEL",
     "decimals": 18,
     "status": "active",
-    "id": "0x8443f091997f06a61670B735ED92734F5628692F"
+    "id": "0x8443f091997f06a61670B735ED92734F5628692F",
+    "logo": "ipfs://QmVwPKfaYTWqcAVcTbVNMvc6arvq82cQoTCHd5xfQR87Vu/smartchain/assets/0x8443f091997f06a61670B735ED92734F5628692F/logo.png"
 }

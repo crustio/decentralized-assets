@@ -7,5 +7,6 @@
     "description": "Getart is aiming to build a digital marketplace for non-fungible tokens (NFTs). Users in the platform can buy, sell, own various digital assets, and search different NFTs within the Getart market.",
     "explorer": "https://bscscan.com/token/0x5507f52C96e64e5e5c3dF0Ea90d3515fc0c7d9dF",
     "status": "active",
-    "id": "0x5507f52C96e64e5e5c3dF0Ea90d3515fc0c7d9dF"
+    "id": "0x5507f52C96e64e5e5c3dF0Ea90d3515fc0c7d9dF",
+    "logo": "ipfs://QmVwPKfaYTWqcAVcTbVNMvc6arvq82cQoTCHd5xfQR87Vu/smartchain/assets/0x5507f52C96e64e5e5c3dF0Ea90d3515fc0c7d9dF/logo.png"
 }

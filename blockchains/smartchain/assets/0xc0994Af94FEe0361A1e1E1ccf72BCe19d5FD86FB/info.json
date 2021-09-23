@@ -21,5 +21,6 @@
             "name": "coinmarketcap",
             "url": "https://coinmarketcap.com/currencies/richcity/"
         }
-    ]
+    ],
+    "logo": "ipfs://QmVwPKfaYTWqcAVcTbVNMvc6arvq82cQoTCHd5xfQR87Vu/smartchain/assets/0xc0994Af94FEe0361A1e1E1ccf72BCe19d5FD86FB/logo.png"
 }

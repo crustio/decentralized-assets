@@ -7,5 +7,6 @@
     "description": "Standard, frictionless, yield generating contract",
     "explorer": "https://bscscan.com/token/0x4a68C250486a116DC8D6A0C5B0677dE07cc09C5D",
     "status": "active",
-    "id": "0x4a68C250486a116DC8D6A0C5B0677dE07cc09C5D"
+    "id": "0x4a68C250486a116DC8D6A0C5B0677dE07cc09C5D",
+    "logo": "ipfs://QmVwPKfaYTWqcAVcTbVNMvc6arvq82cQoTCHd5xfQR87Vu/smartchain/assets/0x4a68C250486a116DC8D6A0C5B0677dE07cc09C5D/logo.png"
 }

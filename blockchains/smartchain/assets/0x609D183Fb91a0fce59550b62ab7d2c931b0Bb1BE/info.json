@@ -41,5 +41,6 @@
             "name": "coingecko",
             "url": "https://coingecko.com/en/coins/polkamonster"
         }
-    ]
+    ],
+    "logo": "ipfs://QmVwPKfaYTWqcAVcTbVNMvc6arvq82cQoTCHd5xfQR87Vu/smartchain/assets/0x609D183Fb91a0fce59550b62ab7d2c931b0Bb1BE/logo.png"
 }

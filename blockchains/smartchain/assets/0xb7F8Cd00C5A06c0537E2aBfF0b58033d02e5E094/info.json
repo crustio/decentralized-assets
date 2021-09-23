@@ -30,5 +30,6 @@
             "name": "coingecko",
             "url": "https://coingecko.com/en/coins/paxos-standard-token/"
         }
-    ]
+    ],
+    "logo": "ipfs://QmVwPKfaYTWqcAVcTbVNMvc6arvq82cQoTCHd5xfQR87Vu/smartchain/assets/0xb7F8Cd00C5A06c0537E2aBfF0b58033d02e5E094/logo.png"
 }

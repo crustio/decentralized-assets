@@ -7,5 +7,6 @@
     "description": "Cryptochrome is a community staking, liquidity mining platform and a place to build crypto passive income.",
     "explorer": "https://bscscan.com/token/0x648bA66B2859192d117E8FFd8712B5E8E8114e53",
     "status": "active",
-    "id": "0x648bA66B2859192d117E8FFd8712B5E8E8114e53"
+    "id": "0x648bA66B2859192d117E8FFd8712B5E8E8114e53",
+    "logo": "ipfs://QmVwPKfaYTWqcAVcTbVNMvc6arvq82cQoTCHd5xfQR87Vu/smartchain/assets/0x648bA66B2859192d117E8FFd8712B5E8E8114e53/logo.png"
 }

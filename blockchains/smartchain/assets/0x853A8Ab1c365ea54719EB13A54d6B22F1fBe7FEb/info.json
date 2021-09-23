@@ -7,5 +7,6 @@
     "symbol": "INVEST",
     "decimals": 18,
     "status": "active",
-    "id": "0x853A8Ab1c365ea54719EB13A54d6B22F1fBe7FEb"
+    "id": "0x853A8Ab1c365ea54719EB13A54d6B22F1fBe7FEb",
+    "logo": "ipfs://QmVwPKfaYTWqcAVcTbVNMvc6arvq82cQoTCHd5xfQR87Vu/smartchain/assets/0x853A8Ab1c365ea54719EB13A54d6B22F1fBe7FEb/logo.png"
 }

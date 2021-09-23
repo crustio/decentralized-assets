@@ -7,5 +7,6 @@
     "description": "SYL Token by XSL Labs: Decentralized Identity & Data Privacy",
     "explorer": "https://bscscan.com/token/0x7e52a123Ed6DB6Ac872A875552935fBbD2544c86",
     "status": "active",
-    "id": "0x7e52a123Ed6DB6Ac872A875552935fBbD2544c86"
+    "id": "0x7e52a123Ed6DB6Ac872A875552935fBbD2544c86",
+    "logo": "ipfs://QmVwPKfaYTWqcAVcTbVNMvc6arvq82cQoTCHd5xfQR87Vu/smartchain/assets/0x7e52a123Ed6DB6Ac872A875552935fBbD2544c86/logo.png"
 }

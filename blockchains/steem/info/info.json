@@ -25,5 +25,6 @@
             "name": "whitepaper",
             "url": "https://steem.io/SteemWhitePaper.pdf"
         }
-    ]
+    ],
+    "logo": "ipfs://QmVwPKfaYTWqcAVcTbVNMvc6arvq82cQoTCHd5xfQR87Vu/steem/info/logo.png"
 }

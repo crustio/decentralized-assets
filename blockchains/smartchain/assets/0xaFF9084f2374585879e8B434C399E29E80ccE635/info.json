@@ -61,5 +61,6 @@
             "name": "coingecko",
             "url": "https://coingecko.com/en/coins/flux-zelcash"
         }
-    ]
+    ],
+    "logo": "ipfs://QmVwPKfaYTWqcAVcTbVNMvc6arvq82cQoTCHd5xfQR87Vu/smartchain/assets/0xaFF9084f2374585879e8B434C399E29E80ccE635/logo.png"
 }

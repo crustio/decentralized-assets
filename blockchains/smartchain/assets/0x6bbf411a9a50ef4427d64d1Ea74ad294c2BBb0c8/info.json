@@ -7,5 +7,6 @@
     "description": "SafeCap Binance Smart Chain based project. SafeCap is an enterprise-grade, service-centric platform that brings user-friendly blockchain experience to millions.\n",
     "explorer": "https://bscscan.com/token/0x6bbf411a9a50ef4427d64d1Ea74ad294c2BBb0c8",
     "status": "active",
-    "id": "0x6bbf411a9a50ef4427d64d1Ea74ad294c2BBb0c8"
+    "id": "0x6bbf411a9a50ef4427d64d1Ea74ad294c2BBb0c8",
+    "logo": "ipfs://QmVwPKfaYTWqcAVcTbVNMvc6arvq82cQoTCHd5xfQR87Vu/smartchain/assets/0x6bbf411a9a50ef4427d64d1Ea74ad294c2BBb0c8/logo.png"
 }

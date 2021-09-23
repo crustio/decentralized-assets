@@ -7,5 +7,6 @@
     "symbol": "VANCAT",
     "type": "BEP20",
     "decimals": 0,
-    "status": "active"
+    "status": "active",
+    "logo": "ipfs://QmVwPKfaYTWqcAVcTbVNMvc6arvq82cQoTCHd5xfQR87Vu/smartchain/assets/0x8597ba143AC509189E89aaB3BA28d661A5dD9830/logo.png"
 }

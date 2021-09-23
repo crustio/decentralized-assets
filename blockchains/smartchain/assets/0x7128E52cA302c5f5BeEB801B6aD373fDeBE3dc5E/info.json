@@ -7,5 +7,6 @@
     "symbol": "OCAT",
     "decimals": 18,
     "status": "active",
-    "id": "0x7128E52cA302c5f5BeEB801B6aD373fDeBE3dc5E"
+    "id": "0x7128E52cA302c5f5BeEB801B6aD373fDeBE3dc5E",
+    "logo": "ipfs://QmVwPKfaYTWqcAVcTbVNMvc6arvq82cQoTCHd5xfQR87Vu/smartchain/assets/0x7128E52cA302c5f5BeEB801B6aD373fDeBE3dc5E/logo.png"
 }

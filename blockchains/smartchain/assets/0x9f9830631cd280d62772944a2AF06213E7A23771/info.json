@@ -7,5 +7,6 @@
     "symbol": "KRYPTO",
     "decimals": 18,
     "status": "active",
-    "id": "0x9f9830631cd280d62772944a2AF06213E7A23771"
+    "id": "0x9f9830631cd280d62772944a2AF06213E7A23771",
+    "logo": "ipfs://QmVwPKfaYTWqcAVcTbVNMvc6arvq82cQoTCHd5xfQR87Vu/smartchain/assets/0x9f9830631cd280d62772944a2AF06213E7A23771/logo.png"
 }

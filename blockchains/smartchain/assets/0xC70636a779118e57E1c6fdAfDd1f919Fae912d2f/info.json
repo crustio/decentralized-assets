@@ -7,5 +7,6 @@
     "description": "Munch a charity crypto coin",
     "explorer": "https://bscscan.com/token/0xC70636a779118e57E1c6fdAfDd1f919Fae912d2f",
     "status": "active",
-    "id": "0xC70636a779118e57E1c6fdAfDd1f919Fae912d2f"
+    "id": "0xC70636a779118e57E1c6fdAfDd1f919Fae912d2f",
+    "logo": "ipfs://QmVwPKfaYTWqcAVcTbVNMvc6arvq82cQoTCHd5xfQR87Vu/smartchain/assets/0xC70636a779118e57E1c6fdAfDd1f919Fae912d2f/logo.png"
 }

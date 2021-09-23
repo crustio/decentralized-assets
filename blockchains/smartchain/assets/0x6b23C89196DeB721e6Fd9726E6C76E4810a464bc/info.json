@@ -61,5 +61,6 @@
             "name": "coingecko",
             "url": "https://coingecko.com/coins/x-world-games"
         }
-    ]
+    ],
+    "logo": "ipfs://QmVwPKfaYTWqcAVcTbVNMvc6arvq82cQoTCHd5xfQR87Vu/smartchain/assets/0x6b23C89196DeB721e6Fd9726E6C76E4810a464bc/logo.png"
 }
