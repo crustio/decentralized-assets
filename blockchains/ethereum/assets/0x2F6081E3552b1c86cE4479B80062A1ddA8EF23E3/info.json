@@ -7,5 +7,6 @@
     "symbol": "USDx",
     "decimals": 9,
     "status": "active",
-    "id": "0x2F6081E3552b1c86cE4479B80062A1ddA8EF23E3"
+    "id": "0x2F6081E3552b1c86cE4479B80062A1ddA8EF23E3",
+    "logo": "ipfs://QmVwPKfaYTWqcAVcTbVNMvc6arvq82cQoTCHd5xfQR87Vu/ethereum/assets/0x2F6081E3552b1c86cE4479B80062A1ddA8EF23E3/logo.png"
 }

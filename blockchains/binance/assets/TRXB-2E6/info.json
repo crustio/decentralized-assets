@@ -7,5 +7,6 @@
     "website": "https://tron.network/",
     "explorer": "https://explorer.binance.org/asset/TRXB-2E6",
     "status": "active",
-    "id": "TRXB-2E6"
+    "id": "TRXB-2E6",
+    "logo": "ipfs://QmVwPKfaYTWqcAVcTbVNMvc6arvq82cQoTCHd5xfQR87Vu/binance/assets/TRXB-2E6/logo.png"
 }

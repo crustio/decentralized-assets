@@ -7,5 +7,6 @@
     "website": "",
     "explorer": "https://explorer.binance.org/asset/ALA-DCD",
     "status": "active",
-    "id": "ALA-DCD"
+    "id": "ALA-DCD",
+    "logo": "ipfs://QmVwPKfaYTWqcAVcTbVNMvc6arvq82cQoTCHd5xfQR87Vu/binance/assets/ALA-DCD/logo.png"
 }

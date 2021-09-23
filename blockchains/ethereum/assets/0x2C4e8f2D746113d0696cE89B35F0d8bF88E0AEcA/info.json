@@ -7,5 +7,6 @@
     "website": "https://ost.com/",
     "explorer": "https://etherscan.io/token/0x2C4e8f2D746113d0696cE89B35F0d8bF88E0AEcA",
     "status": "active",
-    "id": "0x2C4e8f2D746113d0696cE89B35F0d8bF88E0AEcA"
+    "id": "0x2C4e8f2D746113d0696cE89B35F0d8bF88E0AEcA",
+    "logo": "ipfs://QmVwPKfaYTWqcAVcTbVNMvc6arvq82cQoTCHd5xfQR87Vu/ethereum/assets/0x2C4e8f2D746113d0696cE89B35F0d8bF88E0AEcA/logo.png"
 }

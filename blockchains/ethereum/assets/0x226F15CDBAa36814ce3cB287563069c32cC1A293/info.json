@@ -7,5 +7,6 @@
     "type": "ERC20",
     "decimals": 2,
     "status": "active",
-    "id": "0x226F15CDBAa36814ce3cB287563069c32cC1A293"
+    "id": "0x226F15CDBAa36814ce3cB287563069c32cC1A293",
+    "logo": "ipfs://QmVwPKfaYTWqcAVcTbVNMvc6arvq82cQoTCHd5xfQR87Vu/ethereum/assets/0x226F15CDBAa36814ce3cB287563069c32cC1A293/logo.png"
 }

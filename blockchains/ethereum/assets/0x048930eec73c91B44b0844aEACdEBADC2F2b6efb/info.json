@@ -7,5 +7,6 @@
     "symbol": "aUniDAI",
     "decimals": 18,
     "status": "active",
-    "id": "0x048930eec73c91B44b0844aEACdEBADC2F2b6efb"
+    "id": "0x048930eec73c91B44b0844aEACdEBADC2F2b6efb",
+    "logo": "ipfs://QmVwPKfaYTWqcAVcTbVNMvc6arvq82cQoTCHd5xfQR87Vu/ethereum/assets/0x048930eec73c91B44b0844aEACdEBADC2F2b6efb/logo.png"
 }

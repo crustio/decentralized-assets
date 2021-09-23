@@ -8,5 +8,6 @@
     "symbol": "COMP",
     "decimals": 8,
     "status": "active",
-    "id": "COMP-DEE"
+    "id": "COMP-DEE",
+    "logo": "ipfs://QmVwPKfaYTWqcAVcTbVNMvc6arvq82cQoTCHd5xfQR87Vu/binance/assets/COMP-DEE/logo.png"
 }

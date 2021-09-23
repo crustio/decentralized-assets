@@ -22,5 +22,6 @@
             "name": "whitepaper",
             "url": "https://s3-us-west-1.amazonaws.com/app.ankr.network/assets/Ankr_Whitepaper_20190524.pdf"
         }
-    ]
+    ],
+    "logo": "ipfs://QmVwPKfaYTWqcAVcTbVNMvc6arvq82cQoTCHd5xfQR87Vu/binance/assets/ANKR-E97/logo.png"
 }

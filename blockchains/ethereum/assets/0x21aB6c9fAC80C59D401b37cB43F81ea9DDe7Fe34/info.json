@@ -7,5 +7,6 @@
     "website": "https://www.baerchain.com/",
     "explorer": "https://etherscan.io/token/0x21aB6c9fAC80C59D401b37cB43F81ea9DDe7Fe34",
     "status": "active",
-    "id": "0x21aB6c9fAC80C59D401b37cB43F81ea9DDe7Fe34"
+    "id": "0x21aB6c9fAC80C59D401b37cB43F81ea9DDe7Fe34",
+    "logo": "ipfs://QmVwPKfaYTWqcAVcTbVNMvc6arvq82cQoTCHd5xfQR87Vu/ethereum/assets/0x21aB6c9fAC80C59D401b37cB43F81ea9DDe7Fe34/logo.png"
 }

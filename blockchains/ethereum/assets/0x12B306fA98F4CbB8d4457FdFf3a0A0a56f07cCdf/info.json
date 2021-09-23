@@ -7,5 +7,6 @@
     "website": "http://www.spectre.ai/",
     "explorer": "https://etherscan.io/token/0x12B306fA98F4CbB8d4457FdFf3a0A0a56f07cCdf",
     "status": "abandoned",
-    "id": "0x12B306fA98F4CbB8d4457FdFf3a0A0a56f07cCdf"
+    "id": "0x12B306fA98F4CbB8d4457FdFf3a0A0a56f07cCdf",
+    "logo": "ipfs://QmVwPKfaYTWqcAVcTbVNMvc6arvq82cQoTCHd5xfQR87Vu/ethereum/assets/0x12B306fA98F4CbB8d4457FdFf3a0A0a56f07cCdf/logo.png"
 }

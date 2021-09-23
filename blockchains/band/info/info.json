@@ -25,5 +25,6 @@
             "name": "whitepaper",
             "url": "https://github.com/bandprotocol/bandchain/wiki"
         }
-    ]
+    ],
+    "logo": "ipfs://QmVwPKfaYTWqcAVcTbVNMvc6arvq82cQoTCHd5xfQR87Vu/band/info/logo.png"
 }

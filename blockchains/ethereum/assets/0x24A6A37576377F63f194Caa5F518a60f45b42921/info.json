@@ -7,5 +7,6 @@
     "symbol": "BANK",
     "decimals": 18,
     "status": "active",
-    "id": "0x24A6A37576377F63f194Caa5F518a60f45b42921"
+    "id": "0x24A6A37576377F63f194Caa5F518a60f45b42921",
+    "logo": "ipfs://QmVwPKfaYTWqcAVcTbVNMvc6arvq82cQoTCHd5xfQR87Vu/ethereum/assets/0x24A6A37576377F63f194Caa5F518a60f45b42921/logo.png"
 }

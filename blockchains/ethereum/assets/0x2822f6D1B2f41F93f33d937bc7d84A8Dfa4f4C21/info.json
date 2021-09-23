@@ -7,5 +7,6 @@
     "website": "https://poseidon.network/",
     "explorer": "https://etherscan.io/token/0x2822f6D1B2f41F93f33d937bc7d84A8Dfa4f4C21",
     "status": "active",
-    "id": "0x2822f6D1B2f41F93f33d937bc7d84A8Dfa4f4C21"
+    "id": "0x2822f6D1B2f41F93f33d937bc7d84A8Dfa4f4C21",
+    "logo": "ipfs://QmVwPKfaYTWqcAVcTbVNMvc6arvq82cQoTCHd5xfQR87Vu/ethereum/assets/0x2822f6D1B2f41F93f33d937bc7d84A8Dfa4f4C21/logo.png"
 }

@@ -7,5 +7,6 @@
     "website": "https://corion.io",
     "explorer": "https://etherscan.io/token/0x26a604DFFE3ddaB3BEE816097F81d3C4a2A4CF97",
     "status": "active",
-    "id": "0x26a604DFFE3ddaB3BEE816097F81d3C4a2A4CF97"
+    "id": "0x26a604DFFE3ddaB3BEE816097F81d3C4a2A4CF97",
+    "logo": "ipfs://QmVwPKfaYTWqcAVcTbVNMvc6arvq82cQoTCHd5xfQR87Vu/ethereum/assets/0x26a604DFFE3ddaB3BEE816097F81d3C4a2A4CF97/logo.png"
 }

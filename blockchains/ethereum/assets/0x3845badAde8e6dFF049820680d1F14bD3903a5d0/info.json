@@ -8,5 +8,6 @@
     "symbol": "SAND",
     "decimals": 18,
     "status": "active",
-    "id": "0x3845badAde8e6dFF049820680d1F14bD3903a5d0"
+    "id": "0x3845badAde8e6dFF049820680d1F14bD3903a5d0",
+    "logo": "ipfs://QmVwPKfaYTWqcAVcTbVNMvc6arvq82cQoTCHd5xfQR87Vu/ethereum/assets/0x3845badAde8e6dFF049820680d1F14bD3903a5d0/logo.png"
 }

@@ -7,5 +7,6 @@
     "description": "Cashaa is a global banking solution for the crypto industry. It’s the world’s first banking platform that enables the seamless transaction of both fiat and crypto from the one account dashboard.",
     "explorer": "https://explorer.binance.org/asset/CAS-167",
     "status": "active",
-    "id": "CAS-167"
+    "id": "CAS-167",
+    "logo": "ipfs://QmVwPKfaYTWqcAVcTbVNMvc6arvq82cQoTCHd5xfQR87Vu/binance/assets/CAS-167/logo.png"
 }

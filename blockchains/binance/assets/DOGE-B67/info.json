@@ -8,5 +8,6 @@
     "symbol": "DOGE",
     "decimals": 8,
     "status": "active",
-    "id": "DOGE-B67"
+    "id": "DOGE-B67",
+    "logo": "ipfs://QmVwPKfaYTWqcAVcTbVNMvc6arvq82cQoTCHd5xfQR87Vu/binance/assets/DOGE-B67/logo.png"
 }

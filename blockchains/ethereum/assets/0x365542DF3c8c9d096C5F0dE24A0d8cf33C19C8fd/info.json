@@ -7,5 +7,6 @@
     "website": "https://www.hsn.link/",
     "explorer": "https://etherscan.io/token/0x365542DF3c8c9d096C5F0dE24A0d8cf33C19C8fd",
     "status": "abandoned",
-    "id": "0x365542DF3c8c9d096C5F0dE24A0d8cf33C19C8fd"
+    "id": "0x365542DF3c8c9d096C5F0dE24A0d8cf33C19C8fd",
+    "logo": "ipfs://QmVwPKfaYTWqcAVcTbVNMvc6arvq82cQoTCHd5xfQR87Vu/ethereum/assets/0x365542DF3c8c9d096C5F0dE24A0d8cf33C19C8fd/logo.png"
 }

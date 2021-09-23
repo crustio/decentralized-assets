@@ -7,5 +7,6 @@
     "website": "https://www.birdchain.io/",
     "explorer": "https://etherscan.io/token/0x026e62dDEd1a6aD07D93D39f96b9eabd59665e0d",
     "status": "active",
-    "id": "0x026e62dDEd1a6aD07D93D39f96b9eabd59665e0d"
+    "id": "0x026e62dDEd1a6aD07D93D39f96b9eabd59665e0d",
+    "logo": "ipfs://QmVwPKfaYTWqcAVcTbVNMvc6arvq82cQoTCHd5xfQR87Vu/ethereum/assets/0x026e62dDEd1a6aD07D93D39f96b9eabd59665e0d/logo.png"
 }

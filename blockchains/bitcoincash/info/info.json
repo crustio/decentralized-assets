@@ -25,5 +25,6 @@
             "name": "whitepaper",
             "url": "https://www.bitcoincash.org/bitcoin.pdf"
         }
-    ]
+    ],
+    "logo": "ipfs://QmVwPKfaYTWqcAVcTbVNMvc6arvq82cQoTCHd5xfQR87Vu/bitcoincash/info/logo.png"
 }

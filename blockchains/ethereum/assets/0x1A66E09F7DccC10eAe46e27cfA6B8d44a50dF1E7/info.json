@@ -7,5 +7,6 @@
     "website": "http://prasm.io/",
     "explorer": "https://etherscan.io/token/0x1A66E09F7DccC10eAe46e27cfA6B8d44a50dF1E7",
     "status": "abandoned",
-    "id": "0x1A66E09F7DccC10eAe46e27cfA6B8d44a50dF1E7"
+    "id": "0x1A66E09F7DccC10eAe46e27cfA6B8d44a50dF1E7",
+    "logo": "ipfs://QmVwPKfaYTWqcAVcTbVNMvc6arvq82cQoTCHd5xfQR87Vu/ethereum/assets/0x1A66E09F7DccC10eAe46e27cfA6B8d44a50dF1E7/logo.png"
 }

@@ -7,5 +7,6 @@
     "website": "https://www.bitstation.co/en/",
     "explorer": "https://etherscan.io/token/0x2f8472dd7ecf7cA760c8f6b45dB20Ca7cf52F8d7",
     "status": "abandoned",
-    "id": "0x2f8472dd7ecf7cA760c8f6b45dB20Ca7cf52F8d7"
+    "id": "0x2f8472dd7ecf7cA760c8f6b45dB20Ca7cf52F8d7",
+    "logo": "ipfs://QmVwPKfaYTWqcAVcTbVNMvc6arvq82cQoTCHd5xfQR87Vu/ethereum/assets/0x2f8472dd7ecf7cA760c8f6b45dB20Ca7cf52F8d7/logo.png"
 }

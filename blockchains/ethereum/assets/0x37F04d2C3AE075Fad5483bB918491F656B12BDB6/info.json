@@ -7,5 +7,6 @@
     "website": "https://vestchain.io/",
     "explorer": "https://etherscan.io/token/0x37F04d2C3AE075Fad5483bB918491F656B12BDB6",
     "status": "active",
-    "id": "0x37F04d2C3AE075Fad5483bB918491F656B12BDB6"
+    "id": "0x37F04d2C3AE075Fad5483bB918491F656B12BDB6",
+    "logo": "ipfs://QmVwPKfaYTWqcAVcTbVNMvc6arvq82cQoTCHd5xfQR87Vu/ethereum/assets/0x37F04d2C3AE075Fad5483bB918491F656B12BDB6/logo.png"
 }

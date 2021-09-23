@@ -7,5 +7,6 @@
     "website": "http://www.freyrchain.org/index.html",
     "explorer": "https://etherscan.io/token/0x17e67d1CB4e349B9CA4Bc3e17C7DF2a397A7BB64",
     "status": "abandoned",
-    "id": "0x17e67d1CB4e349B9CA4Bc3e17C7DF2a397A7BB64"
+    "id": "0x17e67d1CB4e349B9CA4Bc3e17C7DF2a397A7BB64",
+    "logo": "ipfs://QmVwPKfaYTWqcAVcTbVNMvc6arvq82cQoTCHd5xfQR87Vu/ethereum/assets/0x17e67d1CB4e349B9CA4Bc3e17C7DF2a397A7BB64/logo.png"
 }

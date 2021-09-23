@@ -7,5 +7,6 @@
     "website": "https://appcoins.io/",
     "explorer": "https://etherscan.io/token/0x1a7a8BD9106F2B8D977E08582DC7d24c723ab0DB",
     "status": "active",
-    "id": "0x1a7a8BD9106F2B8D977E08582DC7d24c723ab0DB"
+    "id": "0x1a7a8BD9106F2B8D977E08582DC7d24c723ab0DB",
+    "logo": "ipfs://QmVwPKfaYTWqcAVcTbVNMvc6arvq82cQoTCHd5xfQR87Vu/ethereum/assets/0x1a7a8BD9106F2B8D977E08582DC7d24c723ab0DB/logo.png"
 }

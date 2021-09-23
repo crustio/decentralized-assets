@@ -8,5 +8,6 @@
     "symbol": "BUSD",
     "decimals": 18,
     "status": "active",
-    "id": "0x4Fabb145d64652a948d72533023f6E7A623C7C53"
+    "id": "0x4Fabb145d64652a948d72533023f6E7A623C7C53",
+    "logo": "ipfs://QmVwPKfaYTWqcAVcTbVNMvc6arvq82cQoTCHd5xfQR87Vu/ethereum/assets/0x4Fabb145d64652a948d72533023f6E7A623C7C53/logo.png"
 }

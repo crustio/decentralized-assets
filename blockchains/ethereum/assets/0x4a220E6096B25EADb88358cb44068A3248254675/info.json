@@ -41,5 +41,6 @@
             "name": "coingecko",
             "url": "https://coingecko.com/en/coins/quant-network/"
         }
-    ]
+    ],
+    "logo": "ipfs://QmVwPKfaYTWqcAVcTbVNMvc6arvq82cQoTCHd5xfQR87Vu/ethereum/assets/0x4a220E6096B25EADb88358cb44068A3248254675/logo.png"
 }

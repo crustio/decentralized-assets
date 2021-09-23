@@ -7,5 +7,6 @@
     "description": "-",
     "explorer": "https://explorer.binance.org/asset/BURGER-33A",
     "status": "active",
-    "id": "BURGER-33A"
+    "id": "BURGER-33A",
+    "logo": "ipfs://QmVwPKfaYTWqcAVcTbVNMvc6arvq82cQoTCHd5xfQR87Vu/binance/assets/BURGER-33A/logo.png"
 }

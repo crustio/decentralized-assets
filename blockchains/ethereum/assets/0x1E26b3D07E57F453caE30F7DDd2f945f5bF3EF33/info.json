@@ -7,5 +7,6 @@
     "website": "http://clearcoin.co",
     "explorer": "https://etherscan.io/token/0x1E26b3D07E57F453caE30F7DDd2f945f5bF3EF33",
     "status": "active",
-    "id": "0x1E26b3D07E57F453caE30F7DDd2f945f5bF3EF33"
+    "id": "0x1E26b3D07E57F453caE30F7DDd2f945f5bF3EF33",
+    "logo": "ipfs://QmVwPKfaYTWqcAVcTbVNMvc6arvq82cQoTCHd5xfQR87Vu/ethereum/assets/0x1E26b3D07E57F453caE30F7DDd2f945f5bF3EF33/logo.png"
 }

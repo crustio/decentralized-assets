@@ -7,5 +7,6 @@
     "website": "https://kash.community",
     "explorer": "https://etherscan.io/token/0x2c50ba1ED5e4574C1b613b044Bd1876f0B0B87a9",
     "status": "active",
-    "id": "0x2c50ba1ED5e4574C1b613b044Bd1876f0B0B87a9"
+    "id": "0x2c50ba1ED5e4574C1b613b044Bd1876f0B0B87a9",
+    "logo": "ipfs://QmVwPKfaYTWqcAVcTbVNMvc6arvq82cQoTCHd5xfQR87Vu/ethereum/assets/0x2c50ba1ED5e4574C1b613b044Bd1876f0B0B87a9/logo.png"
 }

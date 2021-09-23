@@ -7,5 +7,6 @@
     "website": "https://dsla.network",
     "explorer": "https://etherscan.io/token/0x3aFfCCa64c2A6f4e3B6Bd9c64CD2C969EFd1ECBe",
     "status": "active",
-    "id": "0x3aFfCCa64c2A6f4e3B6Bd9c64CD2C969EFd1ECBe"
+    "id": "0x3aFfCCa64c2A6f4e3B6Bd9c64CD2C969EFd1ECBe",
+    "logo": "ipfs://QmVwPKfaYTWqcAVcTbVNMvc6arvq82cQoTCHd5xfQR87Vu/ethereum/assets/0x3aFfCCa64c2A6f4e3B6Bd9c64CD2C969EFd1ECBe/logo.png"
 }

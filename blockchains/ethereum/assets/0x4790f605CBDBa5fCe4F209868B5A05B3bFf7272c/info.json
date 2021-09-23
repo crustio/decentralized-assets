@@ -7,5 +7,6 @@
     "symbol": "HUB",
     "decimals": 18,
     "status": "active",
-    "id": "0x4790f605CBDBa5fCe4F209868B5A05B3bFf7272c"
+    "id": "0x4790f605CBDBa5fCe4F209868B5A05B3bFf7272c",
+    "logo": "ipfs://QmVwPKfaYTWqcAVcTbVNMvc6arvq82cQoTCHd5xfQR87Vu/ethereum/assets/0x4790f605CBDBa5fCe4F209868B5A05B3bFf7272c/logo.png"
 }

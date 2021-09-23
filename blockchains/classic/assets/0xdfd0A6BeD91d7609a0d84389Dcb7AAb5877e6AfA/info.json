@@ -7,5 +7,6 @@
     "website": "",
     "explorer": "https://blockscout.com/etc/mainnet/tokens/0xdfd0A6BeD91d7609a0d84389Dcb7AAb5877e6AfA",
     "status": "active",
-    "id": "0xdfd0A6BeD91d7609a0d84389Dcb7AAb5877e6AfA"
+    "id": "0xdfd0A6BeD91d7609a0d84389Dcb7AAb5877e6AfA",
+    "logo": "ipfs://QmVwPKfaYTWqcAVcTbVNMvc6arvq82cQoTCHd5xfQR87Vu/classic/assets/0xdfd0A6BeD91d7609a0d84389Dcb7AAb5877e6AfA/logo.png"
 }

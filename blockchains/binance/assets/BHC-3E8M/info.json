@@ -7,5 +7,6 @@
     "description": "-",
     "explorer": "https://explorer.binance.org/asset/BHC-3E8M",
     "status": "abandoned",
-    "id": "BHC-3E8M"
+    "id": "BHC-3E8M",
+    "logo": "ipfs://QmVwPKfaYTWqcAVcTbVNMvc6arvq82cQoTCHd5xfQR87Vu/binance/assets/BHC-3E8M/logo.png"
 }

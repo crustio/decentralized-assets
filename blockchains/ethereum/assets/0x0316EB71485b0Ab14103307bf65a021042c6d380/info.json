@@ -7,5 +7,6 @@
     "symbol": "HBTC",
     "decimals": 18,
     "status": "active",
-    "id": "0x0316EB71485b0Ab14103307bf65a021042c6d380"
+    "id": "0x0316EB71485b0Ab14103307bf65a021042c6d380",
+    "logo": "ipfs://QmVwPKfaYTWqcAVcTbVNMvc6arvq82cQoTCHd5xfQR87Vu/ethereum/assets/0x0316EB71485b0Ab14103307bf65a021042c6d380/logo.png"
 }

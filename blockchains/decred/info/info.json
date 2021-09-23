@@ -25,5 +25,6 @@
             "name": "whitepaper",
             "url": "https://docs.decred.org"
         }
-    ]
+    ],
+    "logo": "ipfs://QmVwPKfaYTWqcAVcTbVNMvc6arvq82cQoTCHd5xfQR87Vu/decred/info/logo.png"
 }

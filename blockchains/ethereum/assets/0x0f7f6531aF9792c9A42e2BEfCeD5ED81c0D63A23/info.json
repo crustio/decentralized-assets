@@ -7,5 +7,6 @@
     "symbol": "ESEK",
     "decimals": 6,
     "status": "active",
-    "id": "0x0f7f6531aF9792c9A42e2BEfCeD5ED81c0D63A23"
+    "id": "0x0f7f6531aF9792c9A42e2BEfCeD5ED81c0D63A23",
+    "logo": "ipfs://QmVwPKfaYTWqcAVcTbVNMvc6arvq82cQoTCHd5xfQR87Vu/ethereum/assets/0x0f7f6531aF9792c9A42e2BEfCeD5ED81c0D63A23/logo.png"
 }

@@ -7,5 +7,6 @@
     "symbol": "SWSH",
     "decimals": 18,
     "status": "active",
-    "id": "0x3ac2AB91dDF57e2385089202Ca221C360CED0062"
+    "id": "0x3ac2AB91dDF57e2385089202Ca221C360CED0062",
+    "logo": "ipfs://QmVwPKfaYTWqcAVcTbVNMvc6arvq82cQoTCHd5xfQR87Vu/ethereum/assets/0x3ac2AB91dDF57e2385089202Ca221C360CED0062/logo.png"
 }

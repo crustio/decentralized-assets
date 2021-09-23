@@ -17,5 +17,6 @@
             "name": "coinmarketcap",
             "url": "https://coinmarketcap.com/currencies/banksocial/"
         }
-    ]
+    ],
+    "logo": "ipfs://QmVwPKfaYTWqcAVcTbVNMvc6arvq82cQoTCHd5xfQR87Vu/ethereum/assets/0x0AF55d5fF28A3269d69B98680Fd034f115dd53Ac/logo.png"
 }

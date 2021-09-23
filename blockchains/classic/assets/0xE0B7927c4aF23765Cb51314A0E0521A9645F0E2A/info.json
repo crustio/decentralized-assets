@@ -8,5 +8,6 @@
     "explorer": "https://blockscout.com/etc/mainnet/tokens/0xE0B7927c4aF23765Cb51314A0E0521A9645F0E2A",
     "status": "abandoned",
     "id": "0xE0B7927c4aF23765Cb51314A0E0521A9645F0E2A",
-    "links": []
+    "links": [],
+    "logo": "ipfs://QmVwPKfaYTWqcAVcTbVNMvc6arvq82cQoTCHd5xfQR87Vu/classic/assets/0xE0B7927c4aF23765Cb51314A0E0521A9645F0E2A/logo.png"
 }

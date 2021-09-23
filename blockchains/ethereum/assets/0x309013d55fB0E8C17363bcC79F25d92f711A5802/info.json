@@ -7,5 +7,6 @@
     "symbol": "SBTC",
     "decimals": 9,
     "status": "active",
-    "id": "0x309013d55fB0E8C17363bcC79F25d92f711A5802"
+    "id": "0x309013d55fB0E8C17363bcC79F25d92f711A5802",
+    "logo": "ipfs://QmVwPKfaYTWqcAVcTbVNMvc6arvq82cQoTCHd5xfQR87Vu/ethereum/assets/0x309013d55fB0E8C17363bcC79F25d92f711A5802/logo.png"
 }

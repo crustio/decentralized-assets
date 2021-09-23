@@ -8,5 +8,6 @@
     "decimals": 18,
     "status": "active",
     "id": "0x38A2fDc11f526Ddd5a607C1F251C065f40fBF2f7",
-    "short_description": "Digital identity and authentication protocols to power the next generation of DeFi apps."
+    "short_description": "Digital identity and authentication protocols to power the next generation of DeFi apps.",
+    "logo": "ipfs://QmVwPKfaYTWqcAVcTbVNMvc6arvq82cQoTCHd5xfQR87Vu/ethereum/assets/0x38A2fDc11f526Ddd5a607C1F251C065f40fBF2f7/logo.png"
 }

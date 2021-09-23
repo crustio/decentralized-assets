@@ -7,5 +7,6 @@
     "symbol": "EUR36",
     "decimals": 18,
     "status": "active",
-    "id": "0x0CDE550b066Ff98dA123377eeB0A149607C9ca17"
+    "id": "0x0CDE550b066Ff98dA123377eeB0A149607C9ca17",
+    "logo": "ipfs://QmVwPKfaYTWqcAVcTbVNMvc6arvq82cQoTCHd5xfQR87Vu/ethereum/assets/0x0CDE550b066Ff98dA123377eeB0A149607C9ca17/logo.png"
 }

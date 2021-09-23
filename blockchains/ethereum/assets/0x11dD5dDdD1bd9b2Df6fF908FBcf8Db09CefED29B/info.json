@@ -7,5 +7,6 @@
     "website": "",
     "explorer": "https://etherscan.io/token/0x11dD5dDdD1bd9b2Df6fF908FBcf8Db09CefED29B",
     "status": "abandoned",
-    "id": "0x11dD5dDdD1bd9b2Df6fF908FBcf8Db09CefED29B"
+    "id": "0x11dD5dDdD1bd9b2Df6fF908FBcf8Db09CefED29B",
+    "logo": "ipfs://QmVwPKfaYTWqcAVcTbVNMvc6arvq82cQoTCHd5xfQR87Vu/ethereum/assets/0x11dD5dDdD1bd9b2Df6fF908FBcf8Db09CefED29B/logo.png"
 }

@@ -8,5 +8,6 @@
     "explorer": "https://explorer.binance.org/asset/AAVE-8FA",
     "research": "https://research.binance.com/en/projects/aave-protocol",
     "status": "active",
-    "id": "AAVE-8FA"
+    "id": "AAVE-8FA",
+    "logo": "ipfs://QmVwPKfaYTWqcAVcTbVNMvc6arvq82cQoTCHd5xfQR87Vu/binance/assets/AAVE-8FA/logo.png"
 }

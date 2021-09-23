@@ -7,5 +7,6 @@
     "website": "https://cartesi.io",
     "explorer": "https://etherscan.io/token/0x491604c0FDF08347Dd1fa4Ee062a822A5DD06B5D",
     "status": "active",
-    "id": "0x491604c0FDF08347Dd1fa4Ee062a822A5DD06B5D"
+    "id": "0x491604c0FDF08347Dd1fa4Ee062a822A5DD06B5D",
+    "logo": "ipfs://QmVwPKfaYTWqcAVcTbVNMvc6arvq82cQoTCHd5xfQR87Vu/ethereum/assets/0x491604c0FDF08347Dd1fa4Ee062a822A5DD06B5D/logo.png"
 }

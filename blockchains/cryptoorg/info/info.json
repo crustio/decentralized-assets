@@ -27,5 +27,6 @@
             "name": "whitepaper",
             "url": "https://crypto.org/chain_whitepaper.pdf"
         }
-    ]
+    ],
+    "logo": "ipfs://QmVwPKfaYTWqcAVcTbVNMvc6arvq82cQoTCHd5xfQR87Vu/cryptoorg/info/logo.png"
 }

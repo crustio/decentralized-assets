@@ -7,5 +7,6 @@
     "website": "https://ftx.com/tokens/ETHBEAR",
     "explorer": "https://etherscan.io/token/0x2f5e2c9002C058c063d21A06B6cabb50950130c8",
     "status": "abandoned",
-    "id": "0x2f5e2c9002C058c063d21A06B6cabb50950130c8"
+    "id": "0x2f5e2c9002C058c063d21A06B6cabb50950130c8",
+    "logo": "ipfs://QmVwPKfaYTWqcAVcTbVNMvc6arvq82cQoTCHd5xfQR87Vu/ethereum/assets/0x2f5e2c9002C058c063d21A06B6cabb50950130c8/logo.png"
 }

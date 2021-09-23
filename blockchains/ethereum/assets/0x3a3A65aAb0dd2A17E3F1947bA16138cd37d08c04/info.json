@@ -7,5 +7,6 @@
     "symbol": "aETH V1",
     "decimals": 18,
     "status": "active",
-    "id": "0x3a3A65aAb0dd2A17E3F1947bA16138cd37d08c04"
+    "id": "0x3a3A65aAb0dd2A17E3F1947bA16138cd37d08c04",
+    "logo": "ipfs://QmVwPKfaYTWqcAVcTbVNMvc6arvq82cQoTCHd5xfQR87Vu/ethereum/assets/0x3a3A65aAb0dd2A17E3F1947bA16138cd37d08c04/logo.png"
 }

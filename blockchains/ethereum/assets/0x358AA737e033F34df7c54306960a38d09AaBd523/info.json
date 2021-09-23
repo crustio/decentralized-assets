@@ -7,5 +7,6 @@
     "description": "A chain-verified decentralized cross-chain oracle service protocol to provide secure and reliable data services for the interconnection of the chain and the digital economy.",
     "explorer": "https://etherscan.io/token/0x358AA737e033F34df7c54306960a38d09AaBd523",
     "status": "active",
-    "id": "0x358AA737e033F34df7c54306960a38d09AaBd523"
+    "id": "0x358AA737e033F34df7c54306960a38d09AaBd523",
+    "logo": "ipfs://QmVwPKfaYTWqcAVcTbVNMvc6arvq82cQoTCHd5xfQR87Vu/ethereum/assets/0x358AA737e033F34df7c54306960a38d09AaBd523/logo.png"
 }

@@ -28,5 +28,6 @@
             "name": "whitepaper",
             "url": "https://www.algorand.com/resources/white-papers/"
         }
-    ]
+    ],
+    "logo": "ipfs://QmVwPKfaYTWqcAVcTbVNMvc6arvq82cQoTCHd5xfQR87Vu/algorand/info/logo.png"
 }

@@ -7,5 +7,6 @@
     "description": "-",
     "explorer": "https://explorer.binance.org/asset/UNFI-FB7",
     "status": "active",
-    "id": "UNFI-FB7"
+    "id": "UNFI-FB7",
+    "logo": "ipfs://QmVwPKfaYTWqcAVcTbVNMvc6arvq82cQoTCHd5xfQR87Vu/binance/assets/UNFI-FB7/logo.png"
 }

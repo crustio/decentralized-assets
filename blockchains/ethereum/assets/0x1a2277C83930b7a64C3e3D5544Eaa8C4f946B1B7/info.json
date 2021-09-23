@@ -7,5 +7,6 @@
     "website": "https://echat.io/",
     "explorer": "https://etherscan.io/token/0x1a2277C83930b7a64C3e3D5544Eaa8C4f946B1B7",
     "status": "abandoned",
-    "id": "0x1a2277C83930b7a64C3e3D5544Eaa8C4f946B1B7"
+    "id": "0x1a2277C83930b7a64C3e3D5544Eaa8C4f946B1B7",
+    "logo": "ipfs://QmVwPKfaYTWqcAVcTbVNMvc6arvq82cQoTCHd5xfQR87Vu/ethereum/assets/0x1a2277C83930b7a64C3e3D5544Eaa8C4f946B1B7/logo.png"
 }

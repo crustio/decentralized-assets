@@ -7,5 +7,6 @@
     "symbol": "APE",
     "decimals": 18,
     "status": "active",
-    "id": "0x209C1808FeBf6c1aB7C65764bb61AD67d3923fcc"
+    "id": "0x209C1808FeBf6c1aB7C65764bb61AD67d3923fcc",
+    "logo": "ipfs://QmVwPKfaYTWqcAVcTbVNMvc6arvq82cQoTCHd5xfQR87Vu/ethereum/assets/0x209C1808FeBf6c1aB7C65764bb61AD67d3923fcc/logo.png"
 }

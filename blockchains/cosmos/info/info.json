@@ -28,5 +28,6 @@
             "name": "whitepaper",
             "url": "https://cosmos.network/resources/whitepaper"
         }
-    ]
+    ],
+    "logo": "ipfs://QmVwPKfaYTWqcAVcTbVNMvc6arvq82cQoTCHd5xfQR87Vu/cosmos/info/logo.png"
 }

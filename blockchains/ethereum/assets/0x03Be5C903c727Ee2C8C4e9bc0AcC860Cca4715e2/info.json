@@ -7,5 +7,6 @@
     "description": "TERNOA is a blockchain designed to provide secured, decentralized, and long-term data transmission. TERNOA relies upon the use of NFTs as vehicles to store encrypted data across long periods of time, and built-in oracles to trigger data releases to third parties.",
     "explorer": "https://etherscan.io/token/0x03Be5C903c727Ee2C8C4e9bc0AcC860Cca4715e2",
     "status": "active",
-    "id": "0x03Be5C903c727Ee2C8C4e9bc0AcC860Cca4715e2"
+    "id": "0x03Be5C903c727Ee2C8C4e9bc0AcC860Cca4715e2",
+    "logo": "ipfs://QmVwPKfaYTWqcAVcTbVNMvc6arvq82cQoTCHd5xfQR87Vu/ethereum/assets/0x03Be5C903c727Ee2C8C4e9bc0AcC860Cca4715e2/logo.png"
 }

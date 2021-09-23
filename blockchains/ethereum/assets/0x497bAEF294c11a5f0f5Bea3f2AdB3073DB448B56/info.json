@@ -7,5 +7,6 @@
     "website": "https://www.coinbit.co.kr/",
     "explorer": "https://etherscan.io/token/0x497bAEF294c11a5f0f5Bea3f2AdB3073DB448B56",
     "status": "active",
-    "id": "0x497bAEF294c11a5f0f5Bea3f2AdB3073DB448B56"
+    "id": "0x497bAEF294c11a5f0f5Bea3f2AdB3073DB448B56",
+    "logo": "ipfs://QmVwPKfaYTWqcAVcTbVNMvc6arvq82cQoTCHd5xfQR87Vu/ethereum/assets/0x497bAEF294c11a5f0f5Bea3f2AdB3073DB448B56/logo.png"
 }

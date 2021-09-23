@@ -7,5 +7,6 @@
     "symbol": "EEUR",
     "decimals": 6,
     "status": "active",
-    "id": "0x0BaDD7aF129EFAc1f7bB7253716A589cc5E6c17c"
+    "id": "0x0BaDD7aF129EFAc1f7bB7253716A589cc5E6c17c",
+    "logo": "ipfs://QmVwPKfaYTWqcAVcTbVNMvc6arvq82cQoTCHd5xfQR87Vu/ethereum/assets/0x0BaDD7aF129EFAc1f7bB7253716A589cc5E6c17c/logo.png"
 }

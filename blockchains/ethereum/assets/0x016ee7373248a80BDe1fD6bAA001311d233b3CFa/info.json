@@ -7,5 +7,6 @@
     "website": "https://ftx.com/tokens/BEAR",
     "explorer": "https://etherscan.io/token/0x016ee7373248a80BDe1fD6bAA001311d233b3CFa",
     "status": "active",
-    "id": "0x016ee7373248a80BDe1fD6bAA001311d233b3CFa"
+    "id": "0x016ee7373248a80BDe1fD6bAA001311d233b3CFa",
+    "logo": "ipfs://QmVwPKfaYTWqcAVcTbVNMvc6arvq82cQoTCHd5xfQR87Vu/ethereum/assets/0x016ee7373248a80BDe1fD6bAA001311d233b3CFa/logo.png"
 }

@@ -7,5 +7,6 @@
     "website": "https://apot.io/",
     "explorer": "https://etherscan.io/token/0x16c1E5BAF21b9Fa4BC9f2C374E4dC19fAB5Ac5Dc",
     "status": "active",
-    "id": "0x16c1E5BAF21b9Fa4BC9f2C374E4dC19fAB5Ac5Dc"
+    "id": "0x16c1E5BAF21b9Fa4BC9f2C374E4dC19fAB5Ac5Dc",
+    "logo": "ipfs://QmVwPKfaYTWqcAVcTbVNMvc6arvq82cQoTCHd5xfQR87Vu/ethereum/assets/0x16c1E5BAF21b9Fa4BC9f2C374E4dC19fAB5Ac5Dc/logo.png"
 }

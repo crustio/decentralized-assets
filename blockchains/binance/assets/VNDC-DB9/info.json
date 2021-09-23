@@ -7,5 +7,6 @@
     "website": "https://vndc.io/",
     "explorer": "https://explorer.binance.org/asset/VNDC-DB9",
     "status": "active",
-    "id": "VNDC-DB9"
+    "id": "VNDC-DB9",
+    "logo": "ipfs://QmVwPKfaYTWqcAVcTbVNMvc6arvq82cQoTCHd5xfQR87Vu/binance/assets/VNDC-DB9/logo.png"
 }

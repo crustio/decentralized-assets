@@ -33,5 +33,6 @@
             "name": "docs",
             "url": "https://docs.unicrypt.network/"
         }
-    ]
+    ],
+    "logo": "ipfs://QmVwPKfaYTWqcAVcTbVNMvc6arvq82cQoTCHd5xfQR87Vu/ethereum/assets/0x2f4eb47A1b1F4488C71fc10e39a4aa56AF33Dd49/logo.png"
 }

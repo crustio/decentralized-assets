@@ -41,5 +41,6 @@
             "name": "coingecko",
             "url": "https://coingecko.com/en/coins/revain/"
         }
-    ]
+    ],
+    "logo": "ipfs://QmVwPKfaYTWqcAVcTbVNMvc6arvq82cQoTCHd5xfQR87Vu/ethereum/assets/0x2ef52Ed7De8c5ce03a4eF0efbe9B7450F2D7Edc9/logo.png"
 }

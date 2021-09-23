@@ -30,5 +30,6 @@
             "name": "coingecko",
             "url": "https://coingecko.com/en/coins/uniswap/"
         }
-    ]
+    ],
+    "logo": "ipfs://QmVwPKfaYTWqcAVcTbVNMvc6arvq82cQoTCHd5xfQR87Vu/ethereum/assets/0x1f9840a85d5aF5bf1D1762F925BDADdC4201F984/logo.png"
 }

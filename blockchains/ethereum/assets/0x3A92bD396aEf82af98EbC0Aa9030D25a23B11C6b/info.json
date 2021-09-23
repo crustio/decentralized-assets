@@ -7,5 +7,6 @@
     "website": "https://tokenbox.io/",
     "explorer": "https://etherscan.io/token/0x3A92bD396aEf82af98EbC0Aa9030D25a23B11C6b",
     "status": "active",
-    "id": "0x3A92bD396aEf82af98EbC0Aa9030D25a23B11C6b"
+    "id": "0x3A92bD396aEf82af98EbC0Aa9030D25a23B11C6b",
+    "logo": "ipfs://QmVwPKfaYTWqcAVcTbVNMvc6arvq82cQoTCHd5xfQR87Vu/ethereum/assets/0x3A92bD396aEf82af98EbC0Aa9030D25a23B11C6b/logo.png"
 }

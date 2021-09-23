@@ -7,5 +7,6 @@
     "website": "https://herc.one/",
     "explorer": "https://etherscan.io/token/0x2e91E3e54C5788e9FdD6A181497FDcEa1De1bcc1",
     "status": "active",
-    "id": "0x2e91E3e54C5788e9FdD6A181497FDcEa1De1bcc1"
+    "id": "0x2e91E3e54C5788e9FdD6A181497FDcEa1De1bcc1",
+    "logo": "ipfs://QmVwPKfaYTWqcAVcTbVNMvc6arvq82cQoTCHd5xfQR87Vu/ethereum/assets/0x2e91E3e54C5788e9FdD6A181497FDcEa1De1bcc1/logo.png"
 }

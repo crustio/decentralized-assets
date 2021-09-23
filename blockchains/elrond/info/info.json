@@ -7,5 +7,6 @@
     "symbol": "eGLD",
     "type": "coin",
     "decimals": 18,
-    "status": "active"
+    "status": "active",
+    "logo": "ipfs://QmVwPKfaYTWqcAVcTbVNMvc6arvq82cQoTCHd5xfQR87Vu/elrond/info/logo.png"
 }

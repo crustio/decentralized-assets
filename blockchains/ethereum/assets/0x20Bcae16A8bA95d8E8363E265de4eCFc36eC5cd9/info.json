@@ -7,5 +7,6 @@
     "website": "https://www.heybitcoin.io/",
     "explorer": "https://etherscan.io/token/0x20Bcae16A8bA95d8E8363E265de4eCFc36eC5cd9",
     "status": "active",
-    "id": "0x20Bcae16A8bA95d8E8363E265de4eCFc36eC5cd9"
+    "id": "0x20Bcae16A8bA95d8E8363E265de4eCFc36eC5cd9",
+    "logo": "ipfs://QmVwPKfaYTWqcAVcTbVNMvc6arvq82cQoTCHd5xfQR87Vu/ethereum/assets/0x20Bcae16A8bA95d8E8363E265de4eCFc36eC5cd9/logo.png"
 }

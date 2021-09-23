@@ -26,5 +26,6 @@
             "name": "coingecko",
             "url": "https://coingecko.com/en/coins/uma/"
         }
-    ]
+    ],
+    "logo": "ipfs://QmVwPKfaYTWqcAVcTbVNMvc6arvq82cQoTCHd5xfQR87Vu/ethereum/assets/0x04Fa0d235C4abf4BcF4787aF4CF447DE572eF828/logo.png"
 }

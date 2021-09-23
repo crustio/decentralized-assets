@@ -25,5 +25,6 @@
             "name": "whitepaper",
             "url": "https://github.com/BTCGPU/BTCGPU/wiki/Technical-Spec"
         }
-    ]
+    ],
+    "logo": "ipfs://QmVwPKfaYTWqcAVcTbVNMvc6arvq82cQoTCHd5xfQR87Vu/bitcoingold/info/logo.png"
 }

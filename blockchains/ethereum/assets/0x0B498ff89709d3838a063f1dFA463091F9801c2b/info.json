@@ -7,5 +7,6 @@
     "description": "The Bitcoin 2x Flexible Leverage Index lets you leverage a collateralized debt position in a safe and efficient way, by abstracting its management into a simple index.",
     "explorer": "https://etherscan.io/token/0x0b498ff89709d3838a063f1dfa463091f9801c2b",
     "status": "active",
-    "id": "0x0B498ff89709d3838a063f1dFA463091F9801c2b"
+    "id": "0x0B498ff89709d3838a063f1dFA463091F9801c2b",
+    "logo": "ipfs://QmVwPKfaYTWqcAVcTbVNMvc6arvq82cQoTCHd5xfQR87Vu/ethereum/assets/0x0B498ff89709d3838a063f1dFA463091F9801c2b/logo.png"
 }

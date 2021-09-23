@@ -7,5 +7,6 @@
     "symbol": "CNYx",
     "decimals": 9,
     "status": "active",
-    "id": "0x07f89875b1F142AbCba60FF1D7FCFb7Fe404d4ed"
+    "id": "0x07f89875b1F142AbCba60FF1D7FCFb7Fe404d4ed",
+    "logo": "ipfs://QmVwPKfaYTWqcAVcTbVNMvc6arvq82cQoTCHd5xfQR87Vu/ethereum/assets/0x07f89875b1F142AbCba60FF1D7FCFb7Fe404d4ed/logo.png"
 }

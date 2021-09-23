@@ -7,5 +7,6 @@
     "id": "0x23696914Ca9737466D8553a2d619948f548Ee424",
     "type": "ERC20",
     "symbol": "stkTRU",
-    "status": "active"
+    "status": "active",
+    "logo": "ipfs://QmVwPKfaYTWqcAVcTbVNMvc6arvq82cQoTCHd5xfQR87Vu/ethereum/assets/0x23696914Ca9737466D8553a2d619948f548Ee424/logo.png"
 }

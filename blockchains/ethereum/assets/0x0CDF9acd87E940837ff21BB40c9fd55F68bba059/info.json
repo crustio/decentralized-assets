@@ -7,5 +7,6 @@
     "symbol": "MINT",
     "decimals": 18,
     "status": "active",
-    "id": "0x0CDF9acd87E940837ff21BB40c9fd55F68bba059"
+    "id": "0x0CDF9acd87E940837ff21BB40c9fd55F68bba059",
+    "logo": "ipfs://QmVwPKfaYTWqcAVcTbVNMvc6arvq82cQoTCHd5xfQR87Vu/ethereum/assets/0x0CDF9acd87E940837ff21BB40c9fd55F68bba059/logo.png"
 }

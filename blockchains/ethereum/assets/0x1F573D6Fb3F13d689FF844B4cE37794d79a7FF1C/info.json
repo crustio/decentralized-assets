@@ -38,5 +38,6 @@
             "name": "coingecko",
             "url": "https://coingecko.com/en/coins/bancor/"
         }
-    ]
+    ],
+    "logo": "ipfs://QmVwPKfaYTWqcAVcTbVNMvc6arvq82cQoTCHd5xfQR87Vu/ethereum/assets/0x1F573D6Fb3F13d689FF844B4cE37794d79a7FF1C/logo.png"
 }

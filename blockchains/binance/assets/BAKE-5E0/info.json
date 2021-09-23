@@ -7,5 +7,6 @@
     "description": "-",
     "explorer": "https://explorer.binance.org/asset/BAKE-5E0",
     "status": "active",
-    "id": "BAKE-5E0"
+    "id": "BAKE-5E0",
+    "logo": "ipfs://QmVwPKfaYTWqcAVcTbVNMvc6arvq82cQoTCHd5xfQR87Vu/binance/assets/BAKE-5E0/logo.png"
 }

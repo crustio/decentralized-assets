@@ -25,5 +25,6 @@
             "name": "whitepaper",
             "url": "https://github.com/EOSIO/Documentation/blob/master/TechnicalWhitePaper.md"
         }
-    ]
+    ],
+    "logo": "ipfs://QmVwPKfaYTWqcAVcTbVNMvc6arvq82cQoTCHd5xfQR87Vu/eos/info/logo.png"
 }

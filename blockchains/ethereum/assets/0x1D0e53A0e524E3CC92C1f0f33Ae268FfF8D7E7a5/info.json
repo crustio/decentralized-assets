@@ -7,5 +7,6 @@
     "symbol": "aUniUSDCETH",
     "decimals": 18,
     "status": "active",
-    "id": "0x1D0e53A0e524E3CC92C1f0f33Ae268FfF8D7E7a5"
+    "id": "0x1D0e53A0e524E3CC92C1f0f33Ae268FfF8D7E7a5",
+    "logo": "ipfs://QmVwPKfaYTWqcAVcTbVNMvc6arvq82cQoTCHd5xfQR87Vu/ethereum/assets/0x1D0e53A0e524E3CC92C1f0f33Ae268FfF8D7E7a5/logo.png"
 }

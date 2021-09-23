@@ -7,5 +7,6 @@
     "website": "https://bzx.network/",
     "explorer": "https://etherscan.io/token/0x123F2B75b9a7a9da8dC483976bFd81EfF9f0EA8d",
     "status": "abandoned",
-    "id": "0x123F2B75b9a7a9da8dC483976bFd81EfF9f0EA8d"
+    "id": "0x123F2B75b9a7a9da8dC483976bFd81EfF9f0EA8d",
+    "logo": "ipfs://QmVwPKfaYTWqcAVcTbVNMvc6arvq82cQoTCHd5xfQR87Vu/ethereum/assets/0x123F2B75b9a7a9da8dC483976bFd81EfF9f0EA8d/logo.png"
 }

@@ -41,5 +41,6 @@
             "name": "coinmarketcap",
             "url": "https://coinmarketcap.com/currencies/civilization/"
         }
-    ]
+    ],
+    "logo": "ipfs://QmVwPKfaYTWqcAVcTbVNMvc6arvq82cQoTCHd5xfQR87Vu/ethereum/assets/0x37fE0f067FA808fFBDd12891C0858532CFE7361d/logo.png"
 }

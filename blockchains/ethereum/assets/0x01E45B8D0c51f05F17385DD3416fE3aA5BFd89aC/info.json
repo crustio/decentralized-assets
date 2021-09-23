@@ -7,5 +7,6 @@
     "website": "https://www.coinbig.com/cb.html",
     "explorer": "https://etherscan.io/token/0x01E45B8D0c51f05F17385DD3416fE3aA5BFd89aC",
     "status": "abandoned",
-    "id": "0x01E45B8D0c51f05F17385DD3416fE3aA5BFd89aC"
+    "id": "0x01E45B8D0c51f05F17385DD3416fE3aA5BFd89aC",
+    "logo": "ipfs://QmVwPKfaYTWqcAVcTbVNMvc6arvq82cQoTCHd5xfQR87Vu/ethereum/assets/0x01E45B8D0c51f05F17385DD3416fE3aA5BFd89aC/logo.png"
 }
